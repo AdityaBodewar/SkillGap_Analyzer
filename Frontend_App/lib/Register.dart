@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:pracccc/apiservice.dart';
 
 class Register extends StatefulWidget{
 
@@ -12,6 +13,49 @@ class _Register extends State<Register>{
   TextEditingController username = TextEditingController();
   TextEditingController age = TextEditingController();
   TextEditingController password = TextEditingController();
+
+
+  Future<void> register() async {
+    if(email.text.isEmpty || username.text.isEmpty || password.text.isEmpty || age.text.isEmpty){
+
+      ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text("enter all field"),
+            backgroundColor: Colors.red,)
+      );
+      return;
+    }
+ final res = await Apiservice.register(
+    username: username.text,
+    email: email.text,
+    age: age.text,
+    password: password.text
+);
+
+    if(res['message']!=null){
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text(res["message"]),
+          backgroundColor: Colors.green,
+        ),
+      );
+    }else{
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text(res["error"]),
+          backgroundColor: Colors.red,
+        ),
+      );
+    }
+
+
+
+
+
+
+  }
+
+
+
 
   @override
   Widget build(BuildContext context) {
@@ -84,17 +128,7 @@ class _Register extends State<Register>{
                SizedBox( 
                    width: double.infinity,
                    height: 45,
-                   child:ElevatedButton(onPressed: (){
-                     if(email.text.isEmpty || username.text.isEmpty || password.text.isEmpty || age.text.isEmpty){
-                       
-                       ScaffoldMessenger.of(context).showSnackBar(
-                         SnackBar(content: Text("enter all field"),
-                         backgroundColor: Colors.red,)
-                       );
-                     }
-
-
-                   },
+                   child:ElevatedButton(onPressed:register,
                    style: ElevatedButton.styleFrom(
                      backgroundColor: Colors.blue,
 
