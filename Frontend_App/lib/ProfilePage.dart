@@ -10,8 +10,6 @@ class _profilePage extends State<Profilepage>{
   Widget build(BuildContext context) {
     return Scaffold(
 
-      
-
     );
 
   }
