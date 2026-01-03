@@ -63,6 +63,7 @@ class _Register extends State<Register>{
                const SizedBox(height: 20,),
                TextField(
                  controller: age,
+                 keyboardType: TextInputType.number,
                  decoration: InputDecoration(
                    label: Text("Enter Age"),
                    border: OutlineInputBorder(),
