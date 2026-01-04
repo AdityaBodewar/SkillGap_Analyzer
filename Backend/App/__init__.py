@@ -10,7 +10,4 @@ def Start_App():
     mongo_Connection(app)
     Cloud_connection(app)
     Register_Routes(app)
-
-
-
     return app
