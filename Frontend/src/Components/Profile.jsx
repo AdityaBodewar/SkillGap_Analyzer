@@ -1,13 +1,14 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import default_profile from '../assets/default_profile.webp'
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
+import axios from 'axios'
 
 const Profile = () => {
 
     const navigator=useNavigate();
 
-    const [user,setUser]=useState({"Username":"Priyanshu","Email":"Priyanshu@123","Age":"20"});
+    const [user,setUser]=useState({"Username":"","Email":"","Age":""});
 const handleLogout=()=>{
 
     localStorage.removeItem("Token");
@@ -15,6 +16,15 @@ const handleLogout=()=>{
     navigator("/");
     
 }
+const Token=localStorage.getItem("Token")
+
+useEffect((e)=>{
+
+  axios.get("http://127.0.0.1:5000/api/users/Profile",{headers:{Authorization:`Bearer ${Token}`}})
+  .then(res=>{setUser(res.data.userdata)})
+  .catch(err=>{alert(err.response.data.error)});
+
+},[])
 
 
   return (
