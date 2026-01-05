@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:pracccc/apiservice.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'LoginPage.dart';
 
@@ -9,9 +10,41 @@ class Profilepage extends StatefulWidget {
 
 class _ProfilePage extends State<Profilepage> {
 
+  String username = "";
+  String email = "";
+  int age = 0;
+  bool loading = true;
+
+  @override
+  void initState() {
+    super.initState();
+    loadProfile();
+  }
+
+  Future<void> loadProfile() async {
+    try {
+      final res = await Apiservice.getProfile();
+
+      if (!mounted) return;
+
+      final user = res["userdata"];
+
+      setState(() {
+        username = user["Username"];
+        email = user["Email"];
+        age = int.parse(user["Age"].toString());
+        loading = false;
+      });
+    } catch (e) {
+      print("PROFILE ERROR: $e");
+
+      logout();
+    }
+  }
+
   Future<void> logout() async {
     final prefs = await SharedPreferences.getInstance();
-    await prefs.remove("token");
+    await prefs.clear();
 
     Navigator.pushAndRemoveUntil(
       context,
@@ -32,35 +65,27 @@ class _ProfilePage extends State<Profilepage> {
           )
         ],
       ),
-      body: Center(
+      body: loading
+          ? Center(child: CircularProgressIndicator())
+          : Center(
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
             CircleAvatar(
-              radius: 45,
-              child: Icon(Icons.person, size: 45),
+              radius: 40,
+              child: Icon(Icons.person, size: 40),
             ),
-
-            const SizedBox(height: 15),
+            SizedBox(height: 15),
 
             Text(
-              "User Name",
-              style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+              username,
+              style: TextStyle(
+                fontSize: 18,
+                fontWeight: FontWeight.bold,
+              ),
             ),
-
-            const SizedBox(height: 5),
-
-            Text(
-              "user@email.com",
-              style: TextStyle(color: Colors.grey),
-            ),
-
-            const SizedBox(height: 30),
-
-            ElevatedButton(
-              onPressed: logout,
-              child: Text("Logout"),
-            )
+            Text(email),
+            Text("Age: $age"),
           ],
         ),
       ),
