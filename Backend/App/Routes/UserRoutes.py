@@ -1,6 +1,8 @@
 from flask import Blueprint, jsonify,request
 from App import extensions
-from App.Auth import Generate_Token
+from App.Auth import Generate_Token,IdentityOfUser
+from bson import ObjectId
+
 
 user_bp = Blueprint("users", __name__)
 
@@ -63,3 +65,14 @@ def Login():
         return jsonify({"message":"Login Successfull","Token":token,"Role":"user"}),200
     except Exception as e:
         return jsonify({"error",str(e)}),500
+
+@user_bp.route("/Profile",methods=["Get"])
+@IdentityOfUser
+def Profile(user_id):
+    try:
+        
+        data=extensions.db.Users.find_one({"_id":ObjectId(user_id)},{"Password":0})
+        data["_id"]=str(data["_id"])
+        return jsonify({"message":"fetched successfully","userdata":data}),200
+    except Exception as e:
+        return jsonify({"error":str(e)}),500
