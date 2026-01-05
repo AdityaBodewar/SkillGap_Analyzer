@@ -1,23 +1,27 @@
 import 'package:flutter/material.dart';
 import 'package:pracccc/LoginPage.dart';
 import 'package:pracccc/MainScreen.dart';
-import 'package:pracccc/Register.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
-void main() {
-  runApp( MyApp());
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+
+  final prefs = await SharedPreferences.getInstance();
+  final String? token = prefs.getString("token");
+
+  runApp(MyApp(token: token));
 }
 
-class MyApp extends StatelessWidget{
+class MyApp extends StatelessWidget {
+  final String? token;
+
+  const MyApp({Key? key, this.token}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-   return MaterialApp(
-     debugShowCheckedModeBanner: false,
-     home: Register(),
-
-   );
-
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: token != null ? MainScreen() : LoginPage(),
+    );
   }
 }
-
-

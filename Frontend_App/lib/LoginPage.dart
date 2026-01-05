@@ -1,4 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:pracccc/MainScreen.dart';
+import 'package:pracccc/Register.dart';
+import 'package:pracccc/apiservice.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+
 
 class LoginPage extends StatefulWidget {
   @override
@@ -6,6 +11,61 @@ class LoginPage extends StatefulWidget {
 }
 
 class _Loginpage extends State<LoginPage> {
+
+  TextEditingController email = TextEditingController();
+  TextEditingController password = TextEditingController();
+
+  Future<void> saveToken(String token) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setString("token", token);
+  }
+
+
+  Future<void> login() async{
+
+    final emailtxt = email.text.trim();
+    final passtxt = password.text.trim();
+
+    if(emailtxt.isEmpty || passtxt.isEmpty){
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text("Enter all field"),backgroundColor: Colors.red,)
+      );
+      return;
+    }
+
+    final res = await Apiservice.login(
+        email: emailtxt,
+        password: passtxt,
+    );
+
+    if (res["Token"] != null){
+
+      await saveToken(res["Token"]);
+
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text(res["message"]),
+          backgroundColor: Colors.green,
+        ),
+      );
+
+      Navigator.pushReplacement(
+        context,
+        MaterialPageRoute(builder: (_) => MainScreen()),
+      );
+
+
+
+    } else {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text(res["error"] ?? "Login Failed"),
+          backgroundColor: Colors.red,
+        ),
+      );
+    }
+
+  }
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -40,6 +100,7 @@ class _Loginpage extends State<LoginPage> {
                 const SizedBox(height: 20),
 
                 TextField(
+                  controller: email,
                   decoration: InputDecoration(
                     labelText: "Enter email",
                     border: OutlineInputBorder(),
@@ -49,6 +110,7 @@ class _Loginpage extends State<LoginPage> {
                 const SizedBox(height: 20),
 
                 TextField(
+                  controller: password,
                   obscureText: true,
                   decoration: InputDecoration(
                     labelText: "Password",
@@ -62,7 +124,7 @@ class _Loginpage extends State<LoginPage> {
                   width: double.infinity,
                   height: 45,
                   child: ElevatedButton(
-                    onPressed: () {},
+                    onPressed: () { login();},
                     style: ElevatedButton.styleFrom(
                       backgroundColor: Colors.blue,
                     ),
@@ -74,7 +136,15 @@ class _Loginpage extends State<LoginPage> {
                       ),
                     ),
                   ),
-                )
+
+
+                ),
+                SizedBox(height: 20,),
+                TextButton(onPressed: (){ Navigator.pushReplacement(
+                  context,
+                  MaterialPageRoute(builder: (_) => Register()),
+                );}, child: Text("Register",style: TextStyle(color: Colors.blue),))
+
               ],
             ),
           ),
