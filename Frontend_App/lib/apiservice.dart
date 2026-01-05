@@ -1,6 +1,7 @@
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
+import 'package:shared_preferences/shared_preferences.dart';
 
 class Apiservice {
   static const String apiuri = "http://10.122.214.81:5000";
@@ -49,4 +50,21 @@ class Apiservice {
       return {"error": e.toString()};
     }
   }
+
+  static Future<Map<String, dynamic>> getProfile() async {
+    final prefs = await SharedPreferences.getInstance();
+    final token = prefs.getString("token");
+
+    final uri = Uri.parse("$apiuri/api/users/Profile");
+
+    final response = await http.get(
+      uri,
+      headers: {
+        "Authorization": "Bearer $token",
+      },
+    );
+
+    return jsonDecode(response.body);
+  }
+
 }
