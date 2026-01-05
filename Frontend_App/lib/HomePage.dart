@@ -1,27 +1,41 @@
 import 'package:flutter/material.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+import 'LoginPage.dart';
 
-class HomePage extends StatefulWidget{
-
+class HomePage extends StatefulWidget {
+  @override
   State<HomePage> createState() => _HomePage();
 }
 
-class _HomePage extends State<HomePage>{
+class _HomePage extends State<HomePage> {
+
+  Future<void> logout(BuildContext context) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.remove("token");
+
+    Navigator.pushAndRemoveUntil(
+      context,
+      MaterialPageRoute(builder: (_) => LoginPage()),
+          (route) => false,
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
-   return Scaffold(
+    return Scaffold(
+      appBar: AppBar(
+        leading: Icon(Icons.menu_rounded),
+        title: Text("Home"),
 
-     appBar: AppBar(
-       leading: Icon(Icons.menu_rounded),
-
-       actions: [
-         Padding(padding: EdgeInsets.only(right: 16),
-           child: Icon(Icons.person)),
-
-
-
-       ],
-     ),
-   );
-
+        actions: [
+          IconButton(
+            icon: Icon(Icons.logout),
+            onPressed: () {
+              logout(context);
+            },
+          ),
+        ],
+      ),
+    );
   }
 }

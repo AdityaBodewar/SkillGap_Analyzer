@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:pracccc/LoginPage.dart';
 import 'package:pracccc/apiservice.dart';
 
 class Register extends StatefulWidget{
@@ -38,6 +39,11 @@ class _Register extends State<Register>{
           backgroundColor: Colors.green,
         ),
       );
+      Navigator.pushReplacement(
+        context,
+        MaterialPageRoute(builder: (_) => LoginPage()),
+      );
+
     }else{
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
@@ -132,7 +138,13 @@ class _Register extends State<Register>{
                    ),
 
                    child: Text("Register",style: TextStyle(color: Colors.white,fontWeight: FontWeight.bold),))
-               )
+               ),
+
+               SizedBox(height: 20,),
+               TextButton(onPressed: (){ Navigator.pushReplacement(
+                 context,
+                 MaterialPageRoute(builder: (_) => LoginPage()),
+               );}, child: Text("Login",style: TextStyle(color: Colors.blue),))
               
 
              ],
