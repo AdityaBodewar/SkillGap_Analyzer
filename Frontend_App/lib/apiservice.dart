@@ -66,5 +66,4 @@ class Apiservice {
 
     return jsonDecode(response.body);
   }
-
 }
