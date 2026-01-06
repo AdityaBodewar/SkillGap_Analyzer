@@ -3,25 +3,25 @@ import 'package:pracccc/LoginPage.dart';
 import 'package:pracccc/MainScreen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-void main() async {
-  WidgetsFlutterBinding.ensureInitialized();
+void main() {
+  // WidgetsFlutterBinding.ensureInitialized();
+  //
+  // final prefs = await SharedPreferences.getInstance();
+  // final String? token = prefs.getString("token");
 
-  final prefs = await SharedPreferences.getInstance();
-  final String? token = prefs.getString("token");
-
-  runApp(MyApp(token: token));
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
-  final String? token;
+  // final String? token;
 
-  const MyApp({Key? key, this.token}) : super(key: key);
+  // const MyApp({Key? key, this.token}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: token != null ? MainScreen() : LoginPage(),
+      home: LoginPage(),
     );
   }
 }
