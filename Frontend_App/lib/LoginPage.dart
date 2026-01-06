@@ -12,6 +12,25 @@ class LoginPage extends StatefulWidget {
 
 class _Loginpage extends State<LoginPage> {
 
+  @override
+  void initState() {
+    super.initState();
+    checkToken();
+
+  }
+
+  Future<void>checkToken() async{
+   final prefs = await SharedPreferences.getInstance();
+   final token = prefs.getString("token");
+   
+   if(token!=null){
+     Navigator.pushReplacement(
+       context,
+       MaterialPageRoute(builder: (_)=> MainScreen())
+     );
+   }
+  }
+
   TextEditingController email = TextEditingController();
   TextEditingController password = TextEditingController();
 
