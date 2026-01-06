@@ -15,11 +15,7 @@ def Generate_Token(userId,Role):
     return token
 
 def Decode_Token(token):
-    try:
         decode=jwt.decode(token,secret,algorithms="HS256")
         return decode
-    except jwt.ExpiredSignatureError:
-        return jsonify({"error":"Token has Expired Login again"}),403
-    except jwt.InvalidTokenError:
-        return jsonify({"error":"Token invalid Login again"}),403
+   
         
