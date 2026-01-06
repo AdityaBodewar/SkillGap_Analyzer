@@ -17,7 +17,6 @@ def mongo_Connection(app):
     try:
         mongo_client=MongoClient(mongo_uri)
         db=mongo_client["PractiseDB"]
-        print(db)
         print("Mongo Db Connected Successfully")
     except Exception as e:
         print("error :"+str(e))
