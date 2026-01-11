@@ -125,7 +125,6 @@ class _ProfilePage extends State<Profilepage> {
                   ),
 
                   const SizedBox(height: 20),
-
                   SizedBox(
                     width: double.infinity,
                     child: ElevatedButton.icon(

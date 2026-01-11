@@ -18,7 +18,6 @@ class _Loginpage extends State<LoginPage> {
     checkToken();
 
   }
-
   Future<void>checkToken() async{
    final prefs = await SharedPreferences.getInstance();
    final token = prefs.getString("token");

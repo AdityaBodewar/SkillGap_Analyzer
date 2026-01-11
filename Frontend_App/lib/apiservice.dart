@@ -50,7 +50,6 @@ class Apiservice {
       return {"error": e.toString()};
     }
   }
-
   static Future<Map<String, dynamic>> getProfile() async {
     final prefs = await SharedPreferences.getInstance();
     final token = prefs.getString("token");
