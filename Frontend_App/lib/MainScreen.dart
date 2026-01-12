@@ -13,7 +13,6 @@ int currentindex=0;
     HomePage(),
     Profilepage(),
   ];
-
   @override
   Widget build(BuildContext context) {
 
