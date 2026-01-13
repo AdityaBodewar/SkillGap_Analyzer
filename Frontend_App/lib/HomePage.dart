@@ -35,6 +35,7 @@ Future<void> logout(BuildContext context) async {
       MaterialPageRoute(builder: (_) => LoginPage()),
           (route) => false,
     );
+
   }
   @override
   Widget build(BuildContext context) {
