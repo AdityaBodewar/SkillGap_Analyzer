@@ -22,7 +22,9 @@ useEffect((e)=>{
 
   axios.get("http://127.0.0.1:5000/api/users/Profile",{headers:{Authorization:`Bearer ${Token}`}})
   .then(res=>{setUser(res.data.userdata)})
-  .catch(err=>{alert(err.response.data.error)});
+  .catch(err=>{alert(err.response.data.error);
+    navigator("/Login")
+  });
 
 },[])
 
