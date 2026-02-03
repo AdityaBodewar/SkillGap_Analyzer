@@ -1,0 +1,1201 @@
+job_role,main_skill,additional_skills,education,experience_years,projects_count,certifications_count,is_user_ready_for_job,targeted_job,skills_required_to_learn
+Flutter Developer,"Dart, Flutter","Git, Docker, Linux, Firebase, AWS",Diploma,1-3,4,1,Yes,Flutter Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","MongoDB, REST API, AWS, Firebase, DSA",MCA,3-5,4,0,No,Frontend Developer,"HTML, CSS, JavaScript"
+Backend Developer,"Java, Spring Boot, Node.js","Git, DSA",Diploma,3-5,6,3,Yes,Backend Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Git, DSA, System Design",B.Sc,3-5,1,0,No,Backend Developer,"Node.js, Java, Spring Boot"
+Java Developer,"Java, OOP, Spring","REST API, Linux, Docker, AWS, Firebase",B.Sc,1-3,3,3,Yes,Java Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","REST API, CI/CD, MongoDB, AWS, Git",BCA,Fresher,1,2,No,ML Engineer,Deep Learning
+Backend Developer,"Java, Spring Boot, Node.js","REST API, MongoDB",B.Tech,Fresher,4,0,No,Backend Developer,"Spring Boot, Java"
+Python Developer,"Python, Flask, Django","DSA, Git",M.Sc,1-3,1,4,No,Python Developer,Django
+Android Developer,"Java, Kotlin, Android SDK","DSA, Git",BCA,3-5,6,3,Yes,Android Developer,None
+Android Developer,"Java, Kotlin, Android SDK","Firebase, System Design",MCA,3-5,3,1,Yes,Android Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","REST API, AWS, Firebase, Linux, Docker",Diploma,1-3,0,3,No,Backend Developer,"Java, Spring Boot"
+Full Stack Developer,"JavaScript, React, Node.js","Docker, Linux, MongoDB",BCA,0-1,3,3,Yes,Full Stack Developer,None
+Flutter Developer,"Dart, Flutter","Docker, System Design, AWS, MongoDB",M.Sc,3-5,0,2,No,Flutter Developer,Dart
+Python Developer,"Python, Flask, Django","AWS, Linux, DSA",Diploma,3-5,2,3,Yes,Python Developer,None
+Android Developer,"Java, Kotlin, Android SDK","AWS, Docker, REST API, Git",BCA,0-1,1,1,No,Android Developer,Kotlin
+ML Engineer,"Python, Deep Learning, TensorFlow","Docker, Git, REST API",M.Sc,3-5,5,4,Yes,ML Engineer,None
+Full Stack Developer,"JavaScript, React, Node.js","AWS, Linux",B.Sc,Fresher,1,1,No,Full Stack Developer,Node.js
+Flutter Developer,"Dart, Flutter","Docker, Linux",B.Sc,Fresher,3,3,Yes,Flutter Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","Firebase, REST API, System Design, Linux, AWS",BCA,1-3,0,4,No,Data Scientist,Machine Learning
+Flutter Developer,"Dart, Flutter","DSA, Firebase, AWS",BCA,0-1,3,2,Yes,Flutter Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","Docker, Linux, MongoDB, REST API, System Design",MCA,3-5,3,0,No,Full Stack Developer,Node.js
+Data Scientist,"Python, Machine Learning, Statistics","CI/CD, MongoDB, Docker, Git",B.Sc,0-1,0,2,No,Data Scientist,Statistics
+Android Developer,"Java, Kotlin, Android SDK","MongoDB, Firebase, CI/CD, REST API, DSA",MCA,Fresher,2,1,Yes,Android Developer,None
+Data Analyst,"Python, SQL, Excel","Firebase, Docker",B.Sc,1-3,5,2,Yes,Data Analyst,None
+Flutter Developer,"Dart, Flutter","System Design, AWS",B.Sc,0-1,6,3,Yes,Flutter Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","REST API, Linux",MCA,1-3,6,2,Yes,Backend Developer,None
+Python Developer,"Python, Flask, Django","Linux, AWS",MCA,3-5,0,0,No,Python Developer,Python
+ML Engineer,"Python, Deep Learning, TensorFlow","Firebase, AWS, Git",M.Sc,0-1,6,2,Yes,ML Engineer,None
+Frontend Developer,"HTML, CSS, JavaScript","Linux, REST API, MongoDB",B.Sc,0-1,0,0,No,Frontend Developer,"HTML, JavaScript"
+Backend Developer,"Java, Spring Boot, Node.js","Docker, System Design, MongoDB, Linux",B.Tech,3-5,4,4,Yes,Backend Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","CI/CD, Firebase, MongoDB, REST API",B.Sc,3-5,4,4,Yes,ML Engineer,None
+Frontend Developer,"HTML, CSS, JavaScript","CI/CD, Linux",MCA,Fresher,2,3,Yes,Frontend Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","CI/CD, Git, MongoDB, Linux",B.Tech,1-3,4,3,Yes,ML Engineer,None
+Data Analyst,"Python, SQL, Excel","CI/CD, Git",B.Sc,0-1,2,2,Yes,Data Analyst,None
+Frontend Developer,"HTML, CSS, JavaScript","Firebase, System Design, REST API, Docker",MCA,1-3,6,1,Yes,Frontend Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","System Design, REST API",M.Sc,1-3,1,3,No,Backend Developer,"Spring Boot, Node.js"
+Java Developer,"Java, OOP, Spring","System Design, DSA",BCA,0-1,2,1,Yes,Java Developer,None
+Android Developer,"Java, Kotlin, Android SDK","MongoDB, REST API, CI/CD, Linux, Docker",B.Tech,3-5,6,0,No,Android Developer,"Android SDK, Kotlin, Java"
+ML Engineer,"Python, Deep Learning, TensorFlow","Docker, Linux, Git, Firebase",BCA,1-3,1,1,No,ML Engineer,"TensorFlow, Deep Learning"
+Python Developer,"Python, Flask, Django","REST API, MongoDB, CI/CD, DSA",BCA,3-5,2,0,No,Python Developer,"Python, Django"
+Java Developer,"Java, OOP, Spring","Linux, Git, AWS, System Design",Diploma,Fresher,5,2,Yes,Java Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Git, CI/CD",M.Sc,0-1,1,0,No,Backend Developer,"Java, Node.js"
+Java Developer,"Java, OOP, Spring","REST API, Git",M.Sc,Fresher,5,1,Yes,Java Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","Firebase, Docker, Linux, REST API, CI/CD",Diploma,3-5,1,1,No,Data Scientist,Python
+Flutter Developer,"Dart, Flutter","Firebase, Docker",M.Sc,3-5,6,3,Yes,Flutter Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Git, AWS",B.Tech,0-1,1,1,No,Frontend Developer,"HTML, JavaScript"
+Java Developer,"Java, OOP, Spring","Firebase, System Design, Docker, CI/CD, Git",BCA,0-1,6,2,Yes,Java Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","DSA, REST API, Linux",M.Sc,1-3,4,3,Yes,ML Engineer,None
+Flutter Developer,"Dart, Flutter","Git, REST API, MongoDB, Firebase, Docker",M.Sc,0-1,2,3,Yes,Flutter Developer,None
+Java Developer,"Java, OOP, Spring","Git, Firebase",B.Sc,Fresher,4,4,Yes,Java Developer,None
+Python Developer,"Python, Flask, Django","AWS, CI/CD",BCA,Fresher,1,0,No,Python Developer,Python
+Backend Developer,"Java, Spring Boot, Node.js","MongoDB, Firebase, Linux, Docker, CI/CD",B.Tech,Fresher,1,4,No,Backend Developer,Java
+Data Analyst,"Python, SQL, Excel","CI/CD, DSA",B.Tech,0-1,2,0,No,Data Analyst,"Excel, SQL, Python"
+Python Developer,"Python, Flask, Django","Linux, CI/CD",B.Sc,3-5,0,0,No,Python Developer,Python
+Full Stack Developer,"JavaScript, React, Node.js","Linux, REST API, Docker, Firebase, CI/CD",B.Sc,0-1,3,3,Yes,Full Stack Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","MongoDB, Firebase",BCA,0-1,1,2,No,Full Stack Developer,"JavaScript, React, Node.js"
+Python Developer,"Python, Flask, Django","Docker, Linux, DSA",B.Sc,Fresher,6,4,Yes,Python Developer,None
+Flutter Developer,"Dart, Flutter","System Design, DSA, Firebase, Docker",BCA,3-5,2,0,No,Flutter Developer,Dart
+Flutter Developer,"Dart, Flutter","MongoDB, Linux, REST API",Diploma,1-3,3,3,Yes,Flutter Developer,None
+Flutter Developer,"Dart, Flutter","REST API, DSA",BCA,0-1,3,3,Yes,Flutter Developer,None
+Java Developer,"Java, OOP, Spring","Linux, Docker",Diploma,0-1,5,0,No,Java Developer,"Java, Spring, OOP"
+Backend Developer,"Java, Spring Boot, Node.js","System Design, REST API",Diploma,0-1,0,4,No,Backend Developer,"Java, Spring Boot"
+Frontend Developer,"HTML, CSS, JavaScript","System Design, CI/CD, Firebase, AWS",B.Tech,1-3,1,4,No,Frontend Developer,"CSS, JavaScript, HTML"
+Data Scientist,"Python, Machine Learning, Statistics","MongoDB, Linux, Docker, Git",B.Sc,1-3,3,2,Yes,Data Scientist,None
+Flutter Developer,"Dart, Flutter","Docker, DSA",BCA,1-3,3,2,Yes,Flutter Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","CI/CD, DSA, REST API, Firebase",M.Sc,1-3,6,4,Yes,Full Stack Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Git, MongoDB, System Design, AWS",B.Tech,Fresher,3,0,No,ML Engineer,"Deep Learning, Python"
+Java Developer,"Java, OOP, Spring","Linux, System Design",B.Sc,Fresher,6,2,Yes,Java Developer,None
+Data Analyst,"Python, SQL, Excel","DSA, AWS",Diploma,1-3,6,0,No,Data Analyst,"SQL, Excel"
+Java Developer,"Java, OOP, Spring","AWS, Docker, MongoDB",B.Sc,Fresher,1,2,No,Java Developer,OOP
+Data Analyst,"Python, SQL, Excel","CI/CD, REST API",B.Sc,0-1,4,2,Yes,Data Analyst,None
+ML Engineer,"Python, Deep Learning, TensorFlow","DSA, AWS, Git",B.Sc,0-1,4,0,No,ML Engineer,"Deep Learning, TensorFlow"
+Frontend Developer,"HTML, CSS, JavaScript","AWS, System Design, MongoDB, Docker, REST API",MCA,0-1,2,2,Yes,Frontend Developer,None
+Data Analyst,"Python, SQL, Excel","Linux, AWS",MCA,0-1,0,0,No,Data Analyst,"Python, SQL"
+Data Scientist,"Python, Machine Learning, Statistics","Firebase, Docker, REST API, CI/CD, DSA",B.Tech,Fresher,3,2,Yes,Data Scientist,None
+Full Stack Developer,"JavaScript, React, Node.js","DSA, Docker, Git, Linux, MongoDB",Diploma,Fresher,2,1,Yes,Full Stack Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","DSA, System Design, AWS",Diploma,Fresher,4,3,Yes,Data Scientist,None
+Full Stack Developer,"JavaScript, React, Node.js","DSA, Docker",B.Sc,Fresher,0,4,No,Full Stack Developer,"Node.js, React, JavaScript"
+Data Scientist,"Python, Machine Learning, Statistics","System Design, Git, Linux, CI/CD",M.Sc,0-1,0,3,No,Data Scientist,"Statistics, Machine Learning"
+Data Analyst,"Python, SQL, Excel","DSA, Linux, Git, Firebase",B.Tech,3-5,0,4,No,Data Analyst,Excel
+Backend Developer,"Java, Spring Boot, Node.js","Linux, Firebase, REST API, Docker, CI/CD",BCA,Fresher,1,2,No,Backend Developer,"Node.js, Spring Boot, Java"
+Data Scientist,"Python, Machine Learning, Statistics","CI/CD, REST API, Firebase",MCA,0-1,0,0,No,Data Scientist,Statistics
+Java Developer,"Java, OOP, Spring","AWS, Firebase, MongoDB, Docker, REST API",B.Tech,1-3,4,1,Yes,Java Developer,None
+Java Developer,"Java, OOP, Spring","Docker, MongoDB, Firebase, Git",M.Sc,1-3,5,1,Yes,Java Developer,None
+Android Developer,"Java, Kotlin, Android SDK","Linux, Docker, Git, MongoDB, CI/CD",BCA,0-1,1,1,No,Android Developer,"Android SDK, Java"
+Android Developer,"Java, Kotlin, Android SDK","DSA, Linux, Git",Diploma,0-1,2,3,Yes,Android Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Docker, DSA, System Design",B.Tech,Fresher,0,3,No,ML Engineer,Python
+ML Engineer,"Python, Deep Learning, TensorFlow","AWS, Docker",Diploma,0-1,4,2,Yes,ML Engineer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","CI/CD, System Design",Diploma,Fresher,5,2,Yes,ML Engineer,None
+Full Stack Developer,"JavaScript, React, Node.js","MongoDB, AWS",M.Sc,1-3,4,0,No,Full Stack Developer,JavaScript
+Backend Developer,"Java, Spring Boot, Node.js","System Design, Git, Firebase, DSA, Linux",BCA,1-3,5,3,Yes,Backend Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Git, CI/CD, MongoDB",MCA,1-3,3,1,Yes,Backend Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","DSA, AWS, Docker",B.Sc,0-1,0,3,No,Frontend Developer,"CSS, JavaScript"
+Flutter Developer,"Dart, Flutter","MongoDB, Docker",B.Sc,Fresher,4,2,Yes,Flutter Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Firebase, REST API",Diploma,3-5,6,2,Yes,Backend Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","System Design, MongoDB, CI/CD, Linux",B.Tech,Fresher,4,4,Yes,Data Scientist,None
+Backend Developer,"Java, Spring Boot, Node.js","AWS, DSA, MongoDB, REST API",MCA,Fresher,3,3,Yes,Backend Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","DSA, Git, Firebase",B.Sc,3-5,1,0,No,Backend Developer,Node.js
+Flutter Developer,"Dart, Flutter","MongoDB, Docker, DSA, Linux, System Design",MCA,Fresher,3,3,Yes,Flutter Developer,None
+Data Analyst,"Python, SQL, Excel","Docker, Linux, Git, AWS, System Design",MCA,Fresher,0,4,No,Data Analyst,"Excel, Python, SQL"
+Backend Developer,"Java, Spring Boot, Node.js","AWS, MongoDB, Git, System Design, CI/CD",MCA,3-5,4,2,Yes,Backend Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","CI/CD, Linux, MongoDB, Git, REST API",B.Sc,3-5,3,2,Yes,Frontend Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","AWS, CI/CD",B.Sc,Fresher,0,1,No,Data Scientist,"Python, Machine Learning"
+Full Stack Developer,"JavaScript, React, Node.js","REST API, System Design, Firebase",B.Sc,Fresher,6,0,No,Full Stack Developer,"JavaScript, React, Node.js"
+Data Scientist,"Python, Machine Learning, Statistics","Docker, DSA, CI/CD, REST API, Firebase",B.Sc,1-3,1,3,No,Data Scientist,"Statistics, Machine Learning, Python"
+Data Analyst,"Python, SQL, Excel","Linux, System Design, Docker",Diploma,Fresher,1,3,No,Data Analyst,SQL
+Data Scientist,"Python, Machine Learning, Statistics","System Design, Firebase",B.Sc,Fresher,1,4,No,Data Scientist,Python
+ML Engineer,"Python, Deep Learning, TensorFlow","MongoDB, AWS",M.Sc,0-1,5,2,Yes,ML Engineer,None
+Flutter Developer,"Dart, Flutter","AWS, CI/CD",MCA,0-1,1,4,No,Flutter Developer,Flutter
+ML Engineer,"Python, Deep Learning, TensorFlow","MongoDB, REST API, Linux",Diploma,Fresher,1,2,No,ML Engineer,"Python, TensorFlow"
+Android Developer,"Java, Kotlin, Android SDK","Linux, System Design, Firebase, DSA",BCA,Fresher,5,2,Yes,Android Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","AWS, Git, CI/CD, Firebase, System Design",B.Tech,0-1,0,3,No,Full Stack Developer,"Node.js, JavaScript"
+Android Developer,"Java, Kotlin, Android SDK","DSA, Git, Firebase, Docker",BCA,3-5,5,2,Yes,Android Developer,None
+Android Developer,"Java, Kotlin, Android SDK","System Design, AWS",MCA,Fresher,1,4,No,Android Developer,"Android SDK, Kotlin"
+Data Scientist,"Python, Machine Learning, Statistics","DSA, Firebase, Git, System Design",BCA,1-3,5,1,Yes,Data Scientist,None
+Flutter Developer,"Dart, Flutter","CI/CD, DSA, Docker",MCA,3-5,6,3,Yes,Flutter Developer,None
+Flutter Developer,"Dart, Flutter","CI/CD, System Design, MongoDB, REST API",MCA,3-5,3,3,Yes,Flutter Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","CI/CD, REST API, System Design, Firebase, MongoDB",Diploma,3-5,4,4,Yes,ML Engineer,None
+Backend Developer,"Java, Spring Boot, Node.js","Linux, MongoDB, Firebase, AWS",BCA,1-3,4,3,Yes,Backend Developer,None
+Java Developer,"Java, OOP, Spring","DSA, Docker, Git, REST API",BCA,0-1,2,1,Yes,Java Developer,None
+Data Analyst,"Python, SQL, Excel","Git, CI/CD, AWS",B.Tech,3-5,0,4,No,Data Analyst,"Python, Excel, SQL"
+Backend Developer,"Java, Spring Boot, Node.js","MongoDB, System Design, Docker",B.Tech,1-3,5,3,Yes,Backend Developer,None
+Flutter Developer,"Dart, Flutter","MongoDB, DSA, REST API, Git, CI/CD",BCA,1-3,0,4,No,Flutter Developer,"Dart, Flutter"
+Full Stack Developer,"JavaScript, React, Node.js","AWS, Linux, MongoDB, System Design",BCA,1-3,2,0,No,Full Stack Developer,JavaScript
+Python Developer,"Python, Flask, Django","CI/CD, MongoDB, REST API",M.Sc,0-1,5,4,Yes,Python Developer,None
+Android Developer,"Java, Kotlin, Android SDK","CI/CD, REST API, Firebase, Linux, DSA",BCA,3-5,1,1,No,Android Developer,Android SDK
+ML Engineer,"Python, Deep Learning, TensorFlow","Linux, REST API, Firebase, AWS",B.Tech,3-5,4,3,Yes,ML Engineer,None
+Android Developer,"Java, Kotlin, Android SDK","DSA, CI/CD, Linux, Git, Docker",B.Sc,3-5,3,2,Yes,Android Developer,None
+Data Analyst,"Python, SQL, Excel","Git, CI/CD, MongoDB, Firebase, System Design",M.Sc,3-5,5,4,Yes,Data Analyst,None
+Frontend Developer,"HTML, CSS, JavaScript","System Design, Docker, DSA",Diploma,0-1,3,1,Yes,Frontend Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Firebase, Linux",BCA,1-3,5,3,Yes,Backend Developer,None
+Data Analyst,"Python, SQL, Excel","MongoDB, Firebase",B.Tech,1-3,5,1,Yes,Data Analyst,None
+Data Analyst,"Python, SQL, Excel","CI/CD, AWS",M.Sc,Fresher,6,3,Yes,Data Analyst,None
+Data Scientist,"Python, Machine Learning, Statistics","Firebase, AWS",Diploma,3-5,4,2,Yes,Data Scientist,None
+Full Stack Developer,"JavaScript, React, Node.js","Linux, REST API",M.Sc,Fresher,2,4,Yes,Full Stack Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","System Design, Linux",Diploma,3-5,6,2,Yes,Frontend Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Firebase, DSA, MongoDB, AWS",MCA,Fresher,5,3,Yes,Frontend Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","CI/CD, DSA, Linux, REST API, Firebase",MCA,0-1,1,1,No,Data Scientist,Statistics
+Data Scientist,"Python, Machine Learning, Statistics","Firebase, Linux, REST API, CI/CD, Git",M.Sc,3-5,4,4,Yes,Data Scientist,None
+ML Engineer,"Python, Deep Learning, TensorFlow","CI/CD, Git, System Design, REST API, Linux",B.Tech,0-1,2,3,Yes,ML Engineer,None
+Frontend Developer,"HTML, CSS, JavaScript","Firebase, MongoDB, Git, AWS",B.Sc,Fresher,0,3,No,Frontend Developer,"CSS, JavaScript, HTML"
+Android Developer,"Java, Kotlin, Android SDK","REST API, Docker",BCA,3-5,2,2,Yes,Android Developer,None
+Android Developer,"Java, Kotlin, Android SDK","Git, Firebase, AWS, Linux",B.Sc,Fresher,3,1,Yes,Android Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","DSA, System Design, Git, CI/CD",B.Tech,1-3,3,0,No,Data Scientist,"Machine Learning, Statistics, Python"
+Data Scientist,"Python, Machine Learning, Statistics","Linux, Docker, AWS, REST API",BCA,1-3,3,1,Yes,Data Scientist,None
+Flutter Developer,"Dart, Flutter","MongoDB, Linux, REST API, System Design",Diploma,1-3,6,1,Yes,Flutter Developer,None
+Flutter Developer,"Dart, Flutter","Linux, Docker, MongoDB, REST API, CI/CD",MCA,0-1,4,1,Yes,Flutter Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","System Design, Firebase",M.Sc,3-5,5,2,Yes,Data Scientist,None
+Python Developer,"Python, Flask, Django","Firebase, DSA, System Design, AWS",MCA,3-5,6,3,Yes,Python Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","AWS, Git, Docker, CI/CD, REST API",B.Tech,Fresher,3,1,Yes,Frontend Developer,None
+Data Analyst,"Python, SQL, Excel","DSA, MongoDB, CI/CD, Linux, Docker",B.Tech,Fresher,3,1,Yes,Data Analyst,None
+Data Analyst,"Python, SQL, Excel","CI/CD, AWS, Docker, Linux, DSA",BCA,1-3,3,1,Yes,Data Analyst,None
+Flutter Developer,"Dart, Flutter","REST API, MongoDB, CI/CD",MCA,Fresher,1,3,No,Flutter Developer,"Flutter, Dart"
+Android Developer,"Java, Kotlin, Android SDK","MongoDB, AWS, Git, Linux",BCA,0-1,2,0,No,Android Developer,Kotlin
+Python Developer,"Python, Flask, Django","System Design, Docker, Firebase, Git",BCA,3-5,0,2,No,Python Developer,"Python, Flask"
+Full Stack Developer,"JavaScript, React, Node.js","System Design, AWS",B.Tech,3-5,0,4,No,Full Stack Developer,"JavaScript, Node.js, React"
+Full Stack Developer,"JavaScript, React, Node.js","Git, Firebase",MCA,0-1,1,4,No,Full Stack Developer,"React, JavaScript"
+Java Developer,"Java, OOP, Spring","REST API, CI/CD, Linux, Firebase, Docker",BCA,Fresher,0,3,No,Java Developer,"OOP, Java, Spring"
+Frontend Developer,"HTML, CSS, JavaScript","AWS, REST API, Firebase",M.Sc,Fresher,6,2,Yes,Frontend Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Docker, MongoDB, DSA, AWS, Firebase",B.Tech,Fresher,6,0,No,Frontend Developer,JavaScript
+Full Stack Developer,"JavaScript, React, Node.js","CI/CD, System Design",MCA,Fresher,5,2,Yes,Full Stack Developer,None
+Python Developer,"Python, Flask, Django","AWS, System Design, CI/CD, MongoDB, DSA",B.Tech,3-5,5,3,Yes,Python Developer,None
+Android Developer,"Java, Kotlin, Android SDK","AWS, Docker, Linux, DSA, System Design",B.Tech,3-5,6,0,No,Android Developer,"Java, Android SDK, Kotlin"
+Backend Developer,"Java, Spring Boot, Node.js","AWS, Firebase, Docker, DSA",MCA,Fresher,3,3,Yes,Backend Developer,None
+Java Developer,"Java, OOP, Spring","Git, MongoDB, Firebase",M.Sc,0-1,4,1,Yes,Java Developer,None
+Java Developer,"Java, OOP, Spring","DSA, Docker, Firebase",M.Sc,Fresher,5,4,Yes,Java Developer,None
+Java Developer,"Java, OOP, Spring","Firebase, AWS, MongoDB",Diploma,1-3,4,4,Yes,Java Developer,None
+Data Analyst,"Python, SQL, Excel","AWS, System Design",B.Sc,Fresher,6,2,Yes,Data Analyst,None
+Frontend Developer,"HTML, CSS, JavaScript","Firebase, DSA, REST API",B.Tech,Fresher,4,2,Yes,Frontend Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Linux, Git",B.Sc,0-1,4,4,Yes,Backend Developer,None
+Flutter Developer,"Dart, Flutter","Git, AWS, Linux, CI/CD, Firebase",B.Tech,1-3,1,4,No,Flutter Developer,Flutter
+ML Engineer,"Python, Deep Learning, TensorFlow","AWS, DSA, CI/CD",M.Sc,Fresher,5,1,Yes,ML Engineer,None
+Full Stack Developer,"JavaScript, React, Node.js","Docker, AWS, Git, DSA",M.Sc,0-1,0,4,No,Full Stack Developer,JavaScript
+Full Stack Developer,"JavaScript, React, Node.js","System Design, CI/CD",BCA,3-5,3,3,Yes,Full Stack Developer,None
+Flutter Developer,"Dart, Flutter","System Design, MongoDB, CI/CD",MCA,1-3,5,1,Yes,Flutter Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","REST API, Linux, Git, DSA, Docker",B.Tech,1-3,5,3,Yes,Full Stack Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","DSA, Docker",MCA,1-3,4,1,Yes,ML Engineer,None
+Data Analyst,"Python, SQL, Excel","AWS, Docker, Linux, REST API",BCA,3-5,4,1,Yes,Data Analyst,None
+Flutter Developer,"Dart, Flutter","REST API, Git",B.Tech,Fresher,1,3,No,Flutter Developer,"Flutter, Dart"
+Backend Developer,"Java, Spring Boot, Node.js","System Design, MongoDB, DSA, REST API",MCA,Fresher,1,4,No,Backend Developer,Spring Boot
+ML Engineer,"Python, Deep Learning, TensorFlow","Firebase, MongoDB, Docker, AWS, Git",BCA,0-1,6,3,Yes,ML Engineer,None
+Java Developer,"Java, OOP, Spring","DSA, AWS, Firebase, Git",B.Tech,3-5,0,3,No,Java Developer,"Spring, OOP"
+Backend Developer,"Java, Spring Boot, Node.js","AWS, REST API",Diploma,0-1,3,0,No,Backend Developer,Node.js
+Full Stack Developer,"JavaScript, React, Node.js","System Design, AWS, MongoDB, Firebase, Git",BCA,Fresher,0,0,No,Full Stack Developer,"React, Node.js"
+Backend Developer,"Java, Spring Boot, Node.js","DSA, Firebase, AWS, System Design, MongoDB",B.Tech,1-3,1,1,No,Backend Developer,"Spring Boot, Node.js"
+Java Developer,"Java, OOP, Spring","CI/CD, REST API, DSA, MongoDB",Diploma,3-5,5,3,Yes,Java Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","DSA, Docker, CI/CD",Diploma,Fresher,4,2,Yes,Frontend Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","REST API, System Design, DSA, Git",BCA,Fresher,2,0,No,Backend Developer,"Spring Boot, Node.js"
+Java Developer,"Java, OOP, Spring","DSA, System Design, CI/CD, REST API, Git",Diploma,Fresher,6,3,Yes,Java Developer,None
+Flutter Developer,"Dart, Flutter","AWS, CI/CD, DSA, Linux, Git",BCA,1-3,2,0,No,Flutter Developer,Dart
+Frontend Developer,"HTML, CSS, JavaScript","REST API, CI/CD, Git, System Design",BCA,0-1,3,2,Yes,Frontend Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","Git, Docker",BCA,1-3,4,2,Yes,Full Stack Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","Linux, Git, System Design",M.Sc,Fresher,3,1,Yes,Data Scientist,None
+Full Stack Developer,"JavaScript, React, Node.js","Firebase, CI/CD, Linux",Diploma,0-1,4,1,Yes,Full Stack Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","MongoDB, Firebase, Linux",B.Tech,1-3,2,2,Yes,Full Stack Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","System Design, REST API, DSA",BCA,Fresher,4,4,Yes,Data Scientist,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Firebase, Git, System Design, Docker",M.Sc,1-3,6,2,Yes,ML Engineer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Docker, System Design, Firebase",BCA,Fresher,1,4,No,ML Engineer,TensorFlow
+Data Analyst,"Python, SQL, Excel","CI/CD, DSA, MongoDB, Firebase, AWS",B.Tech,1-3,6,2,Yes,Data Analyst,None
+Data Analyst,"Python, SQL, Excel","System Design, AWS, REST API, Git, CI/CD",MCA,0-1,5,2,Yes,Data Analyst,None
+Python Developer,"Python, Flask, Django","CI/CD, Docker, MongoDB, System Design, Firebase",BCA,0-1,3,4,Yes,Python Developer,None
+Flutter Developer,"Dart, Flutter","System Design, MongoDB",MCA,Fresher,1,3,No,Flutter Developer,Flutter
+Flutter Developer,"Dart, Flutter","MongoDB, CI/CD, Git",B.Sc,1-3,0,0,No,Flutter Developer,"Dart, Flutter"
+Backend Developer,"Java, Spring Boot, Node.js","Linux, CI/CD",Diploma,Fresher,2,4,Yes,Backend Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","AWS, Docker, Firebase",MCA,1-3,4,3,Yes,Data Scientist,None
+Flutter Developer,"Dart, Flutter","AWS, REST API, MongoDB, System Design, DSA",M.Sc,Fresher,2,4,Yes,Flutter Developer,None
+Python Developer,"Python, Flask, Django","AWS, Git, REST API, DSA",Diploma,0-1,5,4,Yes,Python Developer,None
+Python Developer,"Python, Flask, Django","DSA, CI/CD, Docker, AWS, MongoDB",B.Sc,0-1,4,0,No,Python Developer,"Python, Django"
+Android Developer,"Java, Kotlin, Android SDK","CI/CD, Git, MongoDB",B.Tech,1-3,2,0,No,Android Developer,"Java, Android SDK"
+Python Developer,"Python, Flask, Django","Firebase, Docker, CI/CD, MongoDB, Linux",B.Sc,0-1,3,1,Yes,Python Developer,None
+Java Developer,"Java, OOP, Spring","Docker, Linux, CI/CD, REST API, MongoDB",M.Sc,1-3,5,1,Yes,Java Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Docker, REST API, CI/CD, Firebase, Linux",Diploma,0-1,1,2,No,Backend Developer,Java
+Frontend Developer,"HTML, CSS, JavaScript","MongoDB, Git, Linux",B.Sc,1-3,0,2,No,Frontend Developer,"HTML, JavaScript"
+Android Developer,"Java, Kotlin, Android SDK","Git, CI/CD, System Design",MCA,0-1,5,0,No,Android Developer,Kotlin
+Frontend Developer,"HTML, CSS, JavaScript","Linux, REST API, Docker, System Design",B.Tech,1-3,2,4,Yes,Frontend Developer,None
+Android Developer,"Java, Kotlin, Android SDK","Linux, MongoDB, Git, REST API",B.Tech,Fresher,0,3,No,Android Developer,"Java, Android SDK, Kotlin"
+Backend Developer,"Java, Spring Boot, Node.js","DSA, CI/CD, Docker, MongoDB, Firebase",M.Sc,Fresher,6,3,Yes,Backend Developer,None
+Flutter Developer,"Dart, Flutter","Firebase, Docker, DSA",B.Sc,0-1,3,4,Yes,Flutter Developer,None
+Java Developer,"Java, OOP, Spring","Docker, System Design, REST API, Linux, AWS",B.Sc,1-3,1,3,No,Java Developer,"Spring, Java, OOP"
+Data Analyst,"Python, SQL, Excel","REST API, CI/CD",B.Sc,1-3,4,0,No,Data Analyst,"Excel, Python"
+Full Stack Developer,"JavaScript, React, Node.js","Firebase, Git, System Design, MongoDB, REST API",BCA,1-3,1,0,No,Full Stack Developer,React
+Python Developer,"Python, Flask, Django","System Design, REST API, Firebase, Git",BCA,Fresher,2,2,Yes,Python Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Firebase, CI/CD",M.Sc,0-1,0,1,No,ML Engineer,"Python, TensorFlow"
+ML Engineer,"Python, Deep Learning, TensorFlow","Docker, Linux, AWS, Firebase, CI/CD",MCA,Fresher,3,0,No,ML Engineer,"Deep Learning, Python"
+Data Scientist,"Python, Machine Learning, Statistics","REST API, Docker, MongoDB, Firebase",B.Tech,0-1,1,4,No,Data Scientist,Machine Learning
+Frontend Developer,"HTML, CSS, JavaScript","CI/CD, Firebase, System Design, Docker",B.Sc,1-3,3,0,No,Frontend Developer,"JavaScript, HTML, CSS"
+Python Developer,"Python, Flask, Django","REST API, System Design, AWS, Linux",B.Sc,1-3,5,4,Yes,Python Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","CI/CD, Linux, System Design, AWS, Firebase",B.Sc,3-5,4,1,Yes,Full Stack Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","Firebase, REST API",BCA,Fresher,1,3,No,Full Stack Developer,"React, JavaScript, Node.js"
+Full Stack Developer,"JavaScript, React, Node.js","System Design, AWS, Firebase, REST API",B.Sc,Fresher,5,0,No,Full Stack Developer,Node.js
+Data Analyst,"Python, SQL, Excel","Firebase, System Design, Docker, MongoDB, Git",B.Sc,0-1,5,0,No,Data Analyst,SQL
+Android Developer,"Java, Kotlin, Android SDK","System Design, AWS, Docker",Diploma,0-1,5,3,Yes,Android Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","Firebase, Linux",M.Sc,0-1,6,1,Yes,Full Stack Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","CI/CD, MongoDB",B.Sc,3-5,1,3,No,Frontend Developer,HTML
+Data Scientist,"Python, Machine Learning, Statistics","DSA, REST API, Docker, MongoDB, AWS",MCA,1-3,4,3,Yes,Data Scientist,None
+Data Analyst,"Python, SQL, Excel","MongoDB, Linux, Git, DSA, Docker",Diploma,0-1,0,2,No,Data Analyst,Excel
+Full Stack Developer,"JavaScript, React, Node.js","DSA, System Design, Docker, REST API",BCA,0-1,1,4,No,Full Stack Developer,Node.js
+Python Developer,"Python, Flask, Django","DSA, REST API",Diploma,Fresher,2,2,Yes,Python Developer,None
+Java Developer,"Java, OOP, Spring","Firebase, CI/CD",Diploma,Fresher,6,1,Yes,Java Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Firebase, Git, CI/CD, DSA, REST API",B.Tech,1-3,0,4,No,Frontend Developer,JavaScript
+Data Scientist,"Python, Machine Learning, Statistics","System Design, MongoDB, Firebase",B.Tech,1-3,0,2,No,Data Scientist,Machine Learning
+Python Developer,"Python, Flask, Django","System Design, REST API, MongoDB, Linux",MCA,Fresher,6,0,No,Python Developer,"Django, Python, Flask"
+Frontend Developer,"HTML, CSS, JavaScript","MongoDB, AWS, Linux, System Design, CI/CD",M.Sc,0-1,2,1,Yes,Frontend Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","CI/CD, REST API, System Design",M.Sc,3-5,0,1,No,ML Engineer,"Python, TensorFlow"
+Java Developer,"Java, OOP, Spring","System Design, AWS, Docker, CI/CD",BCA,0-1,6,1,Yes,Java Developer,None
+Android Developer,"Java, Kotlin, Android SDK","Git, MongoDB, AWS, Firebase",B.Sc,1-3,5,1,Yes,Android Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","REST API, CI/CD, DSA",BCA,1-3,2,2,Yes,Data Scientist,None
+Flutter Developer,"Dart, Flutter","MongoDB, DSA, AWS, System Design",M.Sc,Fresher,2,0,No,Flutter Developer,Dart
+Flutter Developer,"Dart, Flutter","AWS, Git, DSA",MCA,3-5,4,3,Yes,Flutter Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","REST API, Firebase, MongoDB, AWS, Linux",B.Tech,Fresher,0,2,No,Frontend Developer,"JavaScript, HTML"
+Flutter Developer,"Dart, Flutter","Linux, REST API",Diploma,3-5,4,1,Yes,Flutter Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","MongoDB, CI/CD",MCA,1-3,4,2,Yes,Frontend Developer,None
+Python Developer,"Python, Flask, Django","AWS, CI/CD, Docker",Diploma,Fresher,2,3,Yes,Python Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Docker, Git, AWS",MCA,Fresher,4,3,Yes,Backend Developer,None
+Android Developer,"Java, Kotlin, Android SDK","REST API, CI/CD, AWS",MCA,Fresher,5,3,Yes,Android Developer,None
+Flutter Developer,"Dart, Flutter","Linux, Firebase, AWS, REST API, System Design",B.Tech,Fresher,6,0,No,Flutter Developer,Flutter
+Java Developer,"Java, OOP, Spring","Firebase, CI/CD, MongoDB, Git",Diploma,1-3,5,4,Yes,Java Developer,None
+Flutter Developer,"Dart, Flutter","MongoDB, AWS, Docker, CI/CD, Firebase",B.Tech,Fresher,5,3,Yes,Flutter Developer,None
+Flutter Developer,"Dart, Flutter","DSA, AWS, System Design",MCA,0-1,1,0,No,Flutter Developer,"Dart, Flutter"
+Data Analyst,"Python, SQL, Excel","MongoDB, Linux, Git",MCA,Fresher,3,4,Yes,Data Analyst,None
+Python Developer,"Python, Flask, Django","System Design, Firebase, Linux",BCA,1-3,4,4,Yes,Python Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Git, MongoDB, Linux, System Design, AWS",Diploma,0-1,4,2,Yes,Backend Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","AWS, Git, Linux, Docker",MCA,3-5,0,0,No,Backend Developer,"Java, Spring Boot"
+Frontend Developer,"HTML, CSS, JavaScript","DSA, Git",B.Tech,3-5,4,1,Yes,Frontend Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Firebase, DSA",B.Sc,3-5,6,4,Yes,Frontend Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","AWS, Docker",MCA,0-1,6,1,Yes,Full Stack Developer,None
+Data Analyst,"Python, SQL, Excel","Docker, System Design, MongoDB, Firebase",B.Tech,3-5,6,4,Yes,Data Analyst,None
+Backend Developer,"Java, Spring Boot, Node.js","MongoDB, Linux, System Design, Firebase, REST API",M.Sc,3-5,4,3,Yes,Backend Developer,None
+Python Developer,"Python, Flask, Django","REST API, Docker, Linux, MongoDB, DSA",M.Sc,0-1,6,2,Yes,Python Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","CI/CD, System Design, Docker",Diploma,Fresher,5,2,Yes,Frontend Developer,None
+Data Analyst,"Python, SQL, Excel","Linux, MongoDB, Git, REST API",MCA,0-1,4,2,Yes,Data Analyst,None
+Data Analyst,"Python, SQL, Excel","Linux, AWS",B.Sc,3-5,3,0,No,Data Analyst,Python
+Backend Developer,"Java, Spring Boot, Node.js","System Design, MongoDB",BCA,0-1,1,1,No,Backend Developer,"Node.js, Java, Spring Boot"
+Full Stack Developer,"JavaScript, React, Node.js","DSA, AWS, Linux, REST API",BCA,3-5,5,3,Yes,Full Stack Developer,None
+Flutter Developer,"Dart, Flutter","Docker, CI/CD, Firebase, Linux",M.Sc,Fresher,6,2,Yes,Flutter Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Firebase, Linux, System Design, CI/CD, REST API",M.Sc,0-1,3,4,Yes,Frontend Developer,None
+Flutter Developer,"Dart, Flutter","AWS, Linux, REST API, System Design",BCA,0-1,5,4,Yes,Flutter Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","AWS, REST API, Linux, Firebase, MongoDB",Diploma,Fresher,5,4,Yes,Full Stack Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","System Design, Linux, CI/CD, AWS",B.Sc,3-5,4,4,Yes,Data Scientist,None
+Android Developer,"Java, Kotlin, Android SDK","Git, MongoDB, Linux",MCA,0-1,0,2,No,Android Developer,Kotlin
+Data Analyst,"Python, SQL, Excel","CI/CD, Git, Firebase, MongoDB, Docker",B.Tech,3-5,2,4,Yes,Data Analyst,None
+Android Developer,"Java, Kotlin, Android SDK","Firebase, Linux, DSA, Docker",M.Sc,1-3,6,4,Yes,Android Developer,None
+Java Developer,"Java, OOP, Spring","CI/CD, DSA, AWS, MongoDB",B.Sc,Fresher,4,2,Yes,Java Developer,None
+Data Analyst,"Python, SQL, Excel","Firebase, REST API, CI/CD",M.Sc,Fresher,6,2,Yes,Data Analyst,None
+Java Developer,"Java, OOP, Spring","CI/CD, MongoDB",Diploma,3-5,3,2,Yes,Java Developer,None
+Data Analyst,"Python, SQL, Excel","CI/CD, AWS, REST API",M.Sc,0-1,3,1,Yes,Data Analyst,None
+Data Analyst,"Python, SQL, Excel","AWS, Git, Docker",MCA,0-1,5,3,Yes,Data Analyst,None
+Frontend Developer,"HTML, CSS, JavaScript","CI/CD, Firebase, AWS, DSA, Git",Diploma,1-3,4,1,Yes,Frontend Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","REST API, Docker, DSA, AWS",B.Tech,0-1,6,3,Yes,Data Scientist,None
+Backend Developer,"Java, Spring Boot, Node.js","CI/CD, System Design",Diploma,3-5,2,1,Yes,Backend Developer,None
+Python Developer,"Python, Flask, Django","CI/CD, Linux, AWS",BCA,Fresher,3,0,No,Python Developer,"Python, Django"
+Python Developer,"Python, Flask, Django","Linux, Docker",MCA,Fresher,4,0,No,Python Developer,"Django, Python, Flask"
+Full Stack Developer,"JavaScript, React, Node.js","REST API, AWS, Git",BCA,1-3,4,2,Yes,Full Stack Developer,None
+Flutter Developer,"Dart, Flutter","MongoDB, Git, REST API, Firebase",B.Sc,0-1,3,4,Yes,Flutter Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","DSA, Linux, REST API",Diploma,0-1,6,2,Yes,ML Engineer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","System Design, CI/CD",MCA,3-5,1,0,No,ML Engineer,"Deep Learning, TensorFlow, Python"
+Java Developer,"Java, OOP, Spring","Linux, CI/CD, System Design, Git, MongoDB",MCA,3-5,0,3,No,Java Developer,"Spring, OOP, Java"
+Java Developer,"Java, OOP, Spring","MongoDB, REST API, Git, AWS, DSA",M.Sc,1-3,0,0,No,Java Developer,Java
+Flutter Developer,"Dart, Flutter","Git, MongoDB, DSA",BCA,1-3,6,3,Yes,Flutter Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","REST API, CI/CD, Git, DSA",M.Sc,1-3,2,4,Yes,Frontend Developer,None
+Data Analyst,"Python, SQL, Excel","Linux, CI/CD",B.Sc,Fresher,1,0,No,Data Analyst,"Excel, Python"
+Frontend Developer,"HTML, CSS, JavaScript","CI/CD, DSA, REST API",B.Sc,Fresher,2,4,Yes,Frontend Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","MongoDB, REST API, DSA",BCA,3-5,2,3,Yes,Data Scientist,None
+Data Scientist,"Python, Machine Learning, Statistics","CI/CD, MongoDB, REST API, Firebase",M.Sc,0-1,1,0,No,Data Scientist,Python
+Data Scientist,"Python, Machine Learning, Statistics","Docker, MongoDB, Firebase, REST API",MCA,3-5,5,4,Yes,Data Scientist,None
+Android Developer,"Java, Kotlin, Android SDK","DSA, System Design, Linux",MCA,0-1,6,0,No,Android Developer,"Android SDK, Kotlin"
+ML Engineer,"Python, Deep Learning, TensorFlow","DSA, AWS, Linux, REST API, Git",BCA,0-1,3,3,Yes,ML Engineer,None
+Flutter Developer,"Dart, Flutter","Docker, Git, REST API, MongoDB, DSA",B.Sc,Fresher,0,1,No,Flutter Developer,"Flutter, Dart"
+Python Developer,"Python, Flask, Django","System Design, DSA, CI/CD",B.Tech,0-1,4,0,No,Python Developer,Python
+Data Scientist,"Python, Machine Learning, Statistics","AWS, REST API, Docker, Firebase, DSA",B.Sc,1-3,6,2,Yes,Data Scientist,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Linux, System Design, CI/CD, DSA, Docker",B.Sc,1-3,6,4,Yes,ML Engineer,None
+Flutter Developer,"Dart, Flutter","Linux, System Design",Diploma,0-1,1,3,No,Flutter Developer,Flutter
+Data Analyst,"Python, SQL, Excel","CI/CD, Firebase",M.Sc,0-1,5,3,Yes,Data Analyst,None
+Frontend Developer,"HTML, CSS, JavaScript","CI/CD, Firebase, REST API",B.Sc,Fresher,5,2,Yes,Frontend Developer,None
+Data Analyst,"Python, SQL, Excel","Linux, System Design",M.Sc,Fresher,1,4,No,Data Analyst,"Excel, Python, SQL"
+Android Developer,"Java, Kotlin, Android SDK","AWS, System Design, Docker, MongoDB",BCA,3-5,2,2,Yes,Android Developer,None
+Android Developer,"Java, Kotlin, Android SDK","Firebase, DSA",M.Sc,1-3,6,2,Yes,Android Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","Firebase, DSA, Linux, REST API",BCA,1-3,3,0,No,Data Scientist,"Statistics, Machine Learning"
+Python Developer,"Python, Flask, Django","CI/CD, System Design, AWS, Firebase",M.Sc,1-3,4,1,Yes,Python Developer,None
+Data Analyst,"Python, SQL, Excel","Git, Docker",Diploma,1-3,4,1,Yes,Data Analyst,None
+Python Developer,"Python, Flask, Django","Docker, Git, REST API, System Design, AWS",B.Tech,1-3,3,4,Yes,Python Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","REST API, DSA, CI/CD",B.Tech,1-3,5,3,Yes,Data Scientist,None
+Frontend Developer,"HTML, CSS, JavaScript","DSA, REST API, Docker",B.Sc,3-5,5,4,Yes,Frontend Developer,None
+Data Analyst,"Python, SQL, Excel","Docker, Firebase, Linux",Diploma,1-3,2,3,Yes,Data Analyst,None
+Java Developer,"Java, OOP, Spring","Firebase, Git, DSA, AWS, CI/CD",MCA,0-1,6,2,Yes,Java Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","DSA, MongoDB",MCA,3-5,1,4,No,Data Scientist,"Python, Machine Learning, Statistics"
+Frontend Developer,"HTML, CSS, JavaScript","Git, Firebase, Linux",BCA,3-5,3,0,No,Frontend Developer,"HTML, CSS"
+ML Engineer,"Python, Deep Learning, TensorFlow","Linux, AWS, MongoDB",Diploma,1-3,5,1,Yes,ML Engineer,None
+Flutter Developer,"Dart, Flutter","Git, DSA, AWS, Firebase",M.Sc,3-5,6,4,Yes,Flutter Developer,None
+Java Developer,"Java, OOP, Spring","DSA, System Design, MongoDB",Diploma,3-5,0,0,No,Java Developer,"Spring, OOP"
+Data Scientist,"Python, Machine Learning, Statistics","DSA, CI/CD",MCA,Fresher,3,3,Yes,Data Scientist,None
+Python Developer,"Python, Flask, Django","Linux, Firebase, MongoDB",B.Sc,3-5,3,3,Yes,Python Developer,None
+Data Analyst,"Python, SQL, Excel","Firebase, Linux, AWS, MongoDB, DSA",Diploma,1-3,3,0,No,Data Analyst,"Python, Excel"
+Data Scientist,"Python, Machine Learning, Statistics","Git, REST API, Linux, DSA, CI/CD",MCA,3-5,1,0,No,Data Scientist,"Machine Learning, Statistics"
+Full Stack Developer,"JavaScript, React, Node.js","System Design, Firebase, MongoDB, CI/CD",M.Sc,1-3,1,0,No,Full Stack Developer,"Node.js, JavaScript, React"
+Data Analyst,"Python, SQL, Excel","MongoDB, REST API",M.Sc,3-5,6,2,Yes,Data Analyst,None
+Android Developer,"Java, Kotlin, Android SDK","Firebase, DSA, System Design, AWS, Docker",Diploma,3-5,6,1,Yes,Android Developer,None
+Flutter Developer,"Dart, Flutter","AWS, CI/CD, System Design",Diploma,1-3,5,3,Yes,Flutter Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","CI/CD, System Design",B.Sc,0-1,5,3,Yes,ML Engineer,None
+Flutter Developer,"Dart, Flutter","AWS, Linux",Diploma,0-1,6,4,Yes,Flutter Developer,None
+Data Analyst,"Python, SQL, Excel","Docker, REST API, Linux, DSA",MCA,Fresher,6,2,Yes,Data Analyst,None
+Android Developer,"Java, Kotlin, Android SDK","CI/CD, Git, AWS, System Design",BCA,3-5,1,2,No,Android Developer,Kotlin
+Full Stack Developer,"JavaScript, React, Node.js","REST API, MongoDB, CI/CD",M.Sc,Fresher,0,2,No,Full Stack Developer,Node.js
+Frontend Developer,"HTML, CSS, JavaScript","Linux, Docker, DSA",MCA,1-3,1,3,No,Frontend Developer,"JavaScript, CSS, HTML"
+Android Developer,"Java, Kotlin, Android SDK","MongoDB, Firebase, Git",Diploma,0-1,2,3,Yes,Android Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","CI/CD, Firebase",BCA,3-5,5,4,Yes,Data Scientist,None
+ML Engineer,"Python, Deep Learning, TensorFlow","MongoDB, Git, Docker, DSA",Diploma,0-1,4,0,No,ML Engineer,"Python, Deep Learning"
+Frontend Developer,"HTML, CSS, JavaScript","CI/CD, Git",MCA,1-3,6,1,Yes,Frontend Developer,None
+Android Developer,"Java, Kotlin, Android SDK","DSA, Linux, Git",BCA,3-5,5,2,Yes,Android Developer,None
+Data Analyst,"Python, SQL, Excel","Firebase, CI/CD, DSA, MongoDB, AWS",BCA,1-3,6,4,Yes,Data Analyst,None
+Python Developer,"Python, Flask, Django","CI/CD, DSA, System Design",MCA,0-1,3,4,Yes,Python Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Git, Linux, MongoDB",B.Sc,3-5,1,4,No,Frontend Developer,HTML
+Frontend Developer,"HTML, CSS, JavaScript","CI/CD, REST API, Docker",B.Sc,1-3,4,0,No,Frontend Developer,HTML
+Frontend Developer,"HTML, CSS, JavaScript","Git, System Design, AWS, CI/CD",BCA,1-3,0,4,No,Frontend Developer,"HTML, JavaScript"
+Data Scientist,"Python, Machine Learning, Statistics","REST API, Docker",Diploma,3-5,0,0,No,Data Scientist,"Python, Machine Learning, Statistics"
+Full Stack Developer,"JavaScript, React, Node.js","Git, Firebase, Docker",B.Tech,3-5,1,3,No,Full Stack Developer,"JavaScript, Node.js"
+Data Scientist,"Python, Machine Learning, Statistics","Git, AWS",MCA,Fresher,0,0,No,Data Scientist,"Python, Statistics"
+ML Engineer,"Python, Deep Learning, TensorFlow","CI/CD, System Design",Diploma,Fresher,1,0,No,ML Engineer,"TensorFlow, Deep Learning, Python"
+Python Developer,"Python, Flask, Django","System Design, REST API, Docker, CI/CD, Git",BCA,0-1,4,0,No,Python Developer,Python
+Python Developer,"Python, Flask, Django","Docker, AWS, Git, DSA",B.Tech,1-3,0,4,No,Python Developer,"Flask, Python"
+Backend Developer,"Java, Spring Boot, Node.js","Git, Firebase, CI/CD, Linux, DSA",Diploma,0-1,3,2,Yes,Backend Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","Docker, System Design",MCA,0-1,0,1,No,Full Stack Developer,"Node.js, JavaScript"
+Data Analyst,"Python, SQL, Excel","System Design, Linux",B.Tech,1-3,6,2,Yes,Data Analyst,None
+Full Stack Developer,"JavaScript, React, Node.js","REST API, Docker, CI/CD, System Design",M.Sc,1-3,4,4,Yes,Full Stack Developer,None
+Java Developer,"Java, OOP, Spring","REST API, Linux, Git, System Design, DSA",B.Sc,Fresher,0,4,No,Java Developer,"Spring, Java, OOP"
+Frontend Developer,"HTML, CSS, JavaScript","AWS, System Design, Docker",M.Sc,0-1,2,3,Yes,Frontend Developer,None
+Data Analyst,"Python, SQL, Excel","Git, Firebase, REST API, MongoDB, Docker",B.Sc,Fresher,3,2,Yes,Data Analyst,None
+Frontend Developer,"HTML, CSS, JavaScript","Linux, DSA, REST API, CI/CD, MongoDB",Diploma,0-1,5,3,Yes,Frontend Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","CI/CD, Docker, REST API, Firebase, AWS",MCA,0-1,0,4,No,ML Engineer,"TensorFlow, Python, Deep Learning"
+Java Developer,"Java, OOP, Spring","CI/CD, Linux, Git, DSA, Firebase",M.Sc,1-3,6,3,Yes,Java Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","AWS, DSA, REST API, Firebase, System Design",BCA,0-1,4,0,No,ML Engineer,TensorFlow
+Java Developer,"Java, OOP, Spring","REST API, CI/CD, MongoDB, AWS",B.Tech,1-3,5,3,Yes,Java Developer,None
+Java Developer,"Java, OOP, Spring","Linux, System Design, AWS",M.Sc,3-5,6,0,No,Java Developer,"Java, Spring, OOP"
+Flutter Developer,"Dart, Flutter","Linux, MongoDB, DSA, System Design",Diploma,3-5,4,0,No,Flutter Developer,"Flutter, Dart"
+Backend Developer,"Java, Spring Boot, Node.js","System Design, Firebase, AWS, MongoDB",B.Tech,1-3,1,0,No,Backend Developer,"Spring Boot, Java"
+Data Analyst,"Python, SQL, Excel","AWS, Firebase",M.Sc,1-3,4,4,Yes,Data Analyst,None
+Java Developer,"Java, OOP, Spring","CI/CD, Firebase, DSA",MCA,1-3,5,1,Yes,Java Developer,None
+Flutter Developer,"Dart, Flutter","Git, Docker, REST API",BCA,1-3,0,1,No,Flutter Developer,"Flutter, Dart"
+Full Stack Developer,"JavaScript, React, Node.js","MongoDB, Firebase, DSA, Docker, System Design",B.Sc,1-3,2,3,Yes,Full Stack Developer,None
+Android Developer,"Java, Kotlin, Android SDK","AWS, Docker",Diploma,3-5,6,0,No,Android Developer,"Android SDK, Java, Kotlin"
+Data Analyst,"Python, SQL, Excel","Git, CI/CD, AWS",B.Sc,Fresher,5,3,Yes,Data Analyst,None
+Android Developer,"Java, Kotlin, Android SDK","System Design, Firebase, CI/CD, AWS, MongoDB",BCA,1-3,6,1,Yes,Android Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","DSA, Firebase, System Design",BCA,1-3,4,2,Yes,ML Engineer,None
+Flutter Developer,"Dart, Flutter","Linux, AWS, Firebase, Git",Diploma,0-1,4,0,No,Flutter Developer,Dart
+Java Developer,"Java, OOP, Spring","System Design, Git",M.Sc,0-1,3,1,Yes,Java Developer,None
+Python Developer,"Python, Flask, Django","Linux, MongoDB, CI/CD",M.Sc,1-3,4,2,Yes,Python Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","CI/CD, AWS, MongoDB",BCA,3-5,2,2,Yes,Data Scientist,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Firebase, Linux, REST API, Git",B.Sc,Fresher,0,4,No,ML Engineer,"TensorFlow, Python, Deep Learning"
+Full Stack Developer,"JavaScript, React, Node.js","CI/CD, REST API, DSA, Linux, MongoDB",Diploma,3-5,6,1,Yes,Full Stack Developer,None
+Java Developer,"Java, OOP, Spring","CI/CD, Git, Docker",Diploma,3-5,6,0,No,Java Developer,"Spring, OOP"
+Java Developer,"Java, OOP, Spring","CI/CD, Docker",B.Sc,Fresher,0,1,No,Java Developer,"OOP, Spring, Java"
+ML Engineer,"Python, Deep Learning, TensorFlow","MongoDB, DSA",B.Tech,1-3,5,4,Yes,ML Engineer,None
+Python Developer,"Python, Flask, Django","MongoDB, AWS, Linux",M.Sc,Fresher,4,3,Yes,Python Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","CI/CD, AWS, MongoDB",MCA,Fresher,0,1,No,Data Scientist,"Machine Learning, Python"
+Java Developer,"Java, OOP, Spring","REST API, Linux, Docker, DSA, Git",BCA,3-5,4,4,Yes,Java Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Linux, AWS, Firebase",BCA,0-1,2,4,Yes,ML Engineer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Linux, Docker, REST API",M.Sc,3-5,5,0,No,ML Engineer,"Deep Learning, TensorFlow"
+Full Stack Developer,"JavaScript, React, Node.js","AWS, Firebase, REST API, Git, System Design",MCA,0-1,5,0,No,Full Stack Developer,"React, Node.js"
+Java Developer,"Java, OOP, Spring","CI/CD, Linux, Git",B.Tech,1-3,1,0,No,Java Developer,"Spring, OOP, Java"
+Flutter Developer,"Dart, Flutter","System Design, Firebase, Linux",B.Sc,1-3,1,4,No,Flutter Developer,Flutter
+Backend Developer,"Java, Spring Boot, Node.js","Firebase, Git, Docker, DSA",B.Tech,0-1,6,3,Yes,Backend Developer,None
+Python Developer,"Python, Flask, Django","System Design, MongoDB, Docker, REST API, Firebase",MCA,1-3,3,0,No,Python Developer,Python
+Data Scientist,"Python, Machine Learning, Statistics","Linux, Git",M.Sc,3-5,4,2,Yes,Data Scientist,None
+Data Analyst,"Python, SQL, Excel","MongoDB, System Design, CI/CD, AWS, DSA",BCA,1-3,1,4,No,Data Analyst,SQL
+Java Developer,"Java, OOP, Spring","Docker, REST API, AWS, DSA, Git",BCA,Fresher,5,2,Yes,Java Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","Git, Docker, AWS, REST API, CI/CD",BCA,Fresher,4,1,Yes,Data Scientist,None
+Flutter Developer,"Dart, Flutter","MongoDB, REST API, System Design, Docker, Git",M.Sc,1-3,3,2,Yes,Flutter Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","System Design, AWS, DSA, Git, Linux",BCA,3-5,2,0,No,Full Stack Developer,"Node.js, JavaScript"
+Frontend Developer,"HTML, CSS, JavaScript","Git, Firebase, DSA, Docker, MongoDB",MCA,1-3,3,3,Yes,Frontend Developer,None
+Data Analyst,"Python, SQL, Excel","MongoDB, Linux, CI/CD, REST API, Docker",BCA,1-3,0,4,No,Data Analyst,Python
+Flutter Developer,"Dart, Flutter","Linux, Firebase",MCA,1-3,1,2,No,Flutter Developer,Flutter
+Backend Developer,"Java, Spring Boot, Node.js","CI/CD, REST API",B.Sc,0-1,1,2,No,Backend Developer,Node.js
+Backend Developer,"Java, Spring Boot, Node.js","Linux, Git",M.Sc,1-3,1,0,No,Backend Developer,Spring Boot
+Backend Developer,"Java, Spring Boot, Node.js","Git, REST API, System Design, MongoDB, DSA",M.Sc,3-5,4,3,Yes,Backend Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Docker, DSA, CI/CD, MongoDB, System Design",B.Tech,3-5,5,2,Yes,Backend Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","CI/CD, DSA, System Design, Firebase",M.Sc,3-5,3,4,Yes,Frontend Developer,None
+Android Developer,"Java, Kotlin, Android SDK","CI/CD, DSA, Firebase",B.Sc,1-3,3,1,Yes,Android Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","CI/CD, System Design",B.Sc,Fresher,0,4,No,ML Engineer,"TensorFlow, Python, Deep Learning"
+Flutter Developer,"Dart, Flutter","Docker, System Design",Diploma,0-1,6,0,No,Flutter Developer,"Flutter, Dart"
+Flutter Developer,"Dart, Flutter","MongoDB, Linux, Docker",Diploma,1-3,4,2,Yes,Flutter Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Linux, Docker, System Design, REST API",Diploma,0-1,4,3,Yes,ML Engineer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","DSA, MongoDB, REST API, AWS, Docker",M.Sc,3-5,1,2,No,ML Engineer,Deep Learning
+ML Engineer,"Python, Deep Learning, TensorFlow","System Design, MongoDB, DSA, CI/CD",M.Sc,Fresher,2,1,Yes,ML Engineer,None
+Android Developer,"Java, Kotlin, Android SDK","Git, REST API",B.Tech,Fresher,1,3,No,Android Developer,"Android SDK, Kotlin"
+Backend Developer,"Java, Spring Boot, Node.js","Git, Firebase",B.Tech,Fresher,5,0,No,Backend Developer,Spring Boot
+Frontend Developer,"HTML, CSS, JavaScript","Firebase, MongoDB, Git, REST API",BCA,Fresher,3,3,Yes,Frontend Developer,None
+Python Developer,"Python, Flask, Django","DSA, System Design, Firebase, REST API, MongoDB",Diploma,3-5,3,3,Yes,Python Developer,None
+Data Analyst,"Python, SQL, Excel","System Design, AWS, MongoDB, Linux",B.Sc,0-1,1,2,No,Data Analyst,"Python, Excel, SQL"
+Android Developer,"Java, Kotlin, Android SDK","Firebase, AWS, Git",B.Tech,0-1,4,0,No,Android Developer,"Kotlin, Java"
+Java Developer,"Java, OOP, Spring","REST API, CI/CD, MongoDB, AWS",M.Sc,1-3,5,2,Yes,Java Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","System Design, Git, CI/CD",B.Sc,1-3,4,2,Yes,Full Stack Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","System Design, AWS, REST API, CI/CD",B.Tech,Fresher,1,1,No,Data Scientist,Statistics
+Data Analyst,"Python, SQL, Excel","AWS, REST API, Firebase, MongoDB, Docker",MCA,Fresher,1,2,No,Data Analyst,Excel
+Frontend Developer,"HTML, CSS, JavaScript","CI/CD, DSA, Docker",BCA,0-1,5,1,Yes,Frontend Developer,None
+Python Developer,"Python, Flask, Django","Linux, CI/CD",M.Sc,0-1,3,3,Yes,Python Developer,None
+Python Developer,"Python, Flask, Django","Linux, MongoDB, CI/CD",Diploma,0-1,1,4,No,Python Developer,"Flask, Python"
+Data Analyst,"Python, SQL, Excel","Git, DSA",B.Sc,1-3,5,1,Yes,Data Analyst,None
+Data Analyst,"Python, SQL, Excel","Docker, AWS, DSA",M.Sc,1-3,4,3,Yes,Data Analyst,None
+Frontend Developer,"HTML, CSS, JavaScript","System Design, DSA, Git",BCA,0-1,2,2,Yes,Frontend Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","AWS, Linux, Docker, Git, MongoDB",MCA,3-5,1,1,No,ML Engineer,"Python, TensorFlow"
+Flutter Developer,"Dart, Flutter","REST API, System Design, Git, CI/CD",Diploma,0-1,5,3,Yes,Flutter Developer,None
+Flutter Developer,"Dart, Flutter","Firebase, Docker, System Design, Linux, REST API",B.Tech,0-1,0,4,No,Flutter Developer,"Flutter, Dart"
+Data Scientist,"Python, Machine Learning, Statistics","Docker, AWS, CI/CD, Git, MongoDB",B.Sc,Fresher,1,2,No,Data Scientist,"Machine Learning, Statistics"
+Data Analyst,"Python, SQL, Excel","Docker, AWS",M.Sc,3-5,6,4,Yes,Data Analyst,None
+Android Developer,"Java, Kotlin, Android SDK","MongoDB, Linux, Docker, REST API",B.Sc,3-5,6,2,Yes,Android Developer,None
+Flutter Developer,"Dart, Flutter","DSA, AWS, Git, REST API",BCA,1-3,1,3,No,Flutter Developer,Dart
+Android Developer,"Java, Kotlin, Android SDK","Git, AWS",B.Sc,3-5,0,4,No,Android Developer,"Kotlin, Android SDK, Java"
+Data Analyst,"Python, SQL, Excel","REST API, Linux, CI/CD, System Design, Firebase",MCA,3-5,3,0,No,Data Analyst,Excel
+Flutter Developer,"Dart, Flutter","REST API, System Design, Docker, Linux, AWS",B.Sc,3-5,5,2,Yes,Flutter Developer,None
+Java Developer,"Java, OOP, Spring","Docker, Firebase, Linux, CI/CD, Git",BCA,3-5,3,4,Yes,Java Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Firebase, CI/CD, REST API",B.Sc,Fresher,2,0,No,Frontend Developer,JavaScript
+Python Developer,"Python, Flask, Django","MongoDB, AWS",BCA,0-1,1,1,No,Python Developer,"Python, Flask, Django"
+Python Developer,"Python, Flask, Django","DSA, MongoDB",M.Sc,1-3,1,3,No,Python Developer,"Python, Django"
+Backend Developer,"Java, Spring Boot, Node.js","System Design, CI/CD, DSA, Git, MongoDB",B.Sc,0-1,4,1,Yes,Backend Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","REST API, Firebase, AWS, System Design",M.Sc,0-1,0,2,No,Full Stack Developer,React
+Frontend Developer,"HTML, CSS, JavaScript","CI/CD, REST API, Firebase, System Design",Diploma,Fresher,2,2,Yes,Frontend Developer,None
+Android Developer,"Java, Kotlin, Android SDK","CI/CD, AWS, DSA, Git",B.Sc,0-1,3,1,Yes,Android Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Linux, System Design, DSA, REST API",M.Sc,3-5,5,2,Yes,Frontend Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","System Design, DSA, MongoDB, REST API, Docker",B.Sc,1-3,4,0,No,Data Scientist,Machine Learning
+Full Stack Developer,"JavaScript, React, Node.js","AWS, Docker, MongoDB, REST API, CI/CD",MCA,1-3,2,4,Yes,Full Stack Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","System Design, Docker",MCA,3-5,5,2,Yes,Frontend Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Firebase, Linux, DSA",B.Sc,1-3,2,3,Yes,Backend Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Docker, Linux, System Design, MongoDB, AWS",M.Sc,1-3,6,1,Yes,Backend Developer,None
+Data Analyst,"Python, SQL, Excel","System Design, Git, REST API",Diploma,Fresher,3,3,Yes,Data Analyst,None
+Python Developer,"Python, Flask, Django","DSA, Firebase",BCA,1-3,6,3,Yes,Python Developer,None
+Data Analyst,"Python, SQL, Excel","MongoDB, CI/CD, REST API",Diploma,3-5,5,0,No,Data Analyst,"SQL, Python"
+Data Scientist,"Python, Machine Learning, Statistics","System Design, Docker",B.Tech,1-3,3,4,Yes,Data Scientist,None
+Data Analyst,"Python, SQL, Excel","Git, DSA, AWS, MongoDB, Docker",MCA,1-3,5,1,Yes,Data Analyst,None
+Full Stack Developer,"JavaScript, React, Node.js","CI/CD, MongoDB, Linux",B.Sc,0-1,3,4,Yes,Full Stack Developer,None
+Python Developer,"Python, Flask, Django","AWS, Linux",MCA,1-3,3,1,Yes,Python Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","AWS, Linux, DSA, MongoDB",B.Sc,3-5,1,4,No,Backend Developer,"Node.js, Spring Boot, Java"
+Android Developer,"Java, Kotlin, Android SDK","DSA, Firebase, AWS, Docker",B.Tech,Fresher,0,1,No,Android Developer,Kotlin
+Android Developer,"Java, Kotlin, Android SDK","Linux, DSA, CI/CD, Docker, Firebase",M.Sc,1-3,0,3,No,Android Developer,"Android SDK, Java"
+Data Scientist,"Python, Machine Learning, Statistics","Firebase, Docker",M.Sc,0-1,2,3,Yes,Data Scientist,None
+Data Analyst,"Python, SQL, Excel","Docker, Linux, CI/CD, MongoDB",M.Sc,3-5,3,1,Yes,Data Analyst,None
+ML Engineer,"Python, Deep Learning, TensorFlow","MongoDB, DSA",Diploma,Fresher,4,2,Yes,ML Engineer,None
+Full Stack Developer,"JavaScript, React, Node.js","AWS, REST API, Docker",MCA,3-5,6,0,No,Full Stack Developer,"JavaScript, React, Node.js"
+Flutter Developer,"Dart, Flutter","MongoDB, CI/CD, DSA",B.Tech,1-3,5,4,Yes,Flutter Developer,None
+Flutter Developer,"Dart, Flutter","Firebase, MongoDB",MCA,Fresher,5,2,Yes,Flutter Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","System Design, DSA, Firebase, Linux, Git",MCA,1-3,5,1,Yes,Backend Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","Git, DSA, CI/CD, Firebase",BCA,0-1,4,0,No,Full Stack Developer,"JavaScript, Node.js, React"
+Flutter Developer,"Dart, Flutter","MongoDB, Linux",M.Sc,1-3,6,2,Yes,Flutter Developer,None
+Data Analyst,"Python, SQL, Excel","CI/CD, Git, MongoDB, Docker, REST API",MCA,1-3,3,1,Yes,Data Analyst,None
+Flutter Developer,"Dart, Flutter","CI/CD, Git",B.Tech,0-1,2,0,No,Flutter Developer,"Flutter, Dart"
+Frontend Developer,"HTML, CSS, JavaScript","Git, MongoDB, System Design, DSA, CI/CD",M.Sc,0-1,1,4,No,Frontend Developer,"JavaScript, HTML, CSS"
+Frontend Developer,"HTML, CSS, JavaScript","Linux, DSA, CI/CD, Firebase, System Design",M.Sc,0-1,1,2,No,Frontend Developer,CSS
+Backend Developer,"Java, Spring Boot, Node.js","Git, Docker",B.Tech,Fresher,0,4,No,Backend Developer,"Spring Boot, Node.js, Java"
+Backend Developer,"Java, Spring Boot, Node.js","MongoDB, Git, AWS, CI/CD",B.Tech,3-5,1,0,No,Backend Developer,Spring Boot
+Flutter Developer,"Dart, Flutter","Firebase, CI/CD, REST API, Docker, AWS",B.Tech,1-3,4,1,Yes,Flutter Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","AWS, Linux, MongoDB, DSA, System Design",B.Tech,0-1,0,0,No,Data Scientist,Statistics
+Backend Developer,"Java, Spring Boot, Node.js","MongoDB, AWS",B.Sc,1-3,0,0,No,Backend Developer,"Node.js, Java, Spring Boot"
+Android Developer,"Java, Kotlin, Android SDK","REST API, Docker, CI/CD",MCA,0-1,0,1,No,Android Developer,Java
+Flutter Developer,"Dart, Flutter","REST API, Git, AWS, Linux",M.Sc,Fresher,5,4,Yes,Flutter Developer,None
+Flutter Developer,"Dart, Flutter","CI/CD, DSA, MongoDB, Git, System Design",M.Sc,Fresher,4,3,Yes,Flutter Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","CI/CD, REST API, MongoDB, Linux",Diploma,1-3,4,4,Yes,Full Stack Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Docker, REST API, MongoDB",MCA,3-5,5,4,Yes,ML Engineer,None
+Frontend Developer,"HTML, CSS, JavaScript","System Design, Git, Linux, AWS, Docker",BCA,Fresher,2,2,Yes,Frontend Developer,None
+Java Developer,"Java, OOP, Spring","Linux, Firebase, MongoDB",MCA,0-1,2,2,Yes,Java Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Linux, AWS, Docker, Firebase, DSA",Diploma,3-5,5,1,Yes,Backend Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","Docker, Linux, System Design, DSA, AWS",Diploma,3-5,1,1,No,Full Stack Developer,React
+Backend Developer,"Java, Spring Boot, Node.js","CI/CD, Linux, Firebase, AWS",Diploma,1-3,3,4,Yes,Backend Developer,None
+Flutter Developer,"Dart, Flutter","AWS, Docker, Firebase",B.Sc,Fresher,5,0,No,Flutter Developer,"Dart, Flutter"
+Flutter Developer,"Dart, Flutter","Docker, System Design, MongoDB, AWS",Diploma,0-1,1,4,No,Flutter Developer,"Dart, Flutter"
+Full Stack Developer,"JavaScript, React, Node.js","REST API, AWS",Diploma,Fresher,0,0,No,Full Stack Developer,React
+Full Stack Developer,"JavaScript, React, Node.js","REST API, MongoDB, Firebase, System Design, Docker",Diploma,3-5,3,3,Yes,Full Stack Developer,None
+Flutter Developer,"Dart, Flutter","DSA, Linux, MongoDB, Firebase, Git",BCA,1-3,5,4,Yes,Flutter Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","CI/CD, AWS, DSA, Git",M.Sc,Fresher,6,2,Yes,ML Engineer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","AWS, Firebase, Git, Linux, REST API",M.Sc,0-1,0,4,No,ML Engineer,"Python, Deep Learning, TensorFlow"
+Backend Developer,"Java, Spring Boot, Node.js","MongoDB, Linux, Docker",M.Sc,1-3,4,0,No,Backend Developer,Node.js
+Java Developer,"Java, OOP, Spring","Git, Linux, REST API",Diploma,3-5,0,3,No,Java Developer,"OOP, Spring"
+Flutter Developer,"Dart, Flutter","CI/CD, REST API, MongoDB, System Design, Firebase",BCA,0-1,3,4,Yes,Flutter Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","MongoDB, REST API",BCA,1-3,4,0,No,Full Stack Developer,"Node.js, JavaScript"
+Backend Developer,"Java, Spring Boot, Node.js","DSA, AWS, CI/CD",BCA,Fresher,0,3,No,Backend Developer,Spring Boot
+Data Analyst,"Python, SQL, Excel","CI/CD, AWS, Git, DSA, Docker",B.Tech,1-3,1,0,No,Data Analyst,"Python, Excel, SQL"
+Java Developer,"Java, OOP, Spring","AWS, DSA, Docker",M.Sc,1-3,0,2,No,Java Developer,Java
+Full Stack Developer,"JavaScript, React, Node.js","CI/CD, Docker, Linux, Git, REST API",B.Tech,3-5,0,2,No,Full Stack Developer,"Node.js, JavaScript, React"
+Backend Developer,"Java, Spring Boot, Node.js","Firebase, System Design, AWS",B.Sc,0-1,5,1,Yes,Backend Developer,None
+Python Developer,"Python, Flask, Django","Linux, Git, DSA",B.Tech,0-1,2,0,No,Python Developer,"Python, Django, Flask"
+Android Developer,"Java, Kotlin, Android SDK","Docker, REST API, System Design, DSA, AWS",M.Sc,Fresher,6,3,Yes,Android Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","Firebase, Git, Docker, REST API, AWS",MCA,3-5,4,4,Yes,Data Scientist,None
+Java Developer,"Java, OOP, Spring","Git, MongoDB, CI/CD, DSA, REST API",Diploma,0-1,0,2,No,Java Developer,"Spring, Java"
+Data Analyst,"Python, SQL, Excel","AWS, MongoDB",MCA,3-5,2,4,Yes,Data Analyst,None
+Backend Developer,"Java, Spring Boot, Node.js","System Design, Firebase",BCA,Fresher,3,3,Yes,Backend Developer,None
+Data Analyst,"Python, SQL, Excel","CI/CD, MongoDB, Git, REST API, System Design",B.Sc,Fresher,3,1,Yes,Data Analyst,None
+Flutter Developer,"Dart, Flutter","DSA, AWS",B.Sc,3-5,0,1,No,Flutter Developer,"Dart, Flutter"
+Frontend Developer,"HTML, CSS, JavaScript","Git, REST API, MongoDB, DSA",Diploma,Fresher,4,2,Yes,Frontend Developer,None
+Java Developer,"Java, OOP, Spring","DSA, AWS, MongoDB, Docker, Linux",Diploma,Fresher,1,3,No,Java Developer,"OOP, Spring, Java"
+Android Developer,"Java, Kotlin, Android SDK","Linux, DSA, REST API",Diploma,1-3,4,0,No,Android Developer,"Java, Kotlin"
+Data Scientist,"Python, Machine Learning, Statistics","Git, MongoDB, Firebase",M.Sc,0-1,5,3,Yes,Data Scientist,None
+Backend Developer,"Java, Spring Boot, Node.js","Docker, DSA, MongoDB, Linux, CI/CD",BCA,3-5,4,0,No,Backend Developer,"Node.js, Java, Spring Boot"
+Flutter Developer,"Dart, Flutter","AWS, DSA, Docker",B.Tech,1-3,5,3,Yes,Flutter Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","MongoDB, Firebase, CI/CD",B.Sc,0-1,2,4,Yes,Full Stack Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","System Design, Linux, CI/CD",Diploma,1-3,5,2,Yes,ML Engineer,None
+Backend Developer,"Java, Spring Boot, Node.js","System Design, Firebase, Docker, Linux, REST API",M.Sc,1-3,5,0,No,Backend Developer,"Java, Node.js"
+Frontend Developer,"HTML, CSS, JavaScript","REST API, CI/CD, Git, MongoDB, System Design",BCA,1-3,1,3,No,Frontend Developer,JavaScript
+Python Developer,"Python, Flask, Django","Git, MongoDB, CI/CD, Docker, Linux",B.Tech,1-3,6,0,No,Python Developer,"Flask, Python, Django"
+Data Scientist,"Python, Machine Learning, Statistics","REST API, Git, Linux, System Design, AWS",B.Tech,Fresher,1,4,No,Data Scientist,"Statistics, Python"
+Backend Developer,"Java, Spring Boot, Node.js","MongoDB, Docker, Linux",B.Tech,3-5,0,4,No,Backend Developer,"Java, Spring Boot"
+Java Developer,"Java, OOP, Spring","Firebase, MongoDB, Docker, REST API",B.Sc,0-1,1,2,No,Java Developer,"Java, Spring, OOP"
+Python Developer,"Python, Flask, Django","REST API, Firebase, Docker, Linux",B.Tech,1-3,0,3,No,Python Developer,"Django, Flask"
+Python Developer,"Python, Flask, Django","REST API, Docker, AWS, Git, Firebase",B.Tech,3-5,5,1,Yes,Python Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","REST API, MongoDB, DSA, Linux",B.Tech,1-3,5,2,Yes,Backend Developer,None
+Python Developer,"Python, Flask, Django","Firebase, MongoDB, Docker, Git",MCA,1-3,0,2,No,Python Developer,Python
+Python Developer,"Python, Flask, Django","Git, REST API, MongoDB",M.Sc,0-1,0,3,No,Python Developer,"Python, Flask"
+Data Scientist,"Python, Machine Learning, Statistics","CI/CD, AWS",MCA,1-3,6,3,Yes,Data Scientist,None
+Python Developer,"Python, Flask, Django","MongoDB, Linux",BCA,3-5,6,3,Yes,Python Developer,None
+Flutter Developer,"Dart, Flutter","Docker, AWS, Firebase",BCA,0-1,0,2,No,Flutter Developer,"Flutter, Dart"
+Flutter Developer,"Dart, Flutter","Git, CI/CD, Firebase, Docker",Diploma,3-5,5,4,Yes,Flutter Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","MongoDB, Linux",B.Tech,3-5,2,4,Yes,Data Scientist,None
+Frontend Developer,"HTML, CSS, JavaScript","Linux, Git, Firebase, Docker",B.Tech,3-5,5,3,Yes,Frontend Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Firebase, MongoDB, DSA, REST API, Docker",B.Tech,1-3,5,4,Yes,Backend Developer,None
+Flutter Developer,"Dart, Flutter","System Design, Linux, Docker, REST API",BCA,0-1,4,1,Yes,Flutter Developer,None
+Android Developer,"Java, Kotlin, Android SDK","Docker, System Design, DSA",MCA,3-5,3,1,Yes,Android Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","Linux, Git, CI/CD, System Design",M.Sc,3-5,5,2,Yes,Full Stack Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","REST API, Git, CI/CD, System Design",BCA,Fresher,1,4,No,Data Scientist,"Python, Statistics"
+Java Developer,"Java, OOP, Spring","MongoDB, System Design, DSA",M.Sc,1-3,4,2,Yes,Java Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","DSA, Linux, Git, System Design, REST API",BCA,0-1,1,3,No,Full Stack Developer,React
+Python Developer,"Python, Flask, Django","DSA, AWS, MongoDB",B.Tech,1-3,1,3,No,Python Developer,"Python, Django"
+Android Developer,"Java, Kotlin, Android SDK","Firebase, CI/CD, Docker, REST API",B.Sc,3-5,4,4,Yes,Android Developer,None
+Flutter Developer,"Dart, Flutter","CI/CD, REST API, Git",B.Sc,Fresher,5,0,No,Flutter Developer,Flutter
+Android Developer,"Java, Kotlin, Android SDK","System Design, MongoDB, Linux",B.Tech,1-3,2,0,No,Android Developer,"Kotlin, Android SDK, Java"
+ML Engineer,"Python, Deep Learning, TensorFlow","REST API, CI/CD, Git",BCA,0-1,3,0,No,ML Engineer,"Python, TensorFlow"
+Data Analyst,"Python, SQL, Excel","Firebase, System Design, Docker, CI/CD, Git",M.Sc,0-1,3,0,No,Data Analyst,"Excel, SQL, Python"
+Android Developer,"Java, Kotlin, Android SDK","System Design, Firebase",Diploma,0-1,3,2,Yes,Android Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Git, REST API, Docker, AWS, Firebase",Diploma,1-3,2,3,Yes,Frontend Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Git, REST API, DSA, AWS, Linux",B.Sc,3-5,5,1,Yes,Backend Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","REST API, Docker",Diploma,0-1,2,1,Yes,Full Stack Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","CI/CD, REST API",MCA,3-5,6,2,Yes,ML Engineer,None
+Backend Developer,"Java, Spring Boot, Node.js","DSA, Git, REST API, AWS, Firebase",M.Sc,0-1,6,4,Yes,Backend Developer,None
+Flutter Developer,"Dart, Flutter","AWS, CI/CD",B.Tech,0-1,6,0,No,Flutter Developer,Flutter
+Flutter Developer,"Dart, Flutter","MongoDB, Git, AWS, Firebase",B.Tech,Fresher,4,2,Yes,Flutter Developer,None
+Java Developer,"Java, OOP, Spring","DSA, Docker",B.Sc,1-3,1,3,No,Java Developer,Java
+Java Developer,"Java, OOP, Spring","Git, DSA, Firebase, Linux",MCA,0-1,4,0,No,Java Developer,"Spring, Java, OOP"
+Data Analyst,"Python, SQL, Excel","Git, DSA, Docker, REST API",Diploma,1-3,2,3,Yes,Data Analyst,None
+Data Analyst,"Python, SQL, Excel","Linux, Git, DSA, REST API, MongoDB",BCA,1-3,2,4,Yes,Data Analyst,None
+Backend Developer,"Java, Spring Boot, Node.js","REST API, AWS, Firebase, Git, Docker",MCA,1-3,5,3,Yes,Backend Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","DSA, Git",M.Sc,0-1,3,4,Yes,Data Scientist,None
+Flutter Developer,"Dart, Flutter","Docker, MongoDB, Linux, AWS, Firebase",M.Sc,Fresher,3,0,No,Flutter Developer,"Flutter, Dart"
+Data Analyst,"Python, SQL, Excel","System Design, Docker",Diploma,3-5,6,4,Yes,Data Analyst,None
+Frontend Developer,"HTML, CSS, JavaScript","Firebase, Git, MongoDB",Diploma,Fresher,2,2,Yes,Frontend Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","DSA, Git, Linux, CI/CD",MCA,Fresher,0,0,No,Frontend Developer,HTML
+Python Developer,"Python, Flask, Django","Git, DSA, CI/CD, REST API, MongoDB",BCA,0-1,4,2,Yes,Python Developer,None
+Java Developer,"Java, OOP, Spring","Linux, Git, DSA, Firebase, CI/CD",M.Sc,Fresher,2,0,No,Java Developer,"Spring, OOP, Java"
+Full Stack Developer,"JavaScript, React, Node.js","Firebase, AWS",M.Sc,0-1,3,4,Yes,Full Stack Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","Docker, System Design",M.Sc,0-1,4,0,No,Data Scientist,"Machine Learning, Statistics, Python"
+Frontend Developer,"HTML, CSS, JavaScript","AWS, CI/CD, Linux, System Design",BCA,0-1,2,1,Yes,Frontend Developer,None
+Java Developer,"Java, OOP, Spring","AWS, System Design, CI/CD, MongoDB",Diploma,0-1,6,4,Yes,Java Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","MongoDB, AWS, CI/CD, DSA",B.Sc,3-5,2,0,No,Full Stack Developer,"Node.js, JavaScript"
+Data Analyst,"Python, SQL, Excel","Firebase, CI/CD, MongoDB",M.Sc,Fresher,1,2,No,Data Analyst,"Excel, Python"
+Flutter Developer,"Dart, Flutter","Linux, Git",B.Sc,0-1,0,3,No,Flutter Developer,"Dart, Flutter"
+Backend Developer,"Java, Spring Boot, Node.js","Git, DSA",MCA,Fresher,4,1,Yes,Backend Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","System Design, Git, MongoDB, Firebase",MCA,Fresher,5,3,Yes,Backend Developer,None
+Data Analyst,"Python, SQL, Excel","MongoDB, Linux, Firebase",M.Sc,1-3,6,0,No,Data Analyst,"Excel, SQL"
+Data Scientist,"Python, Machine Learning, Statistics","REST API, Firebase, AWS, CI/CD",B.Tech,1-3,5,3,Yes,Data Scientist,None
+Backend Developer,"Java, Spring Boot, Node.js","System Design, AWS",B.Sc,1-3,3,4,Yes,Backend Developer,None
+Flutter Developer,"Dart, Flutter","DSA, Docker",B.Sc,0-1,5,1,Yes,Flutter Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","REST API, AWS",B.Sc,3-5,5,1,Yes,Data Scientist,None
+Full Stack Developer,"JavaScript, React, Node.js","Firebase, MongoDB, Git, AWS, Linux",B.Tech,1-3,4,2,Yes,Full Stack Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","Docker, Firebase, Linux",M.Sc,3-5,0,3,No,Data Scientist,Machine Learning
+Data Analyst,"Python, SQL, Excel","REST API, Firebase, System Design, MongoDB, Linux",M.Sc,Fresher,3,4,Yes,Data Analyst,None
+Flutter Developer,"Dart, Flutter","System Design, AWS, REST API",B.Tech,3-5,4,0,No,Flutter Developer,Flutter
+Java Developer,"Java, OOP, Spring","Git, Firebase, Linux, CI/CD, AWS",BCA,0-1,5,1,Yes,Java Developer,None
+Flutter Developer,"Dart, Flutter","AWS, Firebase, REST API",MCA,Fresher,6,2,Yes,Flutter Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","MongoDB, CI/CD, Linux, System Design, Firebase",M.Sc,3-5,0,4,No,Data Scientist,Machine Learning
+ML Engineer,"Python, Deep Learning, TensorFlow","DSA, AWS, Linux",M.Sc,1-3,1,2,No,ML Engineer,"TensorFlow, Deep Learning"
+Data Scientist,"Python, Machine Learning, Statistics","Git, CI/CD, Linux, Docker, System Design",B.Sc,0-1,5,3,Yes,Data Scientist,None
+Data Analyst,"Python, SQL, Excel","System Design, Docker, Linux",Diploma,1-3,3,2,Yes,Data Analyst,None
+Frontend Developer,"HTML, CSS, JavaScript","Linux, DSA, CI/CD",BCA,1-3,6,1,Yes,Frontend Developer,None
+Data Analyst,"Python, SQL, Excel","Linux, CI/CD, MongoDB",Diploma,Fresher,2,1,Yes,Data Analyst,None
+Python Developer,"Python, Flask, Django","Firebase, Docker",MCA,3-5,3,2,Yes,Python Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Linux, Git, System Design, MongoDB",BCA,Fresher,6,2,Yes,Frontend Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","DSA, Docker, Linux, Git, AWS",MCA,0-1,0,0,No,ML Engineer,"TensorFlow, Deep Learning"
+Java Developer,"Java, OOP, Spring","Docker, CI/CD, AWS, System Design",B.Sc,0-1,6,2,Yes,Java Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","Linux, AWS",Diploma,3-5,4,3,Yes,Data Scientist,None
+Java Developer,"Java, OOP, Spring","Git, CI/CD, DSA, System Design, Linux",B.Tech,0-1,2,4,Yes,Java Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","Git, System Design, Linux, DSA",M.Sc,Fresher,1,1,No,Data Scientist,"Python, Machine Learning"
+Data Analyst,"Python, SQL, Excel","AWS, CI/CD, Firebase, DSA, Git",Diploma,Fresher,6,0,No,Data Analyst,"Python, SQL"
+Data Scientist,"Python, Machine Learning, Statistics","Docker, MongoDB, AWS, Firebase, Linux",MCA,1-3,4,2,Yes,Data Scientist,None
+Frontend Developer,"HTML, CSS, JavaScript","DSA, Linux",B.Tech,3-5,4,2,Yes,Frontend Developer,None
+Android Developer,"Java, Kotlin, Android SDK","Docker, Linux, DSA, System Design",B.Tech,0-1,3,0,No,Android Developer,"Java, Android SDK"
+Data Analyst,"Python, SQL, Excel","Firebase, Git, CI/CD, Linux",BCA,3-5,6,0,No,Data Analyst,"Python, Excel"
+Full Stack Developer,"JavaScript, React, Node.js","REST API, Git, Firebase, DSA, System Design",B.Tech,Fresher,3,4,Yes,Full Stack Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Docker, MongoDB, System Design, CI/CD, Linux",B.Sc,0-1,2,3,Yes,Backend Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","CI/CD, MongoDB",M.Sc,1-3,0,4,No,Frontend Developer,"JavaScript, CSS"
+Data Scientist,"Python, Machine Learning, Statistics","Docker, AWS, System Design",MCA,3-5,5,1,Yes,Data Scientist,None
+Python Developer,"Python, Flask, Django","REST API, AWS, Git, Docker",B.Sc,Fresher,6,3,Yes,Python Developer,None
+Java Developer,"Java, OOP, Spring","AWS, Git",BCA,3-5,3,0,No,Java Developer,OOP
+Java Developer,"Java, OOP, Spring","System Design, MongoDB",BCA,Fresher,2,3,Yes,Java Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Docker, Firebase, AWS",B.Sc,0-1,2,2,Yes,Backend Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Git, AWS, System Design",M.Sc,0-1,3,0,No,ML Engineer,"Python, Deep Learning, TensorFlow"
+Java Developer,"Java, OOP, Spring","System Design, Firebase, Linux",MCA,Fresher,0,1,No,Java Developer,"OOP, Spring, Java"
+Data Analyst,"Python, SQL, Excel","MongoDB, Git",BCA,1-3,3,4,Yes,Data Analyst,None
+Backend Developer,"Java, Spring Boot, Node.js","Docker, CI/CD, DSA, System Design, MongoDB",B.Tech,Fresher,0,0,No,Backend Developer,"Java, Spring Boot"
+Frontend Developer,"HTML, CSS, JavaScript","AWS, System Design, MongoDB",Diploma,1-3,1,4,No,Frontend Developer,"HTML, JavaScript"
+Data Scientist,"Python, Machine Learning, Statistics","AWS, REST API, MongoDB, System Design, Git",B.Sc,Fresher,1,3,No,Data Scientist,"Python, Statistics, Machine Learning"
+Frontend Developer,"HTML, CSS, JavaScript","Git, MongoDB, DSA, System Design",M.Sc,1-3,6,4,Yes,Frontend Developer,None
+Flutter Developer,"Dart, Flutter","MongoDB, REST API, Git, Firebase",B.Sc,3-5,2,0,No,Flutter Developer,"Dart, Flutter"
+Android Developer,"Java, Kotlin, Android SDK","REST API, Docker, Firebase, CI/CD, Linux",MCA,Fresher,1,0,No,Android Developer,"Android SDK, Kotlin"
+Data Analyst,"Python, SQL, Excel","Docker, System Design",Diploma,1-3,1,2,No,Data Analyst,"Excel, Python"
+ML Engineer,"Python, Deep Learning, TensorFlow","CI/CD, Git",Diploma,Fresher,2,1,Yes,ML Engineer,None
+Data Scientist,"Python, Machine Learning, Statistics","Docker, Git",BCA,Fresher,2,3,Yes,Data Scientist,None
+Java Developer,"Java, OOP, Spring","CI/CD, Linux",MCA,3-5,1,0,No,Java Developer,Java
+Backend Developer,"Java, Spring Boot, Node.js","MongoDB, Docker",BCA,0-1,0,2,No,Backend Developer,Spring Boot
+ML Engineer,"Python, Deep Learning, TensorFlow","CI/CD, Firebase, MongoDB, REST API",BCA,Fresher,4,3,Yes,ML Engineer,None
+Backend Developer,"Java, Spring Boot, Node.js","Git, Firebase, System Design",M.Sc,1-3,3,4,Yes,Backend Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Git, CI/CD, Docker, MongoDB, REST API",B.Tech,Fresher,6,2,Yes,Frontend Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","CI/CD, Firebase, System Design, Docker",M.Sc,3-5,6,3,Yes,Full Stack Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","REST API, Firebase, System Design, Docker",MCA,1-3,1,2,No,Full Stack Developer,"JavaScript, Node.js"
+Full Stack Developer,"JavaScript, React, Node.js","CI/CD, MongoDB, AWS, Firebase",Diploma,3-5,2,2,Yes,Full Stack Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Git, Firebase, Docker, System Design, CI/CD",B.Sc,1-3,0,3,No,ML Engineer,"TensorFlow, Deep Learning, Python"
+Python Developer,"Python, Flask, Django","Firebase, DSA, MongoDB, Linux, System Design",Diploma,1-3,1,1,No,Python Developer,"Flask, Django, Python"
+Full Stack Developer,"JavaScript, React, Node.js","CI/CD, Docker, System Design, Git",BCA,Fresher,0,0,No,Full Stack Developer,"JavaScript, React"
+ML Engineer,"Python, Deep Learning, TensorFlow","Linux, Firebase",B.Tech,0-1,6,0,No,ML Engineer,"Deep Learning, TensorFlow, Python"
+Android Developer,"Java, Kotlin, Android SDK","Firebase, Docker",M.Sc,Fresher,2,3,Yes,Android Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Firebase, System Design, AWS, Linux, MongoDB",Diploma,0-1,6,4,Yes,ML Engineer,None
+Data Scientist,"Python, Machine Learning, Statistics","AWS, REST API, System Design",B.Sc,0-1,5,4,Yes,Data Scientist,None
+Flutter Developer,"Dart, Flutter","Git, DSA, System Design",Diploma,3-5,3,4,Yes,Flutter Developer,None
+Java Developer,"Java, OOP, Spring","MongoDB, Linux, AWS, CI/CD, REST API",M.Sc,0-1,6,1,Yes,Java Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","Linux, System Design, Firebase",Diploma,3-5,1,2,No,Data Scientist,"Statistics, Machine Learning"
+Frontend Developer,"HTML, CSS, JavaScript","System Design, MongoDB, Linux, Git",MCA,3-5,4,1,Yes,Frontend Developer,None
+Java Developer,"Java, OOP, Spring","MongoDB, Linux",MCA,1-3,1,2,No,Java Developer,"Spring, Java"
+Java Developer,"Java, OOP, Spring","AWS, System Design, MongoDB, Linux, Git",B.Sc,0-1,6,2,Yes,Java Developer,None
+Java Developer,"Java, OOP, Spring","CI/CD, MongoDB",MCA,Fresher,2,3,Yes,Java Developer,None
+Flutter Developer,"Dart, Flutter","MongoDB, AWS, CI/CD, DSA",BCA,0-1,4,4,Yes,Flutter Developer,None
+Python Developer,"Python, Flask, Django","CI/CD, AWS",B.Tech,1-3,5,3,Yes,Python Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","DSA, AWS, System Design, Docker",B.Sc,1-3,4,3,Yes,Backend Developer,None
+Flutter Developer,"Dart, Flutter","Firebase, REST API, MongoDB",MCA,0-1,4,1,Yes,Flutter Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","REST API, DSA, AWS, CI/CD",BCA,1-3,3,2,Yes,Full Stack Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Linux, Docker, Firebase, AWS",MCA,Fresher,0,0,No,Frontend Developer,CSS
+Data Scientist,"Python, Machine Learning, Statistics","AWS, CI/CD",MCA,Fresher,2,1,Yes,Data Scientist,None
+Flutter Developer,"Dart, Flutter","MongoDB, CI/CD, REST API",BCA,Fresher,5,3,Yes,Flutter Developer,None
+Data Analyst,"Python, SQL, Excel","Docker, DSA",Diploma,Fresher,0,0,No,Data Analyst,"Excel, Python"
+Frontend Developer,"HTML, CSS, JavaScript","REST API, DSA, Docker, AWS",B.Sc,0-1,3,3,Yes,Frontend Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","REST API, System Design, Linux, Docker, AWS",B.Sc,3-5,5,1,Yes,ML Engineer,None
+Android Developer,"Java, Kotlin, Android SDK","Firebase, System Design, CI/CD, Git",B.Sc,Fresher,0,1,No,Android Developer,"Java, Android SDK"
+Android Developer,"Java, Kotlin, Android SDK","REST API, AWS",B.Sc,3-5,4,4,Yes,Android Developer,None
+Data Analyst,"Python, SQL, Excel","Git, REST API, AWS, CI/CD",M.Sc,Fresher,3,1,Yes,Data Analyst,None
+Data Analyst,"Python, SQL, Excel","DSA, Git, Linux, AWS",B.Sc,1-3,0,0,No,Data Analyst,Excel
+Java Developer,"Java, OOP, Spring","Git, Docker",BCA,Fresher,0,2,No,Java Developer,"OOP, Java"
+Data Analyst,"Python, SQL, Excel","Linux, Firebase, Git",B.Tech,Fresher,4,2,Yes,Data Analyst,None
+Android Developer,"Java, Kotlin, Android SDK","Firebase, CI/CD",M.Sc,3-5,2,1,Yes,Android Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Docker, Firebase, Git, DSA",MCA,0-1,5,0,No,ML Engineer,"Deep Learning, TensorFlow"
+Java Developer,"Java, OOP, Spring","Docker, DSA, Firebase, MongoDB",MCA,3-5,6,1,Yes,Java Developer,None
+Java Developer,"Java, OOP, Spring","Firebase, MongoDB",Diploma,3-5,6,2,Yes,Java Developer,None
+Flutter Developer,"Dart, Flutter","System Design, MongoDB",Diploma,1-3,1,3,No,Flutter Developer,Flutter
+Java Developer,"Java, OOP, Spring","REST API, Git, Docker, AWS, Firebase",MCA,1-3,5,2,Yes,Java Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","MongoDB, AWS",Diploma,Fresher,3,0,No,ML Engineer,"Deep Learning, TensorFlow"
+Android Developer,"Java, Kotlin, Android SDK","DSA, Docker",B.Sc,Fresher,3,0,No,Android Developer,Java
+Java Developer,"Java, OOP, Spring","Linux, DSA, Docker, System Design, AWS",B.Sc,Fresher,2,0,No,Java Developer,"OOP, Spring"
+Flutter Developer,"Dart, Flutter","Docker, Linux",BCA,Fresher,0,4,No,Flutter Developer,Dart
+ML Engineer,"Python, Deep Learning, TensorFlow","REST API, MongoDB",BCA,0-1,1,4,No,ML Engineer,"TensorFlow, Python"
+Android Developer,"Java, Kotlin, Android SDK","MongoDB, REST API, Git, Linux, AWS",B.Tech,Fresher,1,0,No,Android Developer,"Java, Kotlin, Android SDK"
+Frontend Developer,"HTML, CSS, JavaScript","AWS, MongoDB",MCA,1-3,3,0,No,Frontend Developer,CSS
+Android Developer,"Java, Kotlin, Android SDK","Docker, DSA, Firebase",B.Sc,Fresher,1,3,No,Android Developer,"Android SDK, Java, Kotlin"
+Python Developer,"Python, Flask, Django","AWS, REST API, Firebase, Linux",Diploma,3-5,0,3,No,Python Developer,Django
+Data Analyst,"Python, SQL, Excel","Firebase, MongoDB, CI/CD, System Design, REST API",B.Tech,1-3,3,0,No,Data Analyst,"Excel, SQL"
+ML Engineer,"Python, Deep Learning, TensorFlow","AWS, CI/CD",Diploma,Fresher,5,2,Yes,ML Engineer,None
+Android Developer,"Java, Kotlin, Android SDK","Firebase, MongoDB, REST API, CI/CD, DSA",M.Sc,3-5,4,3,Yes,Android Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","Firebase, Linux, MongoDB",B.Sc,0-1,2,2,Yes,Full Stack Developer,None
+Python Developer,"Python, Flask, Django","DSA, System Design, AWS, CI/CD",MCA,1-3,0,3,No,Python Developer,Python
+Frontend Developer,"HTML, CSS, JavaScript","REST API, MongoDB, CI/CD, Linux, Docker",Diploma,3-5,6,0,No,Frontend Developer,"HTML, CSS, JavaScript"
+ML Engineer,"Python, Deep Learning, TensorFlow","Linux, Firebase",B.Sc,1-3,0,3,No,ML Engineer,"Python, Deep Learning"
+ML Engineer,"Python, Deep Learning, TensorFlow","Linux, System Design, Git",B.Sc,3-5,2,2,Yes,ML Engineer,None
+Full Stack Developer,"JavaScript, React, Node.js","Firebase, CI/CD",M.Sc,1-3,0,1,No,Full Stack Developer,"JavaScript, Node.js"
+Backend Developer,"Java, Spring Boot, Node.js","MongoDB, REST API, DSA, AWS",BCA,Fresher,3,4,Yes,Backend Developer,None
+Data Analyst,"Python, SQL, Excel","System Design, REST API",Diploma,3-5,6,3,Yes,Data Analyst,None
+Python Developer,"Python, Flask, Django","REST API, AWS, CI/CD, DSA, Git",M.Sc,3-5,6,3,Yes,Python Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","DSA, AWS, Git, CI/CD",B.Sc,1-3,4,4,Yes,Backend Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","AWS, Docker, MongoDB, DSA",B.Sc,0-1,1,0,No,Full Stack Developer,"JavaScript, React"
+Backend Developer,"Java, Spring Boot, Node.js","System Design, Docker, REST API",B.Tech,1-3,5,2,Yes,Backend Developer,None
+Python Developer,"Python, Flask, Django","REST API, System Design, Git, Linux",B.Sc,0-1,0,0,No,Python Developer,"Django, Python"
+Frontend Developer,"HTML, CSS, JavaScript","Linux, DSA, System Design",Diploma,Fresher,4,4,Yes,Frontend Developer,None
+Java Developer,"Java, OOP, Spring","REST API, Linux, CI/CD, MongoDB",BCA,3-5,3,3,Yes,Java Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","System Design, DSA, REST API, AWS",MCA,0-1,2,4,Yes,ML Engineer,None
+Data Analyst,"Python, SQL, Excel","AWS, Docker",B.Sc,Fresher,6,0,No,Data Analyst,"Excel, SQL, Python"
+Python Developer,"Python, Flask, Django","Docker, Git",Diploma,0-1,0,2,No,Python Developer,"Django, Flask"
+Full Stack Developer,"JavaScript, React, Node.js","CI/CD, DSA, REST API",Diploma,Fresher,6,1,Yes,Full Stack Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","CI/CD, System Design, REST API",BCA,1-3,4,0,No,Backend Developer,Node.js
+Android Developer,"Java, Kotlin, Android SDK","DSA, REST API, Linux, Git",B.Sc,3-5,1,2,No,Android Developer,"Java, Android SDK"
+Data Scientist,"Python, Machine Learning, Statistics","Linux, Docker",BCA,0-1,6,1,Yes,Data Scientist,None
+Data Scientist,"Python, Machine Learning, Statistics","AWS, Firebase, CI/CD, MongoDB, DSA",BCA,Fresher,5,0,No,Data Scientist,"Machine Learning, Statistics"
+Data Scientist,"Python, Machine Learning, Statistics","DSA, Docker, System Design",M.Sc,3-5,5,0,No,Data Scientist,"Machine Learning, Statistics, Python"
+Android Developer,"Java, Kotlin, Android SDK","AWS, Git, Firebase, MongoDB",BCA,1-3,6,2,Yes,Android Developer,None
+Android Developer,"Java, Kotlin, Android SDK","DSA, Git, Firebase, Linux",BCA,0-1,2,3,Yes,Android Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Linux, AWS, System Design, CI/CD",Diploma,3-5,6,3,Yes,Backend Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","MongoDB, System Design",M.Sc,0-1,2,1,Yes,ML Engineer,None
+Java Developer,"Java, OOP, Spring","AWS, DSA, System Design",Diploma,Fresher,5,4,Yes,Java Developer,None
+Flutter Developer,"Dart, Flutter","MongoDB, Docker, System Design, DSA, Linux",B.Sc,3-5,1,4,No,Flutter Developer,"Flutter, Dart"
+Data Analyst,"Python, SQL, Excel","Docker, Linux, System Design, REST API, DSA",Diploma,0-1,2,1,Yes,Data Analyst,None
+Android Developer,"Java, Kotlin, Android SDK","MongoDB, REST API, CI/CD, Git",Diploma,1-3,1,2,No,Android Developer,"Kotlin, Java, Android SDK"
+Frontend Developer,"HTML, CSS, JavaScript","MongoDB, Git, Docker, System Design, Firebase",B.Tech,0-1,0,0,No,Frontend Developer,"HTML, JavaScript, CSS"
+Java Developer,"Java, OOP, Spring","CI/CD, Linux",BCA,3-5,6,1,Yes,Java Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","Firebase, Git, System Design",M.Sc,0-1,3,2,Yes,Data Scientist,None
+Full Stack Developer,"JavaScript, React, Node.js","AWS, Linux",Diploma,0-1,1,2,No,Full Stack Developer,JavaScript
+Backend Developer,"Java, Spring Boot, Node.js","MongoDB, Docker, Linux",BCA,1-3,1,4,No,Backend Developer,"Node.js, Java"
+Frontend Developer,"HTML, CSS, JavaScript","System Design, Git, DSA, MongoDB",MCA,3-5,6,3,Yes,Frontend Developer,None
+Data Analyst,"Python, SQL, Excel","AWS, Git, System Design, CI/CD, MongoDB",B.Tech,0-1,5,1,Yes,Data Analyst,None
+Data Analyst,"Python, SQL, Excel","Firebase, AWS, Linux, System Design, Docker",M.Sc,0-1,3,0,No,Data Analyst,"SQL, Python"
+Python Developer,"Python, Flask, Django","REST API, DSA, System Design, Git",MCA,Fresher,4,4,Yes,Python Developer,None
+Data Analyst,"Python, SQL, Excel","Docker, Linux, AWS, DSA",BCA,3-5,1,3,No,Data Analyst,Excel
+Frontend Developer,"HTML, CSS, JavaScript","System Design, CI/CD, DSA, Linux, Git",B.Tech,3-5,3,3,Yes,Frontend Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","REST API, Docker, Linux, AWS, System Design",Diploma,Fresher,2,3,Yes,ML Engineer,None
+Data Scientist,"Python, Machine Learning, Statistics","DSA, Docker, REST API, MongoDB, Git",Diploma,1-3,6,4,Yes,Data Scientist,None
+Data Scientist,"Python, Machine Learning, Statistics","System Design, Docker, Firebase, AWS",M.Sc,0-1,1,2,No,Data Scientist,Statistics
+Flutter Developer,"Dart, Flutter","Docker, System Design, Git, AWS",MCA,0-1,5,2,Yes,Flutter Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","MongoDB, Linux",M.Sc,0-1,3,4,Yes,ML Engineer,None
+Android Developer,"Java, Kotlin, Android SDK","CI/CD, MongoDB, System Design, AWS, Linux",B.Tech,3-5,0,0,No,Android Developer,"Java, Kotlin, Android SDK"
+ML Engineer,"Python, Deep Learning, TensorFlow","AWS, Docker",B.Sc,Fresher,5,0,No,ML Engineer,"Deep Learning, TensorFlow, Python"
+Flutter Developer,"Dart, Flutter","CI/CD, Git, AWS",B.Tech,3-5,5,3,Yes,Flutter Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","REST API, Linux",Diploma,3-5,2,0,No,Data Scientist,Statistics
+Backend Developer,"Java, Spring Boot, Node.js","Firebase, AWS, MongoDB",B.Sc,1-3,5,3,Yes,Backend Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","System Design, Git, Docker, CI/CD",Diploma,Fresher,5,1,Yes,Backend Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Firebase, CI/CD",Diploma,Fresher,0,4,No,ML Engineer,"TensorFlow, Deep Learning, Python"
+Frontend Developer,"HTML, CSS, JavaScript","REST API, Firebase",M.Sc,1-3,5,1,Yes,Frontend Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Git, REST API",BCA,3-5,5,0,No,ML Engineer,"Deep Learning, TensorFlow"
+Backend Developer,"Java, Spring Boot, Node.js","CI/CD, Linux, System Design, Docker",B.Sc,Fresher,2,0,No,Backend Developer,"Node.js, Spring Boot, Java"
+Data Analyst,"Python, SQL, Excel","AWS, Docker, System Design",M.Sc,0-1,1,3,No,Data Analyst,"Excel, SQL"
+Flutter Developer,"Dart, Flutter","DSA, System Design, AWS, Firebase",B.Tech,1-3,6,2,Yes,Flutter Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Firebase, Linux, System Design",B.Sc,3-5,2,0,No,Frontend Developer,"HTML, CSS, JavaScript"
+Python Developer,"Python, Flask, Django","Linux, System Design",BCA,3-5,0,1,No,Python Developer,Flask
+Java Developer,"Java, OOP, Spring","Docker, Firebase, DSA",Diploma,0-1,0,3,No,Java Developer,OOP
+ML Engineer,"Python, Deep Learning, TensorFlow","REST API, DSA, Git",B.Sc,Fresher,2,4,Yes,ML Engineer,None
+Python Developer,"Python, Flask, Django","System Design, CI/CD, AWS, Firebase, Linux",M.Sc,0-1,2,3,Yes,Python Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","AWS, Firebase, Git, System Design",B.Sc,1-3,2,4,Yes,Data Scientist,None
+Data Scientist,"Python, Machine Learning, Statistics","Git, Docker",Diploma,0-1,4,4,Yes,Data Scientist,None
+Python Developer,"Python, Flask, Django","AWS, CI/CD, REST API",MCA,0-1,4,4,Yes,Python Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","DSA, AWS, Docker",B.Tech,1-3,2,2,Yes,Frontend Developer,None
+Flutter Developer,"Dart, Flutter","Linux, Git, Docker, Firebase, AWS",M.Sc,Fresher,0,3,No,Flutter Developer,"Flutter, Dart"
+Android Developer,"Java, Kotlin, Android SDK","Git, System Design, Firebase, Linux",B.Tech,3-5,0,1,No,Android Developer,"Java, Kotlin"
+ML Engineer,"Python, Deep Learning, TensorFlow","Firebase, Git, DSA",MCA,Fresher,3,1,Yes,ML Engineer,None
+Frontend Developer,"HTML, CSS, JavaScript","DSA, System Design, Git, Docker, Linux",M.Sc,1-3,5,2,Yes,Frontend Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Linux, Docker, AWS",BCA,3-5,4,0,No,Frontend Developer,HTML
+Flutter Developer,"Dart, Flutter","CI/CD, MongoDB, DSA, AWS",MCA,1-3,3,2,Yes,Flutter Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","Firebase, System Design",M.Sc,0-1,3,3,Yes,Data Scientist,None
+ML Engineer,"Python, Deep Learning, TensorFlow","AWS, CI/CD, DSA",B.Sc,Fresher,0,0,No,ML Engineer,"Python, TensorFlow, Deep Learning"
+Data Analyst,"Python, SQL, Excel","DSA, System Design, REST API",Diploma,Fresher,3,1,Yes,Data Analyst,None
+Data Scientist,"Python, Machine Learning, Statistics","System Design, DSA, Linux, Docker",Diploma,Fresher,3,3,Yes,Data Scientist,None
+Data Scientist,"Python, Machine Learning, Statistics","DSA, AWS, Linux, REST API, MongoDB",B.Tech,3-5,1,3,No,Data Scientist,"Statistics, Python, Machine Learning"
+Data Scientist,"Python, Machine Learning, Statistics","Docker, Git",B.Tech,3-5,5,4,Yes,Data Scientist,None
+Android Developer,"Java, Kotlin, Android SDK","Firebase, Docker, REST API",MCA,0-1,5,4,Yes,Android Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","Git, DSA",B.Tech,1-3,4,0,No,Full Stack Developer,"Node.js, React, JavaScript"
+Frontend Developer,"HTML, CSS, JavaScript","REST API, System Design, Docker",M.Sc,1-3,2,1,Yes,Frontend Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","Git, Docker, AWS",MCA,0-1,3,2,Yes,Data Scientist,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Git, System Design",M.Sc,3-5,6,0,No,ML Engineer,"Python, Deep Learning"
+Data Scientist,"Python, Machine Learning, Statistics","Linux, System Design, MongoDB, CI/CD",B.Tech,0-1,2,4,Yes,Data Scientist,None
+Full Stack Developer,"JavaScript, React, Node.js","AWS, Git, DSA, REST API, Linux",M.Sc,0-1,4,1,Yes,Full Stack Developer,None
+Python Developer,"Python, Flask, Django","REST API, Docker, DSA, System Design",MCA,1-3,5,0,No,Python Developer,"Python, Django, Flask"
+Java Developer,"Java, OOP, Spring","REST API, AWS, Firebase",B.Sc,3-5,1,3,No,Java Developer,Spring
+Backend Developer,"Java, Spring Boot, Node.js","Linux, Docker, Firebase, REST API",MCA,3-5,1,2,No,Backend Developer,"Java, Spring Boot, Node.js"
+ML Engineer,"Python, Deep Learning, TensorFlow","CI/CD, System Design, Docker, Linux, MongoDB",B.Sc,Fresher,2,4,Yes,ML Engineer,None
+Java Developer,"Java, OOP, Spring","Git, System Design, Linux, REST API, Firebase",B.Tech,0-1,2,4,Yes,Java Developer,None
+Flutter Developer,"Dart, Flutter","Git, AWS, Firebase, MongoDB",M.Sc,3-5,5,1,Yes,Flutter Developer,None
+Python Developer,"Python, Flask, Django","REST API, DSA",BCA,0-1,6,4,Yes,Python Developer,None
+Data Analyst,"Python, SQL, Excel","Firebase, Git, CI/CD",B.Sc,Fresher,6,4,Yes,Data Analyst,None
+Flutter Developer,"Dart, Flutter","System Design, Firebase",M.Sc,0-1,1,2,No,Flutter Developer,"Flutter, Dart"
+Frontend Developer,"HTML, CSS, JavaScript","Linux, System Design",Diploma,3-5,3,2,Yes,Frontend Developer,None
+Android Developer,"Java, Kotlin, Android SDK","MongoDB, Firebase, Docker",B.Tech,1-3,0,0,No,Android Developer,"Android SDK, Kotlin, Java"
+Data Scientist,"Python, Machine Learning, Statistics","MongoDB, CI/CD, REST API, AWS, Docker",Diploma,0-1,1,4,No,Data Scientist,"Machine Learning, Statistics, Python"
+Java Developer,"Java, OOP, Spring","Linux, Git",BCA,3-5,2,2,Yes,Java Developer,None
+Python Developer,"Python, Flask, Django","Docker, AWS, Git, DSA, REST API",B.Sc,Fresher,5,4,Yes,Python Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","DSA, Firebase",MCA,0-1,6,2,Yes,Full Stack Developer,None
+Flutter Developer,"Dart, Flutter","Docker, Firebase, AWS, System Design, Git",MCA,Fresher,2,3,Yes,Flutter Developer,None
+Python Developer,"Python, Flask, Django","CI/CD, Linux",BCA,3-5,4,1,Yes,Python Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Docker, System Design",BCA,1-3,1,2,No,ML Engineer,"TensorFlow, Python, Deep Learning"
+Data Scientist,"Python, Machine Learning, Statistics","Docker, REST API",BCA,0-1,3,3,Yes,Data Scientist,None
+Data Analyst,"Python, SQL, Excel","REST API, DSA, Linux, Firebase, CI/CD",BCA,0-1,4,3,Yes,Data Analyst,None
+Flutter Developer,"Dart, Flutter","Docker, DSA, REST API, System Design",B.Sc,Fresher,6,1,Yes,Flutter Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","REST API, Git, CI/CD, MongoDB, AWS",M.Sc,1-3,6,2,Yes,Data Scientist,None
+Frontend Developer,"HTML, CSS, JavaScript","REST API, AWS, System Design, CI/CD, Git",Diploma,3-5,4,1,Yes,Frontend Developer,None
+Data Analyst,"Python, SQL, Excel","System Design, AWS",MCA,Fresher,3,3,Yes,Data Analyst,None
+Android Developer,"Java, Kotlin, Android SDK","AWS, MongoDB, Docker, Linux, System Design",Diploma,0-1,5,0,No,Android Developer,Android SDK
+Flutter Developer,"Dart, Flutter","Git, REST API, System Design, Docker, Linux",M.Sc,1-3,6,2,Yes,Flutter Developer,None
+Data Analyst,"Python, SQL, Excel","AWS, CI/CD, System Design, REST API, DSA",M.Sc,1-3,2,2,Yes,Data Analyst,None
+Frontend Developer,"HTML, CSS, JavaScript","Git, Docker",B.Sc,1-3,2,2,Yes,Frontend Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Docker, Git",B.Sc,3-5,3,2,Yes,Frontend Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","System Design, REST API",M.Sc,1-3,6,2,Yes,Frontend Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","CI/CD, Docker, System Design, AWS, Firebase",Diploma,1-3,1,4,No,Frontend Developer,"CSS, JavaScript, HTML"
+ML Engineer,"Python, Deep Learning, TensorFlow","CI/CD, Git, System Design, REST API",M.Sc,Fresher,3,2,Yes,ML Engineer,None
+Flutter Developer,"Dart, Flutter","Git, DSA, Firebase, System Design",BCA,3-5,4,2,Yes,Flutter Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","Firebase, DSA, Docker",M.Sc,Fresher,4,1,Yes,Full Stack Developer,None
+Java Developer,"Java, OOP, Spring","CI/CD, REST API, Linux, Firebase, DSA",B.Tech,0-1,0,1,No,Java Developer,Spring
+Android Developer,"Java, Kotlin, Android SDK","System Design, Docker",B.Tech,Fresher,3,1,Yes,Android Developer,None
+Android Developer,"Java, Kotlin, Android SDK","System Design, Git, Docker, DSA",B.Sc,Fresher,6,1,Yes,Android Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Git, Docker",BCA,1-3,0,1,No,Frontend Developer,HTML
+Python Developer,"Python, Flask, Django","Git, System Design, Linux, DSA, MongoDB",Diploma,1-3,1,2,No,Python Developer,"Python, Django, Flask"
+Data Scientist,"Python, Machine Learning, Statistics","Linux, DSA, MongoDB, CI/CD, Docker",MCA,1-3,3,3,Yes,Data Scientist,None
+Android Developer,"Java, Kotlin, Android SDK","DSA, System Design, Git",BCA,3-5,2,2,Yes,Android Developer,None
+Flutter Developer,"Dart, Flutter","CI/CD, Git, DSA, System Design, Docker",MCA,1-3,4,4,Yes,Flutter Developer,None
+Android Developer,"Java, Kotlin, Android SDK","Git, CI/CD, Firebase, REST API, AWS",BCA,0-1,2,1,Yes,Android Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","DSA, MongoDB, AWS, CI/CD",Diploma,Fresher,2,2,Yes,Frontend Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Docker, Linux, System Design",B.Sc,1-3,6,3,Yes,ML Engineer,None
+Android Developer,"Java, Kotlin, Android SDK","CI/CD, Docker, Linux, AWS",BCA,1-3,4,1,Yes,Android Developer,None
+Data Analyst,"Python, SQL, Excel","REST API, AWS",B.Tech,0-1,0,1,No,Data Analyst,"Python, Excel"
+Frontend Developer,"HTML, CSS, JavaScript","AWS, Linux",B.Tech,1-3,0,2,No,Frontend Developer,"HTML, CSS"
+ML Engineer,"Python, Deep Learning, TensorFlow","REST API, Linux, Firebase, Docker",B.Tech,3-5,1,3,No,ML Engineer,"TensorFlow, Python"
+ML Engineer,"Python, Deep Learning, TensorFlow","REST API, Git, Docker",B.Tech,Fresher,1,4,No,ML Engineer,TensorFlow
+Backend Developer,"Java, Spring Boot, Node.js","MongoDB, Docker, Firebase",MCA,1-3,0,1,No,Backend Developer,"Node.js, Spring Boot, Java"
+Backend Developer,"Java, Spring Boot, Node.js","Linux, Git",B.Sc,Fresher,0,4,No,Backend Developer,"Java, Node.js"
+Frontend Developer,"HTML, CSS, JavaScript","REST API, CI/CD, Linux, Git, AWS",M.Sc,Fresher,5,3,Yes,Frontend Developer,None
+Data Analyst,"Python, SQL, Excel","MongoDB, Linux, CI/CD, AWS, DSA",BCA,1-3,6,2,Yes,Data Analyst,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Git, CI/CD, Linux, DSA",MCA,1-3,4,4,Yes,ML Engineer,None
+Android Developer,"Java, Kotlin, Android SDK","Firebase, CI/CD, System Design, DSA, Git",Diploma,Fresher,4,1,Yes,Android Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","AWS, Firebase, MongoDB, Docker",B.Tech,3-5,1,4,No,Backend Developer,"Spring Boot, Node.js, Java"
+Frontend Developer,"HTML, CSS, JavaScript","Docker, Linux, DSA",B.Sc,Fresher,3,0,No,Frontend Developer,"HTML, JavaScript, CSS"
+ML Engineer,"Python, Deep Learning, TensorFlow","AWS, Linux",Diploma,3-5,6,4,Yes,ML Engineer,None
+Full Stack Developer,"JavaScript, React, Node.js","Git, DSA, System Design, REST API",B.Tech,0-1,1,3,No,Full Stack Developer,"React, JavaScript"
+Backend Developer,"Java, Spring Boot, Node.js","MongoDB, DSA, Linux, Docker, Firebase",M.Sc,0-1,5,3,Yes,Backend Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Firebase, Linux, MongoDB, Docker, REST API",B.Tech,1-3,6,3,Yes,Frontend Developer,None
+Data Analyst,"Python, SQL, Excel","AWS, MongoDB, Docker, REST API",MCA,0-1,5,4,Yes,Data Analyst,None
+Python Developer,"Python, Flask, Django","Git, REST API, System Design",B.Sc,0-1,3,1,Yes,Python Developer,None
+Flutter Developer,"Dart, Flutter","REST API, System Design, Firebase, Docker, DSA",B.Sc,3-5,3,4,Yes,Flutter Developer,None
+Android Developer,"Java, Kotlin, Android SDK","MongoDB, System Design, Docker, Linux, CI/CD",BCA,Fresher,5,2,Yes,Android Developer,None
+Flutter Developer,"Dart, Flutter","System Design, AWS, CI/CD",BCA,0-1,3,2,Yes,Flutter Developer,None
+Flutter Developer,"Dart, Flutter","System Design, MongoDB, CI/CD, Git, DSA",B.Sc,Fresher,4,2,Yes,Flutter Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","MongoDB, Git, Docker, AWS, Firebase",BCA,0-1,1,1,No,Data Scientist,Python
+Frontend Developer,"HTML, CSS, JavaScript","DSA, CI/CD, Docker, AWS",B.Sc,1-3,6,4,Yes,Frontend Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","MongoDB, System Design, Linux",Diploma,0-1,6,4,Yes,ML Engineer,None
+Full Stack Developer,"JavaScript, React, Node.js","REST API, AWS, DSA, MongoDB, Git",B.Tech,1-3,6,0,No,Full Stack Developer,"React, JavaScript"
+Data Scientist,"Python, Machine Learning, Statistics","System Design, AWS",B.Tech,3-5,4,1,Yes,Data Scientist,None
+Python Developer,"Python, Flask, Django","REST API, CI/CD, Git",Diploma,1-3,0,0,No,Python Developer,"Flask, Python"
+Python Developer,"Python, Flask, Django","CI/CD, Docker, REST API, Git, Linux",M.Sc,1-3,2,1,Yes,Python Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Git, AWS, Docker",BCA,3-5,1,4,No,ML Engineer,TensorFlow
+Full Stack Developer,"JavaScript, React, Node.js","Git, CI/CD, Docker",B.Sc,3-5,3,4,Yes,Full Stack Developer,None
+Data Analyst,"Python, SQL, Excel","DSA, Firebase, CI/CD",Diploma,Fresher,3,1,Yes,Data Analyst,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Docker, DSA, AWS",MCA,1-3,4,3,Yes,ML Engineer,None
+Python Developer,"Python, Flask, Django","Linux, Git, Firebase, CI/CD",Diploma,1-3,0,0,No,Python Developer,"Django, Python"
+Full Stack Developer,"JavaScript, React, Node.js","Docker, System Design",MCA,0-1,0,1,No,Full Stack Developer,"React, Node.js, JavaScript"
+Android Developer,"Java, Kotlin, Android SDK","MongoDB, Docker",M.Sc,0-1,1,4,No,Android Developer,"Java, Kotlin, Android SDK"
+Java Developer,"Java, OOP, Spring","CI/CD, Linux, Firebase, Git",MCA,3-5,5,2,Yes,Java Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","Git, MongoDB, DSA, Linux",Diploma,1-3,0,2,No,Full Stack Developer,"JavaScript, React"
+Data Scientist,"Python, Machine Learning, Statistics","MongoDB, System Design, Git, DSA, REST API",Diploma,0-1,0,1,No,Data Scientist,"Machine Learning, Statistics"
+Python Developer,"Python, Flask, Django","CI/CD, System Design, AWS, Git",B.Sc,Fresher,3,4,Yes,Python Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Linux, AWS, MongoDB, CI/CD, Firebase",M.Sc,Fresher,3,0,No,Backend Developer,"Node.js, Java, Spring Boot"
+Data Analyst,"Python, SQL, Excel","System Design, Git, MongoDB, Firebase",MCA,Fresher,2,1,Yes,Data Analyst,None
+Java Developer,"Java, OOP, Spring","System Design, REST API, Firebase, Docker, DSA",MCA,Fresher,5,0,No,Java Developer,"Java, Spring, OOP"
+Android Developer,"Java, Kotlin, Android SDK","Docker, Linux, CI/CD",M.Sc,1-3,2,0,No,Android Developer,Android SDK
+Full Stack Developer,"JavaScript, React, Node.js","Docker, System Design",BCA,0-1,0,0,No,Full Stack Developer,"React, JavaScript"
+Frontend Developer,"HTML, CSS, JavaScript","REST API, Git, AWS",MCA,3-5,0,3,No,Frontend Developer,CSS
+Backend Developer,"Java, Spring Boot, Node.js","System Design, MongoDB",BCA,0-1,3,3,Yes,Backend Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Firebase, AWS, Linux, MongoDB, REST API",M.Sc,0-1,3,3,Yes,ML Engineer,None
+Data Analyst,"Python, SQL, Excel","REST API, System Design",M.Sc,1-3,5,1,Yes,Data Analyst,None
+Android Developer,"Java, Kotlin, Android SDK","Docker, CI/CD, Git, AWS, System Design",B.Sc,0-1,1,0,No,Android Developer,"Kotlin, Java"
+Data Scientist,"Python, Machine Learning, Statistics","System Design, CI/CD",B.Tech,Fresher,2,3,Yes,Data Scientist,None
+Data Scientist,"Python, Machine Learning, Statistics","Linux, DSA, Firebase, Docker",BCA,Fresher,6,0,No,Data Scientist,"Python, Machine Learning"
+Full Stack Developer,"JavaScript, React, Node.js","Git, CI/CD",MCA,1-3,0,3,No,Full Stack Developer,"JavaScript, React"
+Android Developer,"Java, Kotlin, Android SDK","DSA, REST API",B.Sc,3-5,4,4,Yes,Android Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","MongoDB, Docker, Firebase",MCA,1-3,0,3,No,Full Stack Developer,React
+Full Stack Developer,"JavaScript, React, Node.js","Firebase, Linux",BCA,3-5,0,2,No,Full Stack Developer,"JavaScript, React"
+Python Developer,"Python, Flask, Django","MongoDB, DSA, Linux, REST API",BCA,0-1,3,0,No,Python Developer,Python
+Backend Developer,"Java, Spring Boot, Node.js","MongoDB, System Design, CI/CD, REST API, DSA",Diploma,Fresher,1,0,No,Backend Developer,"Node.js, Java, Spring Boot"
+Full Stack Developer,"JavaScript, React, Node.js","DSA, REST API, Git, Firebase, MongoDB",BCA,3-5,2,4,Yes,Full Stack Developer,None
+Python Developer,"Python, Flask, Django","Docker, CI/CD, DSA",B.Tech,3-5,4,3,Yes,Python Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","System Design, MongoDB, AWS",M.Sc,3-5,0,4,No,ML Engineer,"Deep Learning, TensorFlow, Python"
+Flutter Developer,"Dart, Flutter","AWS, System Design, Firebase, Linux",M.Sc,3-5,5,2,Yes,Flutter Developer,None
+Data Analyst,"Python, SQL, Excel","Firebase, Git, Linux, REST API",B.Sc,3-5,1,1,No,Data Analyst,Excel
+Java Developer,"Java, OOP, Spring","REST API, Linux",MCA,0-1,1,0,No,Java Developer,"Java, OOP"
+Full Stack Developer,"JavaScript, React, Node.js","Git, REST API",M.Sc,Fresher,2,4,Yes,Full Stack Developer,None
+Python Developer,"Python, Flask, Django","System Design, Linux",Diploma,0-1,3,1,Yes,Python Developer,None
+Flutter Developer,"Dart, Flutter","DSA, MongoDB, CI/CD, AWS, Git",BCA,Fresher,2,4,Yes,Flutter Developer,None
+Flutter Developer,"Dart, Flutter","System Design, DSA, MongoDB",B.Tech,1-3,1,0,No,Flutter Developer,"Flutter, Dart"
+ML Engineer,"Python, Deep Learning, TensorFlow","REST API, System Design, Docker, DSA",Diploma,3-5,2,0,No,ML Engineer,"Deep Learning, Python, TensorFlow"
+Backend Developer,"Java, Spring Boot, Node.js","AWS, System Design, DSA, Docker, Linux",MCA,Fresher,6,2,Yes,Backend Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","DSA, Linux",BCA,0-1,4,1,Yes,Frontend Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Git, Firebase, MongoDB, REST API",Diploma,0-1,0,0,No,Backend Developer,Node.js
+Full Stack Developer,"JavaScript, React, Node.js","Docker, Firebase, DSA, System Design",BCA,3-5,3,0,No,Full Stack Developer,"Node.js, JavaScript, React"
+Java Developer,"Java, OOP, Spring","Git, DSA, Firebase, Linux",Diploma,1-3,1,2,No,Java Developer,Java
+Android Developer,"Java, Kotlin, Android SDK","Linux, AWS, Firebase, CI/CD, MongoDB",B.Sc,3-5,2,1,Yes,Android Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","MongoDB, Git, Firebase, System Design",MCA,0-1,1,2,No,Backend Developer,Node.js
+ML Engineer,"Python, Deep Learning, TensorFlow","Git, Firebase, CI/CD, System Design",B.Tech,0-1,0,1,No,ML Engineer,"Python, Deep Learning, TensorFlow"
+Frontend Developer,"HTML, CSS, JavaScript","CI/CD, Docker, DSA",Diploma,1-3,0,0,No,Frontend Developer,"CSS, JavaScript"
+Frontend Developer,"HTML, CSS, JavaScript","Git, REST API, MongoDB",Diploma,3-5,6,3,Yes,Frontend Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","AWS, DSA, Firebase",MCA,3-5,3,4,Yes,Data Scientist,None
+Java Developer,"Java, OOP, Spring","CI/CD, MongoDB, System Design, Linux",B.Tech,0-1,4,0,No,Java Developer,Java
+Full Stack Developer,"JavaScript, React, Node.js","CI/CD, AWS, Docker",B.Tech,1-3,0,4,No,Full Stack Developer,"Node.js, React"
+Data Scientist,"Python, Machine Learning, Statistics","DSA, Git, MongoDB",B.Sc,Fresher,4,2,Yes,Data Scientist,None
+Data Analyst,"Python, SQL, Excel","System Design, REST API",MCA,3-5,0,2,No,Data Analyst,Python
+Full Stack Developer,"JavaScript, React, Node.js","Docker, System Design, Linux",BCA,1-3,1,1,No,Full Stack Developer,"Node.js, React"
+Android Developer,"Java, Kotlin, Android SDK","System Design, AWS",MCA,3-5,2,0,No,Android Developer,Kotlin
+Data Analyst,"Python, SQL, Excel","Firebase, DSA, MongoDB, System Design",B.Tech,0-1,4,2,Yes,Data Analyst,None
+Data Scientist,"Python, Machine Learning, Statistics","System Design, Firebase, MongoDB, DSA",B.Sc,0-1,4,1,Yes,Data Scientist,None
+Data Analyst,"Python, SQL, Excel","REST API, AWS, Docker, System Design",BCA,1-3,1,2,No,Data Analyst,"SQL, Python"
+Frontend Developer,"HTML, CSS, JavaScript","System Design, MongoDB, AWS",B.Sc,1-3,1,2,No,Frontend Developer,"CSS, HTML, JavaScript"
+Python Developer,"Python, Flask, Django","System Design, CI/CD, REST API, AWS",B.Sc,Fresher,0,3,No,Python Developer,"Flask, Python, Django"
+Frontend Developer,"HTML, CSS, JavaScript","System Design, REST API, AWS, Firebase, DSA",BCA,3-5,3,0,No,Frontend Developer,JavaScript
+Frontend Developer,"HTML, CSS, JavaScript","Firebase, Git, MongoDB, System Design, DSA",B.Sc,3-5,6,4,Yes,Frontend Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","DSA, CI/CD, Linux, System Design",MCA,3-5,3,3,Yes,Full Stack Developer,None
+Android Developer,"Java, Kotlin, Android SDK","AWS, Docker",BCA,Fresher,4,2,Yes,Android Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Linux, CI/CD, Git, Docker, AWS",B.Tech,0-1,0,3,No,Backend Developer,Spring Boot
+Backend Developer,"Java, Spring Boot, Node.js","System Design, MongoDB, CI/CD, Docker",B.Tech,0-1,6,0,No,Backend Developer,"Java, Node.js, Spring Boot"
+Full Stack Developer,"JavaScript, React, Node.js","DSA, Git",B.Sc,Fresher,5,1,Yes,Full Stack Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Docker, DSA, Linux, AWS, Firebase",MCA,1-3,6,0,No,Frontend Developer,"HTML, JavaScript"
+Frontend Developer,"HTML, CSS, JavaScript","AWS, Git",B.Sc,1-3,5,0,No,Frontend Developer,HTML
+Android Developer,"Java, Kotlin, Android SDK","Docker, System Design",M.Sc,0-1,5,2,Yes,Android Developer,None
+Flutter Developer,"Dart, Flutter","DSA, Linux, Git",Diploma,1-3,1,1,No,Flutter Developer,"Flutter, Dart"
+Full Stack Developer,"JavaScript, React, Node.js","MongoDB, System Design, Docker, Git, REST API",Diploma,0-1,3,2,Yes,Full Stack Developer,None
+Flutter Developer,"Dart, Flutter","CI/CD, MongoDB, DSA, REST API, AWS",B.Sc,1-3,0,1,No,Flutter Developer,"Dart, Flutter"
+Frontend Developer,"HTML, CSS, JavaScript","REST API, MongoDB",Diploma,0-1,2,4,Yes,Frontend Developer,None
+Android Developer,"Java, Kotlin, Android SDK","MongoDB, AWS, Firebase, Git",BCA,3-5,5,3,Yes,Android Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Firebase, Linux, DSA",B.Sc,1-3,1,4,No,ML Engineer,"TensorFlow, Deep Learning"
+Python Developer,"Python, Flask, Django","Docker, CI/CD",MCA,3-5,1,1,No,Python Developer,Flask
+Frontend Developer,"HTML, CSS, JavaScript","Linux, Docker, AWS",B.Sc,3-5,3,1,Yes,Frontend Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","Firebase, Linux",Diploma,0-1,5,2,Yes,Full Stack Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Git, System Design, Linux, Docker",BCA,0-1,2,3,Yes,Backend Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","AWS, REST API, CI/CD, MongoDB",B.Tech,3-5,4,4,Yes,Backend Developer,None
+Android Developer,"Java, Kotlin, Android SDK","Firebase, Linux, Docker, System Design",BCA,Fresher,4,4,Yes,Android Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","System Design, REST API, CI/CD, MongoDB, Docker",B.Sc,3-5,3,4,Yes,Backend Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","DSA, Firebase, REST API, Docker",Diploma,3-5,5,3,Yes,Full Stack Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","CI/CD, REST API",B.Sc,3-5,5,1,Yes,Frontend Developer,None
+Android Developer,"Java, Kotlin, Android SDK","DSA, Firebase, AWS",BCA,1-3,6,2,Yes,Android Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Linux, CI/CD, Docker",M.Sc,Fresher,4,1,Yes,ML Engineer,None
+Python Developer,"Python, Flask, Django","CI/CD, System Design, REST API",MCA,Fresher,1,4,No,Python Developer,Flask
+Frontend Developer,"HTML, CSS, JavaScript","MongoDB, Firebase, CI/CD, REST API",B.Sc,Fresher,3,1,Yes,Frontend Developer,None
+Python Developer,"Python, Flask, Django","CI/CD, Linux, DSA",B.Tech,0-1,4,4,Yes,Python Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","Firebase, MongoDB, DSA, CI/CD",B.Tech,3-5,5,3,Yes,Data Scientist,None
+Data Scientist,"Python, Machine Learning, Statistics","MongoDB, Docker, CI/CD",BCA,Fresher,4,3,Yes,Data Scientist,None
+ML Engineer,"Python, Deep Learning, TensorFlow","REST API, MongoDB, DSA, Firebase",MCA,1-3,3,2,Yes,ML Engineer,None
+Python Developer,"Python, Flask, Django","AWS, Firebase",MCA,0-1,2,2,Yes,Python Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","MongoDB, CI/CD, Docker, System Design",BCA,Fresher,1,1,No,ML Engineer,"TensorFlow, Python"
+Android Developer,"Java, Kotlin, Android SDK","Docker, MongoDB, AWS, REST API",MCA,3-5,5,3,Yes,Android Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","REST API, CI/CD, Linux",MCA,1-3,4,0,No,Full Stack Developer,JavaScript
+Android Developer,"Java, Kotlin, Android SDK","Git, Linux, System Design, AWS",M.Sc,3-5,5,0,No,Android Developer,Kotlin
+Android Developer,"Java, Kotlin, Android SDK","Docker, Git, Firebase, REST API, CI/CD",M.Sc,0-1,1,4,No,Android Developer,Kotlin
+Flutter Developer,"Dart, Flutter","CI/CD, Docker, Firebase",Diploma,0-1,4,3,Yes,Flutter Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","System Design, CI/CD, REST API",BCA,3-5,3,4,Yes,ML Engineer,None
+Java Developer,"Java, OOP, Spring","DSA, Linux, Firebase",B.Sc,1-3,0,0,No,Java Developer,Spring
+ML Engineer,"Python, Deep Learning, TensorFlow","Git, Docker, Linux, AWS",MCA,0-1,4,2,Yes,ML Engineer,None
+Backend Developer,"Java, Spring Boot, Node.js","MongoDB, CI/CD",MCA,1-3,2,4,Yes,Backend Developer,None
+Flutter Developer,"Dart, Flutter","Git, Docker, Linux, System Design, MongoDB",B.Tech,3-5,1,0,No,Flutter Developer,Flutter
+Python Developer,"Python, Flask, Django","CI/CD, Docker, REST API, MongoDB, System Design",BCA,Fresher,4,1,Yes,Python Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","DSA, CI/CD, Docker, Linux",Diploma,3-5,6,3,Yes,Data Scientist,None
+Data Analyst,"Python, SQL, Excel","CI/CD, Firebase, System Design, Git",B.Sc,Fresher,1,4,No,Data Analyst,Python
+Data Scientist,"Python, Machine Learning, Statistics","System Design, AWS, Firebase, REST API, MongoDB",M.Sc,3-5,5,1,Yes,Data Scientist,None
+Data Analyst,"Python, SQL, Excel","Git, DSA, REST API, Docker, CI/CD",Diploma,3-5,6,0,No,Data Analyst,Python
+Python Developer,"Python, Flask, Django","AWS, Docker, CI/CD, REST API, Firebase",MCA,Fresher,4,4,Yes,Python Developer,None
+Python Developer,"Python, Flask, Django","CI/CD, Docker, REST API",BCA,Fresher,3,3,Yes,Python Developer,None
+Python Developer,"Python, Flask, Django","Linux, Docker",M.Sc,0-1,6,2,Yes,Python Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","MongoDB, Git, DSA, CI/CD, Linux",B.Tech,1-3,2,3,Yes,Backend Developer,None
+Data Analyst,"Python, SQL, Excel","REST API, AWS",Diploma,Fresher,4,3,Yes,Data Analyst,None
+Frontend Developer,"HTML, CSS, JavaScript","Docker, System Design, AWS",Diploma,Fresher,1,2,No,Frontend Developer,"JavaScript, HTML"
+Data Analyst,"Python, SQL, Excel","Docker, Firebase",Diploma,1-3,6,4,Yes,Data Analyst,None
+Full Stack Developer,"JavaScript, React, Node.js","Docker, Git, DSA",B.Tech,3-5,6,3,Yes,Full Stack Developer,None
+Python Developer,"Python, Flask, Django","Git, Firebase, CI/CD",Diploma,Fresher,0,0,No,Python Developer,"Django, Flask, Python"
+Android Developer,"Java, Kotlin, Android SDK","DSA, Linux, REST API, CI/CD, AWS",Diploma,0-1,1,0,No,Android Developer,"Java, Android SDK"
+Android Developer,"Java, Kotlin, Android SDK","Git, CI/CD, Docker",B.Tech,3-5,3,4,Yes,Android Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","DSA, MongoDB, System Design, Firebase",BCA,1-3,6,3,Yes,ML Engineer,None
+Full Stack Developer,"JavaScript, React, Node.js","Firebase, CI/CD, DSA, MongoDB",B.Tech,3-5,3,1,Yes,Full Stack Developer,None
+Python Developer,"Python, Flask, Django","Linux, Firebase, CI/CD, System Design, REST API",M.Sc,3-5,0,0,No,Python Developer,"Python, Flask, Django"
+Python Developer,"Python, Flask, Django","Firebase, DSA, REST API, Linux",B.Sc,0-1,5,0,No,Python Developer,Flask
+Data Analyst,"Python, SQL, Excel","Firebase, Git, MongoDB, DSA, AWS",BCA,0-1,4,1,Yes,Data Analyst,None
+Python Developer,"Python, Flask, Django","REST API, Linux, Docker",M.Sc,1-3,5,1,Yes,Python Developer,None
+Java Developer,"Java, OOP, Spring","Git, Docker",B.Sc,0-1,2,2,Yes,Java Developer,None
+Java Developer,"Java, OOP, Spring","System Design, CI/CD, REST API, Linux",M.Sc,Fresher,6,0,No,Java Developer,Java
+Backend Developer,"Java, Spring Boot, Node.js","DSA, Firebase",M.Sc,1-3,0,0,No,Backend Developer,"Java, Node.js, Spring Boot"
+Full Stack Developer,"JavaScript, React, Node.js","MongoDB, Linux",M.Sc,1-3,3,2,Yes,Full Stack Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Docker, DSA, MongoDB, CI/CD",MCA,0-1,3,2,Yes,ML Engineer,None
+Data Scientist,"Python, Machine Learning, Statistics","Docker, CI/CD",BCA,0-1,0,0,No,Data Scientist,"Machine Learning, Python"
+Backend Developer,"Java, Spring Boot, Node.js","REST API, MongoDB, DSA",B.Tech,1-3,3,0,No,Backend Developer,"Node.js, Spring Boot"
+Android Developer,"Java, Kotlin, Android SDK","Linux, System Design, REST API",B.Sc,3-5,4,1,Yes,Android Developer,None
+Python Developer,"Python, Flask, Django","Firebase, MongoDB",M.Sc,3-5,6,2,Yes,Python Developer,None
+Java Developer,"Java, OOP, Spring","Git, REST API",M.Sc,Fresher,4,2,Yes,Java Developer,None
+Python Developer,"Python, Flask, Django","CI/CD, REST API, MongoDB",B.Tech,Fresher,1,3,No,Python Developer,Django
+Data Scientist,"Python, Machine Learning, Statistics","AWS, CI/CD, Linux, Git",B.Sc,3-5,3,2,Yes,Data Scientist,None
+Flutter Developer,"Dart, Flutter","Firebase, CI/CD, REST API",M.Sc,0-1,4,4,Yes,Flutter Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Docker, Git",MCA,3-5,0,3,No,Frontend Developer,"CSS, JavaScript"
+Android Developer,"Java, Kotlin, Android SDK","System Design, MongoDB, REST API, Git, Docker",Diploma,1-3,5,0,No,Android Developer,Android SDK
+Java Developer,"Java, OOP, Spring","Docker, Git",B.Sc,1-3,4,1,Yes,Java Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","DSA, System Design",B.Sc,1-3,3,0,No,Frontend Developer,"HTML, CSS"
+Python Developer,"Python, Flask, Django","Git, Firebase, MongoDB",MCA,0-1,0,3,No,Python Developer,"Flask, Django, Python"
+Frontend Developer,"HTML, CSS, JavaScript","DSA, Docker",BCA,1-3,3,2,Yes,Frontend Developer,None
+Flutter Developer,"Dart, Flutter","MongoDB, DSA, Docker",B.Sc,Fresher,3,2,Yes,Flutter Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","Firebase, REST API, DSA",BCA,1-3,4,1,Yes,Data Scientist,None
+Backend Developer,"Java, Spring Boot, Node.js","Git, REST API, DSA, Firebase, Linux",B.Tech,3-5,4,1,Yes,Backend Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","System Design, REST API, AWS, Docker",BCA,3-5,4,4,Yes,Full Stack Developer,None
+Flutter Developer,"Dart, Flutter","System Design, Git, DSA, MongoDB",Diploma,0-1,4,4,Yes,Flutter Developer,None
+Android Developer,"Java, Kotlin, Android SDK","Firebase, REST API, Git, System Design, DSA",B.Sc,Fresher,3,1,Yes,Android Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","MongoDB, DSA",MCA,Fresher,1,1,No,Data Scientist,Python
+Flutter Developer,"Dart, Flutter","Linux, DSA, AWS, Docker, REST API",BCA,0-1,5,3,Yes,Flutter Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","CI/CD, Git",Diploma,0-1,1,2,No,Backend Developer,"Node.js, Java, Spring Boot"
+Java Developer,"Java, OOP, Spring","Firebase, Docker, MongoDB",BCA,1-3,6,0,No,Java Developer,Spring
+Full Stack Developer,"JavaScript, React, Node.js","Git, Linux, Firebase",M.Sc,0-1,6,1,Yes,Full Stack Developer,None
+Java Developer,"Java, OOP, Spring","MongoDB, DSA, Firebase",BCA,1-3,6,1,Yes,Java Developer,None
+Java Developer,"Java, OOP, Spring","AWS, MongoDB, Docker, Git",MCA,3-5,6,2,Yes,Java Developer,None
+Android Developer,"Java, Kotlin, Android SDK","CI/CD, DSA",M.Sc,3-5,0,0,No,Android Developer,"Kotlin, Android SDK"
+Full Stack Developer,"JavaScript, React, Node.js","Docker, System Design, AWS",MCA,0-1,0,4,No,Full Stack Developer,"Node.js, JavaScript, React"
+Backend Developer,"Java, Spring Boot, Node.js","REST API, CI/CD, AWS, DSA, Git",B.Tech,1-3,5,2,Yes,Backend Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","MongoDB, Docker, DSA, Firebase, REST API",MCA,1-3,0,4,No,Frontend Developer,"CSS, JavaScript, HTML"
+Python Developer,"Python, Flask, Django","AWS, Linux, System Design",M.Sc,Fresher,4,1,Yes,Python Developer,None
+Flutter Developer,"Dart, Flutter","Firebase, DSA",M.Sc,Fresher,2,0,No,Flutter Developer,Dart
+Android Developer,"Java, Kotlin, Android SDK","Firebase, System Design, AWS",B.Tech,0-1,4,3,Yes,Android Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","AWS, MongoDB",BCA,3-5,6,3,Yes,Data Scientist,None
+Java Developer,"Java, OOP, Spring","CI/CD, Git",Diploma,3-5,3,2,Yes,Java Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","AWS, Firebase",BCA,1-3,5,4,Yes,Data Scientist,None
+Python Developer,"Python, Flask, Django","MongoDB, AWS, System Design, REST API, Firebase",B.Sc,3-5,6,2,Yes,Python Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Git, Linux, MongoDB",BCA,1-3,4,2,Yes,ML Engineer,None
+Android Developer,"Java, Kotlin, Android SDK","Git, AWS, System Design, CI/CD, Linux",B.Sc,3-5,6,1,Yes,Android Developer,None
+Java Developer,"Java, OOP, Spring","REST API, CI/CD, MongoDB, Docker",BCA,Fresher,6,0,No,Java Developer,"Java, Spring"
+Data Analyst,"Python, SQL, Excel","Git, REST API, DSA",MCA,3-5,0,4,No,Data Analyst,"SQL, Excel"
+Java Developer,"Java, OOP, Spring","AWS, CI/CD",MCA,Fresher,1,3,No,Java Developer,Spring
+ML Engineer,"Python, Deep Learning, TensorFlow","Linux, Git, AWS",B.Sc,0-1,3,4,Yes,ML Engineer,None
+Frontend Developer,"HTML, CSS, JavaScript","CI/CD, Firebase, Git, System Design, Docker",B.Tech,0-1,0,1,No,Frontend Developer,"HTML, JavaScript, CSS"
+Frontend Developer,"HTML, CSS, JavaScript","Docker, Linux",M.Sc,Fresher,0,4,No,Frontend Developer,"CSS, JavaScript"
+Data Scientist,"Python, Machine Learning, Statistics","CI/CD, DSA, System Design",B.Sc,Fresher,2,1,Yes,Data Scientist,None
+ML Engineer,"Python, Deep Learning, TensorFlow","REST API, CI/CD, Docker, DSA",BCA,3-5,0,2,No,ML Engineer,"Python, Deep Learning, TensorFlow"
+Android Developer,"Java, Kotlin, Android SDK","Docker, DSA, MongoDB, Firebase",BCA,Fresher,4,0,No,Android Developer,"Java, Kotlin"
+Android Developer,"Java, Kotlin, Android SDK","Git, DSA, CI/CD, Linux, System Design",BCA,0-1,6,3,Yes,Android Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Firebase, System Design, Docker, REST API",MCA,Fresher,3,2,Yes,Backend Developer,None
+Data Analyst,"Python, SQL, Excel","Docker, MongoDB, Git, Firebase",M.Sc,Fresher,2,2,Yes,Data Analyst,None
+Full Stack Developer,"JavaScript, React, Node.js","AWS, MongoDB",BCA,3-5,3,0,No,Full Stack Developer,"JavaScript, React"
+ML Engineer,"Python, Deep Learning, TensorFlow","Git, Linux",B.Tech,Fresher,5,3,Yes,ML Engineer,None
+Frontend Developer,"HTML, CSS, JavaScript","Firebase, DSA, AWS",M.Sc,0-1,0,1,No,Frontend Developer,"CSS, JavaScript, HTML"
+Flutter Developer,"Dart, Flutter","Linux, AWS, System Design",B.Tech,0-1,1,0,No,Flutter Developer,Dart
+Data Analyst,"Python, SQL, Excel","MongoDB, Linux, DSA, Git",Diploma,Fresher,0,1,No,Data Analyst,"Python, Excel"
+Python Developer,"Python, Flask, Django","CI/CD, System Design, Firebase, DSA",M.Sc,3-5,4,1,Yes,Python Developer,None
+Java Developer,"Java, OOP, Spring","DSA, System Design, REST API",B.Tech,3-5,6,3,Yes,Java Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","System Design, CI/CD, REST API, Git",B.Tech,1-3,3,1,Yes,ML Engineer,None
+Flutter Developer,"Dart, Flutter","DSA, System Design, MongoDB, Firebase, Git",M.Sc,1-3,3,4,Yes,Flutter Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","AWS, Firebase, Git, DSA, REST API",B.Tech,0-1,6,3,Yes,Full Stack Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","AWS, Git, DSA, REST API",MCA,0-1,1,1,No,Data Scientist,Statistics
+Backend Developer,"Java, Spring Boot, Node.js","DSA, MongoDB, Git, AWS, REST API",B.Tech,Fresher,0,2,No,Backend Developer,"Java, Spring Boot, Node.js"
+Java Developer,"Java, OOP, Spring","Git, Linux, CI/CD, DSA, MongoDB",B.Sc,Fresher,0,4,No,Java Developer,OOP
+Data Scientist,"Python, Machine Learning, Statistics","MongoDB, System Design, Firebase, CI/CD",Diploma,Fresher,1,3,No,Data Scientist,"Statistics, Machine Learning, Python"
+Backend Developer,"Java, Spring Boot, Node.js","Git, System Design, CI/CD",B.Tech,Fresher,0,0,No,Backend Developer,Spring Boot
+Python Developer,"Python, Flask, Django","Firebase, DSA, MongoDB",B.Sc,0-1,1,3,No,Python Developer,"Django, Python, Flask"
+Frontend Developer,"HTML, CSS, JavaScript","Linux, Firebase, REST API, CI/CD",Diploma,0-1,6,1,Yes,Frontend Developer,None
+Data Analyst,"Python, SQL, Excel","Git, Docker, DSA, System Design",M.Sc,0-1,6,4,Yes,Data Analyst,None
+Flutter Developer,"Dart, Flutter","REST API, DSA",B.Sc,1-3,3,4,Yes,Flutter Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","REST API, AWS, MongoDB, System Design, DSA",B.Sc,1-3,2,3,Yes,Backend Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Git, Docker, Firebase, MongoDB, Linux",B.Tech,0-1,3,1,Yes,Backend Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Firebase, Docker",B.Tech,Fresher,6,0,No,Backend Developer,"Node.js, Java, Spring Boot"
+Data Scientist,"Python, Machine Learning, Statistics","System Design, DSA, CI/CD",M.Sc,Fresher,2,0,No,Data Scientist,"Statistics, Python, Machine Learning"
+Java Developer,"Java, OOP, Spring","REST API, Linux, DSA, Git",B.Sc,Fresher,4,0,No,Java Developer,OOP
+Android Developer,"Java, Kotlin, Android SDK","System Design, Firebase, MongoDB",BCA,3-5,1,0,No,Android Developer,"Kotlin, Java, Android SDK"
+Full Stack Developer,"JavaScript, React, Node.js","Docker, Firebase, DSA, REST API, System Design",Diploma,1-3,3,2,Yes,Full Stack Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Git, DSA, Docker, MongoDB, Linux",B.Sc,0-1,1,4,No,ML Engineer,TensorFlow
+Data Analyst,"Python, SQL, Excel","Firebase, Linux, MongoDB, REST API, System Design",BCA,0-1,0,2,No,Data Analyst,SQL
+ML Engineer,"Python, Deep Learning, TensorFlow","Git, Firebase, System Design",Diploma,1-3,2,3,Yes,ML Engineer,None
+Flutter Developer,"Dart, Flutter","System Design, CI/CD, Docker, Git",M.Sc,0-1,3,3,Yes,Flutter Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","REST API, Docker, Firebase",B.Sc,3-5,0,0,No,Data Scientist,"Python, Machine Learning"
+Full Stack Developer,"JavaScript, React, Node.js","CI/CD, AWS",BCA,Fresher,4,4,Yes,Full Stack Developer,None
+Data Analyst,"Python, SQL, Excel","AWS, Linux, Firebase",BCA,1-3,2,3,Yes,Data Analyst,None
+Java Developer,"Java, OOP, Spring","AWS, MongoDB, System Design",B.Sc,3-5,2,2,Yes,Java Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","DSA, Linux, REST API",BCA,1-3,4,0,No,ML Engineer,Python
+ML Engineer,"Python, Deep Learning, TensorFlow","Linux, Firebase, Git, System Design, REST API",Diploma,1-3,6,4,Yes,ML Engineer,None
+Backend Developer,"Java, Spring Boot, Node.js","REST API, AWS, DSA, CI/CD, Firebase",B.Sc,3-5,4,0,No,Backend Developer,"Java, Spring Boot"
+Data Analyst,"Python, SQL, Excel","Git, AWS, MongoDB, Firebase, DSA",M.Sc,1-3,6,1,Yes,Data Analyst,None
+Android Developer,"Java, Kotlin, Android SDK","MongoDB, DSA, Firebase, Docker",Diploma,3-5,3,4,Yes,Android Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","REST API, System Design, DSA",Diploma,3-5,1,0,No,Full Stack Developer,JavaScript
+Flutter Developer,"Dart, Flutter","DSA, Docker, CI/CD, REST API, AWS",MCA,1-3,6,1,Yes,Flutter Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","REST API, Firebase, MongoDB",MCA,0-1,0,1,No,Data Scientist,"Python, Machine Learning"
+Full Stack Developer,"JavaScript, React, Node.js","CI/CD, Firebase",B.Sc,Fresher,6,1,Yes,Full Stack Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Git, MongoDB, AWS",BCA,0-1,4,3,Yes,Frontend Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","Git, MongoDB, System Design",BCA,0-1,6,4,Yes,Data Scientist,None
+Frontend Developer,"HTML, CSS, JavaScript","CI/CD, System Design",M.Sc,3-5,1,1,No,Frontend Developer,"CSS, JavaScript, HTML"
+Backend Developer,"Java, Spring Boot, Node.js","Linux, System Design, MongoDB, DSA",BCA,0-1,1,1,No,Backend Developer,"Node.js, Spring Boot"
+Android Developer,"Java, Kotlin, Android SDK","System Design, Docker",MCA,0-1,4,1,Yes,Android Developer,None
+Flutter Developer,"Dart, Flutter","AWS, System Design, Git, Docker, Firebase",B.Tech,1-3,5,0,No,Flutter Developer,Dart
+Python Developer,"Python, Flask, Django","CI/CD, REST API, System Design, Linux",MCA,0-1,6,3,Yes,Python Developer,None
+Java Developer,"Java, OOP, Spring","AWS, Git, Docker",Diploma,Fresher,3,0,No,Java Developer,"Spring, OOP"
+Data Scientist,"Python, Machine Learning, Statistics","Firebase, DSA, AWS, REST API, Linux",B.Tech,Fresher,6,3,Yes,Data Scientist,None
+Frontend Developer,"HTML, CSS, JavaScript","Firebase, REST API, MongoDB, CI/CD, Git",B.Sc,0-1,1,3,No,Frontend Developer,JavaScript
+Data Scientist,"Python, Machine Learning, Statistics","System Design, Docker, Linux, REST API",MCA,0-1,4,1,Yes,Data Scientist,None
+Backend Developer,"Java, Spring Boot, Node.js","System Design, MongoDB, Docker, DSA, Git",B.Sc,0-1,0,3,No,Backend Developer,"Spring Boot, Node.js"
+Data Scientist,"Python, Machine Learning, Statistics","AWS, REST API, Firebase, Linux",Diploma,1-3,0,3,No,Data Scientist,"Python, Machine Learning"
+Data Analyst,"Python, SQL, Excel","Firebase, DSA, MongoDB, Linux",BCA,Fresher,1,4,No,Data Analyst,"SQL, Excel"
+Android Developer,"Java, Kotlin, Android SDK","Firebase, Git, AWS, Linux",B.Tech,3-5,3,0,No,Android Developer,Kotlin
+Backend Developer,"Java, Spring Boot, Node.js","Git, Docker, CI/CD, Firebase",B.Sc,0-1,0,3,No,Backend Developer,"Node.js, Spring Boot"
+Backend Developer,"Java, Spring Boot, Node.js","MongoDB, DSA, Firebase",MCA,1-3,4,0,No,Backend Developer,"Java, Node.js, Spring Boot"
+ML Engineer,"Python, Deep Learning, TensorFlow","System Design, Git, Firebase, Linux",BCA,3-5,6,3,Yes,ML Engineer,None
+Backend Developer,"Java, Spring Boot, Node.js","REST API, AWS, System Design, Firebase",B.Tech,Fresher,4,2,Yes,Backend Developer,None
+Android Developer,"Java, Kotlin, Android SDK","System Design, MongoDB, DSA, AWS",B.Sc,Fresher,3,0,No,Android Developer,"Kotlin, Android SDK, Java"
+Backend Developer,"Java, Spring Boot, Node.js","Git, Firebase, MongoDB, Docker, DSA",B.Tech,Fresher,5,0,No,Backend Developer,"Node.js, Java"
+ML Engineer,"Python, Deep Learning, TensorFlow","DSA, Docker, Firebase, CI/CD",MCA,1-3,2,4,Yes,ML Engineer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","AWS, System Design, DSA, MongoDB",MCA,0-1,5,0,No,ML Engineer,"Deep Learning, TensorFlow, Python"
+Flutter Developer,"Dart, Flutter","MongoDB, Git, Firebase, DSA",B.Sc,3-5,1,0,No,Flutter Developer,"Flutter, Dart"
+Python Developer,"Python, Flask, Django","Firebase, Git, Docker",B.Tech,3-5,1,0,No,Python Developer,"Django, Flask, Python"
+Python Developer,"Python, Flask, Django","CI/CD, REST API, AWS, Firebase",B.Tech,1-3,0,4,No,Python Developer,"Django, Python, Flask"
+Android Developer,"Java, Kotlin, Android SDK","DSA, Git, REST API, Docker, Firebase",Diploma,Fresher,0,3,No,Android Developer,"Android SDK, Java, Kotlin"
+Data Analyst,"Python, SQL, Excel","Docker, Linux",B.Tech,Fresher,0,1,No,Data Analyst,Excel
+Data Analyst,"Python, SQL, Excel","MongoDB, Linux, System Design",B.Tech,3-5,3,4,Yes,Data Analyst,None
+Python Developer,"Python, Flask, Django","Linux, Git",Diploma,0-1,0,1,No,Python Developer,Python
+Java Developer,"Java, OOP, Spring","Linux, MongoDB, DSA, Docker",Diploma,1-3,5,4,Yes,Java Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Git, REST API, AWS",B.Tech,Fresher,1,0,No,ML Engineer,"Deep Learning, Python"
+Data Analyst,"Python, SQL, Excel","Firebase, CI/CD, Linux, Git, MongoDB",Diploma,Fresher,5,1,Yes,Data Analyst,None
+Flutter Developer,"Dart, Flutter","REST API, DSA, Firebase, Docker, CI/CD",BCA,3-5,3,2,Yes,Flutter Developer,None
+Data Analyst,"Python, SQL, Excel","REST API, DSA",MCA,0-1,2,3,Yes,Data Analyst,None
+Java Developer,"Java, OOP, Spring","System Design, Linux",MCA,3-5,4,0,No,Java Developer,Spring
+ML Engineer,"Python, Deep Learning, TensorFlow","MongoDB, Firebase, Git, DSA",BCA,3-5,6,2,Yes,ML Engineer,None
+Flutter Developer,"Dart, Flutter","DSA, REST API, MongoDB",MCA,Fresher,5,3,Yes,Flutter Developer,None
+Flutter Developer,"Dart, Flutter","Firebase, Git",B.Tech,0-1,2,1,Yes,Flutter Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Firebase, REST API",Diploma,3-5,3,0,No,Backend Developer,"Spring Boot, Java, Node.js"
+Backend Developer,"Java, Spring Boot, Node.js","CI/CD, Firebase, REST API, Docker, Git",B.Sc,0-1,4,1,Yes,Backend Developer,None
+Full Stack Developer,"JavaScript, React, Node.js","REST API, Firebase, Docker, System Design",Diploma,Fresher,4,1,Yes,Full Stack Developer,None
+Flutter Developer,"Dart, Flutter","CI/CD, Docker, System Design, Linux, DSA",MCA,3-5,1,4,No,Flutter Developer,Flutter
+Data Analyst,"Python, SQL, Excel","MongoDB, AWS, Firebase",BCA,3-5,3,2,Yes,Data Analyst,None
+Frontend Developer,"HTML, CSS, JavaScript","Git, CI/CD",B.Tech,Fresher,3,3,Yes,Frontend Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Docker, REST API, DSA",B.Tech,3-5,3,3,Yes,ML Engineer,None
+Frontend Developer,"HTML, CSS, JavaScript","REST API, MongoDB, Docker",B.Tech,1-3,1,4,No,Frontend Developer,"HTML, JavaScript"
+Data Scientist,"Python, Machine Learning, Statistics","CI/CD, Firebase, MongoDB",Diploma,3-5,2,4,Yes,Data Scientist,None
+Data Scientist,"Python, Machine Learning, Statistics","DSA, AWS",B.Tech,0-1,1,2,No,Data Scientist,Machine Learning
+Data Scientist,"Python, Machine Learning, Statistics","System Design, MongoDB",B.Sc,Fresher,4,4,Yes,Data Scientist,None
+Data Scientist,"Python, Machine Learning, Statistics","Firebase, Docker, AWS, MongoDB",M.Sc,Fresher,5,4,Yes,Data Scientist,None
+Data Scientist,"Python, Machine Learning, Statistics","DSA, MongoDB, Firebase",BCA,Fresher,1,4,No,Data Scientist,"Statistics, Python, Machine Learning"
+Java Developer,"Java, OOP, Spring","DSA, Git, MongoDB",B.Sc,3-5,2,4,Yes,Java Developer,None
+Flutter Developer,"Dart, Flutter","Firebase, CI/CD, System Design, REST API, AWS",Diploma,3-5,2,4,Yes,Flutter Developer,None
+Java Developer,"Java, OOP, Spring","Docker, REST API, System Design, Firebase, Linux",B.Tech,1-3,5,3,Yes,Java Developer,None
+Java Developer,"Java, OOP, Spring","AWS, System Design, MongoDB",M.Sc,1-3,3,3,Yes,Java Developer,None
+Flutter Developer,"Dart, Flutter","CI/CD, MongoDB, Firebase",B.Sc,3-5,4,2,Yes,Flutter Developer,None
+Data Analyst,"Python, SQL, Excel","REST API, System Design, MongoDB",M.Sc,3-5,5,4,Yes,Data Analyst,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Linux, CI/CD, AWS, DSA",B.Tech,1-3,6,1,Yes,ML Engineer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","System Design, DSA, Docker, REST API",B.Tech,Fresher,5,0,No,ML Engineer,TensorFlow
+Full Stack Developer,"JavaScript, React, Node.js","AWS, CI/CD",BCA,3-5,4,4,Yes,Full Stack Developer,None
+Java Developer,"Java, OOP, Spring","Linux, Docker, DSA",MCA,Fresher,4,4,Yes,Java Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","MongoDB, Git, CI/CD, Firebase, DSA",B.Tech,3-5,0,4,No,Data Scientist,"Statistics, Machine Learning, Python"
+Frontend Developer,"HTML, CSS, JavaScript","Docker, Linux",Diploma,3-5,0,0,No,Frontend Developer,"JavaScript, HTML, CSS"
+Frontend Developer,"HTML, CSS, JavaScript","Git, REST API",B.Sc,Fresher,4,3,Yes,Frontend Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","MongoDB, REST API, Docker, System Design",BCA,3-5,4,2,Yes,Data Scientist,None
+Backend Developer,"Java, Spring Boot, Node.js","AWS, System Design, DSA, REST API",B.Sc,Fresher,4,0,No,Backend Developer,Java
+Flutter Developer,"Dart, Flutter","CI/CD, DSA",MCA,Fresher,5,4,Yes,Flutter Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","AWS, REST API, Docker",Diploma,3-5,5,1,Yes,Backend Developer,None
+Data Scientist,"Python, Machine Learning, Statistics","REST API, CI/CD, AWS, Firebase, DSA",BCA,Fresher,6,3,Yes,Data Scientist,None
+Python Developer,"Python, Flask, Django","Firebase, CI/CD",MCA,3-5,0,4,No,Python Developer,Flask
+Data Analyst,"Python, SQL, Excel","MongoDB, REST API, AWS",MCA,3-5,6,3,Yes,Data Analyst,None
+Data Scientist,"Python, Machine Learning, Statistics","REST API, AWS, DSA",BCA,Fresher,3,2,Yes,Data Scientist,None
+Full Stack Developer,"JavaScript, React, Node.js","MongoDB, Docker, DSA, Linux, AWS",BCA,0-1,5,3,Yes,Full Stack Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","MongoDB, Firebase, Git, System Design, CI/CD",MCA,0-1,1,3,No,ML Engineer,"Deep Learning, TensorFlow"
+Java Developer,"Java, OOP, Spring","MongoDB, CI/CD, DSA, System Design",Diploma,1-3,3,2,Yes,Java Developer,None
+Data Analyst,"Python, SQL, Excel","AWS, Docker, DSA, CI/CD, MongoDB",B.Sc,3-5,6,4,Yes,Data Analyst,None
+Python Developer,"Python, Flask, Django","CI/CD, REST API, Firebase, DSA, Docker",B.Sc,Fresher,5,0,No,Python Developer,"Python, Flask, Django"
+Frontend Developer,"HTML, CSS, JavaScript","Firebase, DSA, Linux, System Design",BCA,Fresher,2,1,Yes,Frontend Developer,None
+ML Engineer,"Python, Deep Learning, TensorFlow","Docker, CI/CD, Linux, Git",MCA,3-5,1,3,No,ML Engineer,Python
+Full Stack Developer,"JavaScript, React, Node.js","REST API, MongoDB",M.Sc,1-3,0,4,No,Full Stack Developer,JavaScript
+Data Analyst,"Python, SQL, Excel","DSA, REST API, Docker",BCA,1-3,4,4,Yes,Data Analyst,None
+Java Developer,"Java, OOP, Spring","Git, MongoDB, DSA, AWS, CI/CD",B.Sc,1-3,4,4,Yes,Java Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Firebase, REST API",Diploma,1-3,4,1,Yes,Backend Developer,None
+Python Developer,"Python, Flask, Django","DSA, AWS, Firebase, CI/CD, REST API",B.Sc,Fresher,3,2,Yes,Python Developer,None
+Flutter Developer,"Dart, Flutter","Linux, REST API, System Design, MongoDB, CI/CD",B.Sc,Fresher,4,2,Yes,Flutter Developer,None
+Data Analyst,"Python, SQL, Excel","Docker, Firebase, AWS, CI/CD, System Design",MCA,3-5,1,3,No,Data Analyst,"SQL, Excel"
+Data Analyst,"Python, SQL, Excel","System Design, Firebase, DSA",MCA,Fresher,6,2,Yes,Data Analyst,None
+Flutter Developer,"Dart, Flutter","CI/CD, REST API, AWS",MCA,3-5,1,0,No,Flutter Developer,Flutter
+Java Developer,"Java, OOP, Spring","Linux, System Design, AWS",Diploma,Fresher,2,2,Yes,Java Developer,None
+Java Developer,"Java, OOP, Spring","MongoDB, CI/CD, Docker, REST API, AWS",MCA,Fresher,3,3,Yes,Java Developer,None
+Data Analyst,"Python, SQL, Excel","AWS, System Design, Git, MongoDB, Firebase",B.Tech,3-5,3,2,Yes,Data Analyst,None
+Backend Developer,"Java, Spring Boot, Node.js","Docker, REST API",MCA,3-5,2,4,Yes,Backend Developer,None
+Data Analyst,"Python, SQL, Excel","Git, Linux, REST API",B.Sc,3-5,6,3,Yes,Data Analyst,None
+Data Scientist,"Python, Machine Learning, Statistics","AWS, Git, REST API, System Design, DSA",MCA,0-1,0,3,No,Data Scientist,Statistics
+Data Scientist,"Python, Machine Learning, Statistics","Firebase, System Design, MongoDB",B.Sc,3-5,1,2,No,Data Scientist,"Statistics, Machine Learning"
+Android Developer,"Java, Kotlin, Android SDK","Linux, Git, AWS, System Design",Diploma,1-3,6,3,Yes,Android Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","AWS, MongoDB, Docker, CI/CD",BCA,3-5,2,1,Yes,Backend Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","AWS, REST API, CI/CD, Firebase",BCA,Fresher,0,1,No,Frontend Developer,"CSS, JavaScript, HTML"
+Python Developer,"Python, Flask, Django","MongoDB, Firebase",BCA,3-5,5,2,Yes,Python Developer,None
+Backend Developer,"Java, Spring Boot, Node.js","Docker, CI/CD, Linux, System Design, DSA",MCA,Fresher,4,4,Yes,Backend Developer,None
+Frontend Developer,"HTML, CSS, JavaScript","Firebase, Linux, CI/CD, AWS",B.Tech,1-3,5,0,No,Frontend Developer,"HTML, CSS, JavaScript"
+Full Stack Developer,"JavaScript, React, Node.js","Linux, CI/CD, Firebase",B.Sc,Fresher,3,4,Yes,Full Stack Developer,None
+Flutter Developer,"Dart, Flutter","CI/CD, AWS",B.Sc,Fresher,5,2,Yes,Flutter Developer,None
+Java Developer,"Java, OOP, Spring","AWS, Firebase",Diploma,0-1,5,4,Yes,Java Developer,None
+Flutter Developer,"Dart, Flutter","Git, MongoDB, Linux",B.Sc,1-3,1,2,No,Flutter Developer,Dart
+Backend Developer,"Java, Spring Boot, Node.js","Git, Docker, Linux, CI/CD, REST API",B.Sc,0-1,4,3,Yes,Backend Developer,None
+Data Analyst,"Python, SQL, Excel","REST API, DSA, Docker, System Design",B.Tech,3-5,5,2,Yes,Data Analyst,None
+Flutter Developer,"Dart, Flutter","DSA, Firebase, MongoDB, Git, Docker",BCA,Fresher,1,4,No,Flutter Developer,"Dart, Flutter"
+Full Stack Developer,"JavaScript, React, Node.js","DSA, AWS, MongoDB",M.Sc,Fresher,2,3,Yes,Full Stack Developer,None

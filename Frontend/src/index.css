@@ -69,3 +69,162 @@ button:focus-visible {
 @import "tailwindcss";
 @plugin "daisyui";
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 222 47% 5%;
+    --foreground: 210 40% 98%;
+
+    --card: 222 47% 8%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222 47% 8%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 250 100% 70%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 217 33% 17%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 217 33% 17%;
+    --muted-foreground: 215 20% 65%;
+
+    --accent: 280 100% 70%;
+    --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 217 33% 20%;
+    --input: 217 33% 15%;
+    --ring: 250 100% 70%;
+
+    --radius: 0.75rem;
+
+    /* Custom gradient colors */
+    --gradient-blue: 220 100% 60%;
+    --gradient-purple: 270 100% 60%;
+    --gradient-pink: 330 100% 65%;
+    --gradient-cyan: 190 100% 60%;
+
+    /* Glassmorphism */
+    --glass-bg: 222 47% 11% / 0.6;
+    --glass-border: 217 33% 30% / 0.3;
+    --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+
+    /* Glow effects */
+    --glow-primary: 250 100% 70% / 0.3;
+    --glow-accent: 280 100% 70% / 0.2;
+  }
+
+  .dark {
+    --background: 222 47% 5%;
+    --foreground: 210 40% 98%;
+  }
+}
+
+@layer base {
+  
+
+  body {
+   
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+@layer components {
+  .gradient-background {
+    background: linear-gradient(
+      135deg,
+      hsl(var(--background)) 0%,
+      hsl(220 50% 8%) 25%,
+      hsl(260 40% 10%) 50%,
+      hsl(280 35% 8%) 75%,
+      hsl(var(--background)) 100%
+    );
+    position: relative;
+    overflow: hidden;
+  }
+
+  .gradient-background::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: 
+      radial-gradient(ellipse 80% 50% at 20% 40%, hsl(var(--gradient-blue) / 0.15), transparent),
+      radial-gradient(ellipse 60% 40% at 80% 60%, hsl(var(--gradient-purple) / 0.12), transparent),
+      radial-gradient(ellipse 50% 30% at 50% 80%, hsl(var(--gradient-pink) / 0.1), transparent);
+    animation: gradient-shift 15s ease-in-out infinite;
+    pointer-events: none;
+  }
+
+  .glass-card {
+    background: hsl(var(--glass-bg));
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid hsl(var(--glass-border));
+    box-shadow: var(--glass-shadow);
+  }
+
+  .input-glow:focus-within {
+    box-shadow: 0 0 0 2px hsl(var(--glow-primary)), 0 0 20px hsl(var(--glow-primary));
+  }
+
+  .btn-glow {
+    box-shadow: 0 0 20px hsl(var(--glow-primary));
+  }
+
+  .btn-glow:hover {
+    box-shadow: 0 0 30px hsl(var(--glow-primary)), 0 0 60px hsl(var(--glow-accent));
+  }
+}
+
+@layer utilities {
+  .text-gradient {
+    background: linear-gradient(135deg, hsl(var(--gradient-blue)), hsl(var(--gradient-purple)), hsl(var(--gradient-pink)));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .border-gradient {
+    border-image: linear-gradient(135deg, hsl(var(--gradient-blue)), hsl(var(--gradient-purple))) 1;
+  }
+}
+
+@keyframes gradient-shift {
+  0%, 100% {
+    transform: translateX(0) translateY(0) scale(1);
+    opacity: 1;
+  }
+  33% {
+    transform: translateX(5%) translateY(-5%) scale(1.05);
+    opacity: 0.8;
+  }
+  66% {
+    transform: translateX(-5%) translateY(5%) scale(0.95);
+    opacity: 0.9;
+  }
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes pulse-glow {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
