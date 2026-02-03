@@ -25,7 +25,7 @@ const handleProfileClick=()=>{
 
     <div className="navbar  bg-base-100 shadow-sm">
   <div className="flex-1 justify-around">
-    <a className="btn btn-ghost text-xl  ">daisyUI</a>
+    <a className="btn btn-ghost text-xl  ">AI-Powered Resume Analysis</a>
   </div>
   <div className="flex-none">
    
