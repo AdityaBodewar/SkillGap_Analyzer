@@ -18,3 +18,11 @@ def parse_resume(file):
     found_skills = [skill for skill in SKILLS_DB if skill in text]
 
     return text, found_skills
+
+
+
+
+
+
+
+
