@@ -2,9 +2,16 @@ from flask import Blueprint, jsonify,request
 from App import extensions
 from App.Auth import Generate_Token,IdentityOfUser,isAdmin
 from bson import ObjectId
-from App.Analyzer import analyze_resume
+from App.Analyzer import analyze_resume_v2
 import requests
+import pandas as pd
+import os
 
+try:
+    df = pd.read_csv("job_readiness_dataset.csv")
+except Exception as e:
+    print(f"Warning: Could not load dataset: {e}")
+    df = None
 
 user_bp = Blueprint("users", __name__)
 
@@ -123,25 +130,26 @@ def Dashboard(user_id):
 
 @user_bp.route("/analyze", methods=["POST"])
 def analyze():
-    # 1️⃣ Check if resume file is provided
     if "resume" not in request.files:
-        return jsonify({"status": "error", "message": "No resume file provided"}), 400
+        return jsonify({"status": "error", "message": "No file"}), 400
 
     file = request.files["resume"]
+    target_role = request.form.get("target_role") # Ensure this is 'target_role'
 
-    # 2️⃣ Save file temporarily (optional) or read directly
     file_path = f"./temp_{file.filename}"
     file.save(file_path)
 
-    # 3️⃣ Analyze resume
-    result = analyze_resume(file_path)
-
-    # 4️⃣ Remove temp file if you want
-    # import os
-    # os.remove(file_path)
-
-    # 5️⃣ Return the result as JSON
-    return jsonify(result)
+    try:
+        # Pass the global 'df'
+        result = analyze_resume_v2(file_path, df, target_job_title=target_role)
+        os.remove(file_path)
+        
+        # If engine returned error, send 400, else 200
+        code = 200 if result["status"] == "success" else 400
+        return jsonify(result), code
+    except Exception as e:
+        if os.path.exists(file_path): os.remove(file_path)
+        return jsonify({"status": "error", "message": str(e)}), 500
 
 
 

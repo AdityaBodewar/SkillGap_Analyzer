@@ -29,14 +29,14 @@ if (!Token)
 {
    return (
     <div className="min-h-screen gradient-background">
-      
+       <NavBar/>
       <HeroSection />
       {/* <ResumeUploadSection /> */}
-      <HowItWorksSection />
+      {/* <HowItWorksSection />
       <FeaturesSection />
       <VisualExplanationSection />
       <WhyChooseUsSection />
-      <CTASection />
+      <CTASection /> */}
     </div>
   );
 
@@ -47,10 +47,10 @@ else{
       <NavBar/>
       <HeroSection />
       {/* <ResumeUploadSection /> */}
-      <HowItWorksSection />
+      {/* <HowItWorksSection />
       <FeaturesSection />
       <VisualExplanationSection />
-      <WhyChooseUsSection />
+      <WhyChooseUsSection /> */}
      
     </div>
   );

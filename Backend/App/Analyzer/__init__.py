@@ -1,81 +1,128 @@
 import pdfplumber
 import spacy
 import pandas as pd
-from sklearn.preprocessing import MultiLabelBinarizer
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics.pairwise import cosine_similarity
-from sklearn.feature_extraction.text import CountVectorizer
 import numpy as np
+import re
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.feature_extraction.text import TfidfVectorizer
 
-# ------------------ Load NLP ------------------
-nlp = spacy.load("en_core_web_sm")
+# ------------------ Configuration & NLP ------------------
+try:
+    nlp = spacy.load("en_core_web_sm")
+except OSError:
+    # Fallback if model isn't downloaded
+    import os
+    os.system("python -m spacy download en_core_web_sm")
+    nlp = spacy.load("en_core_web_sm")
 
-# ------------------ Load Dataset ------------------
-df = pd.read_csv("job_readiness_dataset.csv")  # replace with your CSV path
+# Load your dataset
+# df = pd.read_csv("job_readiness_dataset.csv") 
 
-# Combine main and additional skills
-df['skills_list'] = df.apply(
-    lambda row: [s.strip().lower() for s in str(row['main_skill']).split(",")] + 
-                [s.strip().lower() for s in str(row['additional_skills']).split(",")],
-    axis=1
-)
+# ------------------ Core Helper Functions ------------------
 
-# Binarize skills for ML model
-all_skills = list({skill for skills in df['skills_list'] for skill in skills})
-mlb = MultiLabelBinarizer(classes=all_skills)
-X_skills = mlb.fit_transform(df['skills_list'])
-
-# Encode target
-y_ready = df['is_user_ready_for_job'].apply(lambda x: 1 if str(x).lower()=='yes' else 0)
-
-# Train ML model for job readiness
-clf_ready = RandomForestClassifier(n_estimators=100, random_state=42)
-clf_ready.fit(X_skills, y_ready)
-
-# ------------------ Resume Parsing ------------------
-def parse_resume(file_path):
-    text = ""
-    with pdfplumber.open(file_path) as pdf:
-        for page in pdf.pages:
-            text += page.extract_text() or ""
+def clean_text(text):
+    """Professional text cleaning for better matching"""
     text = text.lower()
-    
-    # Extract skills
-    found_skills = [skill for skill in all_skills if skill in text]
-    
-    if not found_skills:
-        return None, "Resume does not contain sufficient information for assessment."
-    
-    return found_skills, None
+    # Remove special characters but keep C++, C#, .NET etc.
+    text = re.sub(r'[^a-zA-Z0-9+#.\s]', '', text)
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text
 
-# ------------------ Skill Gap / Job Recommendation ------------------
-def analyze_resume(file_path):
-    user_skills, error = parse_resume(file_path)
-    if error:
-        return {"status": "error", "message": error}
-    
-    # Job Readiness Prediction
-    user_vector = mlb.transform([user_skills])
-    ready_pred = clf_ready.predict(user_vector)[0]
-    readiness = "Job Ready" if ready_pred==1 else "Not Job Ready"
-    
-    # Find similar jobs from dataset
-    df['skill_overlap'] = df['skills_list'].apply(lambda skills: len(set(skills) & set(user_skills)))
-    best_jobs = df.sort_values(by='skill_overlap', ascending=False)['job_role'].unique()[:3].tolist()
-    
-    # Determine missing skills for top job
-    top_job_skills = df[df['job_role']==best_jobs[0]]['skills_list'].iloc[0]
-    missing_skills = list(set(top_job_skills) - set(user_skills))
-    
-    # Build roadmap
-    roadmap = [{"skill": s.title(), "duration": "1-2 weeks",
-                "resource": f"Learn {s.title()} from online resources"} for s in missing_skills]
-    
-    return {
-        "status": "success",
-        "job_readiness": readiness,
-        "matched_skills": user_skills,
-        "missing_skills": missing_skills,
-        "best_fit_jobs": best_jobs,
-        "skill_roadmap": roadmap
-    }
+def extract_text_from_pdf(file_path):
+    """Safely extract and clean text from PDF"""
+    full_text = ""
+    try:
+        with pdfplumber.open(file_path) as pdf:
+            for page in pdf.pages:
+                page_text = page.extract_text()
+                if page_text:
+                    full_text += page_text + " "
+        return clean_text(full_text)
+    except Exception as e:
+        print(f"Error parsing PDF: {e}")
+        return None
+
+def get_skills_from_text(text, skill_library):
+    """Extracts known skills from raw text using boundary matching"""
+    found_skills = []
+    for skill in skill_library:
+        # Use regex to find exact matches only (preventing 'java' matching in 'javascript')
+        pattern = r'\b' + re.escape(skill.lower()) + r'\b'
+        if re.search(pattern, text):
+            found_skills.append(skill.lower())
+    return list(set(found_skills))
+
+# ------------------ Main Analysis Engine ------------------
+def analyze_resume_v2(file_path, df, target_job_title=None):
+    try:
+        # 1. Prepare Resume Data
+        resume_text = extract_text_from_pdf(file_path)
+        if not resume_text:
+            return {"status": "error", "message": "PDF is unreadable or empty."}
+        
+        # Build skill library from CSV
+        all_possible_skills = set()
+        for col in ['main_skill', 'additional_skills']:
+            df[col].dropna().apply(lambda x: [all_possible_skills.add(s.strip().lower()) for s in str(x).split(',')])
+        
+        user_skills = get_skills_from_text(resume_text, all_possible_skills)
+        if not user_skills:
+            return {"status": "error", "message": "No technical skills identified."}
+
+        # 2. Robust Job Selection (The Fix for 422)
+        target_df = pd.DataFrame()
+        if target_job_title:
+            # Try exact match first
+            target_df = df[df['job_role'].str.contains(re.escape(target_job_title), case=False, na=False)]
+        
+        # Fallback: If title not found or not provided, pick the job with highest skill overlap
+        if target_df.empty:
+            df['temp_match'] = df['main_skill'].apply(lambda x: len(set(str(x).lower().split(',')) & set(user_skills)))
+            target_df = df.sort_values(by='temp_match', ascending=False).head(1)
+
+        row = target_df.iloc[0]
+
+        # 3. Calculation Logic
+        required_skills = [s.strip().lower() for s in str(row['main_skill']).split(",") if s.strip()]
+        bonus_skills = [s.strip().lower() for s in str(row['additional_skills']).split(",") if s.strip()]
+        
+        main_matches = set(user_skills) & set(required_skills)
+        bonus_matches = set(user_skills) & set(bonus_skills)
+        
+        score_num = (len(main_matches) * 2.0) + (len(bonus_matches) * 1.0)
+        score_den = (len(required_skills) * 2.0) + (len(bonus_skills) * 1.0)
+        
+        # Avoid Division by Zero
+        weighted_match_percentage = (score_num / score_den) * 100 if score_den > 0 else 0
+
+        # 4. Semantic Similarity
+        corpus = [" ".join(user_skills), " ".join(required_skills + bonus_skills)]
+        vectorizer = TfidfVectorizer()
+        tfidf_matrix = vectorizer.fit_transform(corpus)
+        semantic_sim = cosine_similarity(tfidf_matrix[0:1], tfidf_matrix[1:2])[0][0]
+
+        # 5. Result Generation
+        is_ready = weighted_match_percentage >= 70
+        missing_skills = list(set(required_skills) - set(user_skills))
+
+        return {
+            "status": "success",
+            "match_score": f"{round(weighted_match_percentage, 1)}%",
+            "semantic_similarity": round(float(semantic_sim), 2),
+            "job_readiness": "Job Ready" if is_ready else "Needs Upskilling",
+            "matched_skills": list(main_matches | bonus_matches),
+            "missing_skills": missing_skills[:5], # Limit to top 5
+            "target_role": row['job_role'],
+            "skill_roadmap": [
+                {"skill": s.title(), "priority": "Critical", "timeframe": "2 Weeks"} 
+                for s in missing_skills[:3]
+            ]
+        }
+    except Exception as e:
+        return {"status": "error", "message": f"Internal Engine Error: {str(e)}"}
+
+# ------------------ Example Usage ------------------
+# if __name__ == "__main__":
+#     dataset = pd.read_csv("your_data.csv")
+#     results = analyze_resume_v2("my_resume.pdf", dataset, "Backend Developer")
+#     print(results)
