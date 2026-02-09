@@ -10,7 +10,7 @@ secret=os.getenv("SECRET")
 
 def Generate_Token(userId,Role):
     
-    payload={"userId":userId,"Role":Role,"exp":datetime.utcnow()+timedelta(hours=1)}
+    payload={"userId":userId,"Role":Role}
     token=jwt.encode(payload,secret,algorithm="HS256")
     return token
 
