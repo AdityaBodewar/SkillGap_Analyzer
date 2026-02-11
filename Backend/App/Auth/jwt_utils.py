@@ -17,9 +17,3 @@ def Generate_Token(userId,Role):
 def Decode_Token(token):
         decode=jwt.decode(token,secret,algorithms="HS256")
         return decode
-   
-        
-
-
-
-        
